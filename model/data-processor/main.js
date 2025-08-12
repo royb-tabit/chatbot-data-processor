@@ -1,5 +1,7 @@
+const tdCatalog = require('../model/db/tdCatalog');
+
 async function getTdCatalogFromDB(organisationId) {
-    return undefined;
+    return tdCatalog.getCatalog(organisationId);
 }
 
 async function createMenu(tdCatalog) {
