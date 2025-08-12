@@ -1,0 +1,180 @@
+{
+  "food": [
+    {
+      "sold": 587,
+      "offerId": "5fffe836259fa30efa671784",
+      "offerName": "אורמאקי דג",
+      "rank": 1
+    },
+    {
+      "sold": 461,
+      "offerId": "5fffe849e32a7c49d9105af1",
+      "offerName": "פאד תאי",
+      "rank": 2
+    },
+    {
+      "sold": 372,
+      "offerId": "5fffe86056123beb66ef1219",
+      "offerName": "סאן פלה",
+      "rank": 3
+    },
+    {
+      "sold": 311,
+      "offerId": "5fffe82556123b4571ef111d",
+      "offerName": "מאקי דג",
+      "rank": 4
+    },
+    {
+      "sold": 287,
+      "offerId": "6011499c86e2f54b8a386d91",
+      "offerName": "באנים",
+      "rank": 5
+    },
+    {
+      "sold": 249,
+      "offerId": "5fffe821749a45741f8676b6",
+      "offerName": "סלמון תאי",
+      "rank": 6
+    },
+    {
+      "sold": 224,
+      "offerId": "5fffe80856123ba517ef109b",
+      "offerName": "גולדן רום",
+      "rank": 7
+    },
+    {
+      "sold": 220,
+      "offerId": "5fffe849749a4542a486776b",
+      "offerName": "המעושנת",
+      "rank": 8
+    },
+    {
+      "sold": 210,
+      "offerId": "5fffe814e32a7c92e8105a02",
+      "offerName": "ספייסי סלמון רול",
+      "rank": 9
+    },
+    {
+      "sold": 206,
+      "offerId": "677d3f40416bb8a3807250e4",
+      "offerName": "ספייסי אנזו",
+      "rank": 10
+    },
+    {
+      "sold": 201,
+      "offerId": "5fffe81456123b1766ef10d9",
+      "offerName": "מגורו גומא",
+      "rank": 11
+    },
+    {
+      "sold": 193,
+      "offerId": "6317017060d699961696f295",
+      "offerName": "ספרינג רום",
+      "rank": 12
+    },
+    {
+      "sold": 191,
+      "offerId": "64b2acfa3a35a1890b273213",
+      "offerName": "אורמאקי דג",
+      "rank": 13
+    },
+    {
+      "sold": 175,
+      "offerId": "5fffe814259fa382f06716f0",
+      "offerName": "טונה אוסקה",
+      "rank": 14
+    },
+    {
+      "sold": 173,
+      "offerId": "5fffe80556123bb245ef1087",
+      "offerName": "ספיישל סלמון אפוי",
+      "rank": 15
+    },
+    {
+      "sold": 147,
+      "offerId": "5fffe81356123bb5d9ef10cf",
+      "offerName": "טייגר רול",
+      "rank": 16
+    },
+    {
+      "sold": 147,
+      "offerId": "5fffe81f259fa3b47c671720",
+      "offerName": "נודלס ילדים",
+      "rank": 17
+    },
+    {
+      "sold": 140,
+      "offerId": "5fffe80d749a452be786765f",
+      "offerName": "אורמאקי צמחוני",
+      "rank": 18
+    },
+    {
+      "sold": 128,
+      "offerId": "5fffe821e32a7c98de105a3c",
+      "offerName": "מאקי צמחוני",
+      "rank": 19
+    },
+    {
+      "sold": 122,
+      "offerId": "5fffe80756123b2ab6ef1093",
+      "offerName": "בטטה קראנץ",
+      "rank": 20
+    }
+  ],
+  "beverages": [
+    {
+      "sold": 61,
+      "offerId": "5fffe821259fa302d567172c",
+      "offerName": "קולה זירו",
+      "rank": 1
+    },
+    {
+      "sold": 20,
+      "offerId": "5fffe81f56123b11c0ef1109",
+      "offerName": "פיוז טי",
+      "rank": 2
+    },
+    {
+      "sold": 16,
+      "offerId": "5fffe827749a456f628676cc",
+      "offerName": "קוקה קולה",
+      "rank": 3
+    },
+    {
+      "sold": 9,
+      "offerId": "5fffe81d56123bcf27ef10ff",
+      "offerName": "ספרייט זירו",
+      "rank": 4
+    },
+    {
+      "sold": 7,
+      "offerId": "5fffe817259fa36b626716fe",
+      "offerName": "מים מינרלים",
+      "rank": 5
+    },
+    {
+      "sold": 5,
+      "offerId": "62f23d5988a02b1d85b42f1a",
+      "offerName": "בירה קירין בקבוק משלוחים",
+      "rank": 6
+    },
+    {
+      "sold": 5,
+      "offerId": "5fffe81756123b66f4ef10e3",
+      "offerName": "סודה",
+      "rank": 7
+    },
+    {
+      "sold": 5,
+      "offerId": "5fffe82256123b50b0ef1113",
+      "offerName": "ספרייט",
+      "rank": 8
+    },
+    {
+      "sold": 3,
+      "offerId": "5fffe807749a45116f867649",
+      "offerName": "תפוחים צלול",
+      "rank": 9
+    }
+  ]
+}
