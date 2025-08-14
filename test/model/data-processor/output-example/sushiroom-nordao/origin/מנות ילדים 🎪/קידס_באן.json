@@ -1,0 +1,18 @@
+{
+  "name": "קידס באן",
+  "description": "שתי לחמניות באן מאודה עם חזה עוף בציפוי פנקו וקטשופ.",
+  "tags": [
+    "מנות ילדים 🎪"
+  ],
+  "item": "684fce591c64b30725d12301",
+  "offer": "684fce591c64b30725d11353",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d1280e",
+      "modGroup": "684fce591c64b30725d12302"
+    }
+  ],
+  "price": 44
+}

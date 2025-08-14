@@ -1,0 +1,22 @@
+{
+  "name": "מרק טום יאם קטן",
+  "description": "מרק טום יאם תאילנדי פיקנטי מרענן, מגיע עם 3 יח שרימפס/דג/טופו , אטריות שעועית, פטריות, עגבניות שרי, כוסברה, חלב קוקוס, בצל ירוק וצילי טרי \n\n*ללא גלוטן 🌾\nפיקנטי 🌶",
+  "tags": [
+    "מרקים 🥣"
+  ],
+  "item": "684fce591c64b30725d11edb",
+  "offer": "684fce591c64b30725d11532",
+  "menu": "684fce591c64b30725d1126c",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d1272b",
+      "modGroup": "684fce591c64b30725d11edc"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12730",
+      "modGroup": "684fce591c64b30725d11edd"
+    }
+  ],
+  "price": 46
+}

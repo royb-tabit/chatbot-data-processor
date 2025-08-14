@@ -1,0 +1,22 @@
+{
+  "name": "קנפאצי",
+  "description": "דניס, אספרגוס, אבוקדו, עטוף דניס, גרידת לימון ומיונז ליים",
+  "tags": [
+    "ספיישל סושי  ⭐️"
+  ],
+  "item": "684fce591c64b30725d12314",
+  "offer": "684fce591c64b30725d117de",
+  "menu": "684fce591c64b30725d1126c",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d12a30",
+      "modGroup": "684fce591c64b30725d12315"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12528",
+      "modGroup": "684fce591c64b30725d1231b"
+    }
+  ],
+  "price": 72
+}

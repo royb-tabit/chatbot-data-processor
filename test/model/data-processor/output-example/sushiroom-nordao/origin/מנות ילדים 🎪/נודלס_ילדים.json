@@ -1,0 +1,22 @@
+{
+  "name": "נודלס ילדים",
+  "description": "אטריות ביצים ברוטב מתקתק עם גזר, ניתן לקחת עם עוף או טופו.\nשימו לב - המנה חדשה ומגיעה עם גזר 🥕 (ניתן לבקש ללא גזר)",
+  "tags": [
+    "מנות ילדים 🎪"
+  ],
+  "item": "684fce591c64b30725d11f1f",
+  "offer": "684fce591c64b30725d1138a",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d12938",
+      "modGroup": "684fce591c64b30725d11f20"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d126e4",
+      "modGroup": "684fce591c64b30725d11f22"
+    }
+  ],
+  "price": 48
+}

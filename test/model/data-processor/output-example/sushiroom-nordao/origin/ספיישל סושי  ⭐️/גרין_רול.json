@@ -1,0 +1,26 @@
+{
+  "name": "גרין רול",
+  "description": "אספרגוס, מלפפון, אבוקדו עטוף באבוקדו איולי טבעוני ועירית",
+  "tags": [
+    "ספיישל סושי  ⭐️"
+  ],
+  "item": "684fce591c64b30725d11ae8",
+  "offer": "684fce591c64b30725d11350",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d1267d",
+      "modGroup": "684fce591c64b30725d11ae9"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12681",
+      "modGroup": "684fce591c64b30725d11aed"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12685",
+      "modGroup": "684fce591c64b30725d11af1"
+    }
+  ],
+  "price": 56
+}

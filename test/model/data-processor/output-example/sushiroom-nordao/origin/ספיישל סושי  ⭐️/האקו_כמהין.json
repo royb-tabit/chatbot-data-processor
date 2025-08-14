@@ -1,0 +1,30 @@
+{
+  "name": "האקו כמהין",
+  "description": "דניס טמפורה (או דניס נא), מלפפון ושיטאקי עטוף באבוקדו ורוטב כמהין טריאקי",
+  "tags": [
+    "ספיישל סושי  ⭐️"
+  ],
+  "item": "684fce591c64b30725d11b33",
+  "offer": "684fce591c64b30725d11738",
+  "menu": "684fce591c64b30725d1126c",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d12994",
+      "modGroup": "684fce591c64b30725d11b34"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12962",
+      "modGroup": "684fce591c64b30725d11b35"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12965",
+      "modGroup": "684fce591c64b30725d11b38"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12968",
+      "modGroup": "684fce591c64b30725d11b3b"
+    }
+  ],
+  "price": 62
+}

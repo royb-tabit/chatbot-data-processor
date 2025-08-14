@@ -1,0 +1,22 @@
+{
+  "name": "טמאקי דג",
+  "description": null,
+  "tags": [
+    "טמאקי - קונוס"
+  ],
+  "item": "684fce591c64b30725d11ced",
+  "offer": "684fce591c64b30725d1144b",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d12595",
+      "modGroup": "684fce591c64b30725d11cee"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12563",
+      "modGroup": "684fce591c64b30725d11cef"
+    }
+  ],
+  "price": 0
+}

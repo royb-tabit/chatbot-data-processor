@@ -1,0 +1,18 @@
+{
+  "name": "סביצ'ה סלמון",
+  "description": "קוביות סלמון ואבוקדו עם בצל סגול, כוסברה, פרוסות צ'ילי חריף ואיקורה מעל.\n\n*פיקנטי",
+  "tags": [
+    "סלטים 🥗"
+  ],
+  "item": "684fce591c64b30725d11fd0",
+  "offer": "684fce591c64b30725d113ae",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d1249c",
+      "modGroup": "684fce591c64b30725d11fd1"
+    }
+  ],
+  "price": 56
+}

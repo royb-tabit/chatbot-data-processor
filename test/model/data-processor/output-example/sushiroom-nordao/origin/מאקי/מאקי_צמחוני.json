@@ -1,0 +1,18 @@
+{
+  "name": "מאקי צמחוני",
+  "description": null,
+  "tags": [
+    "מאקי"
+  ],
+  "item": "684fce591c64b30725d11e3e",
+  "offer": "684fce591c64b30725d1139f",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d1256f",
+      "modGroup": "684fce591c64b30725d11e3f"
+    }
+  ],
+  "price": 36
+}

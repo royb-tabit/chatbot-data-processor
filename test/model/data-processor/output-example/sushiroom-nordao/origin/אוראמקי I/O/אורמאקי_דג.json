@@ -1,0 +1,26 @@
+{
+  "name": "אורמאקי דג",
+  "description": "אינסייד אווט 8 יח בהרכבה, דג לבחירה ו 2 ירקות, מגיע עם שומשום מעל.",
+  "tags": [
+    "אוראמקי I\\O"
+  ],
+  "item": "684fce591c64b30725d118b4",
+  "offer": "684fce591c64b30725d1144a",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d1257a",
+      "modGroup": "684fce591c64b30725d118b5"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12563",
+      "modGroup": "684fce591c64b30725d118b6"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12584",
+      "modGroup": "684fce591c64b30725d118b7"
+    }
+  ],
+  "price": 0
+}

@@ -1,0 +1,18 @@
+{
+  "name": "טמאקי צמחוני",
+  "description": null,
+  "tags": [
+    "טמאקי - קונוס"
+  ],
+  "item": "684fce591c64b30725d11d08",
+  "offer": "684fce591c64b30725d1129d",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d1256f",
+      "modGroup": "684fce591c64b30725d11d09"
+    }
+  ],
+  "price": 36
+}

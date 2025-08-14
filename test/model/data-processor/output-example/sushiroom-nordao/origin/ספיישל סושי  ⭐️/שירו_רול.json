@@ -1,0 +1,26 @@
+{
+  "name": "שירו רול",
+  "description": "סלמון אבוקדו ובטטה, עטוף סשימי דניס צרוב, קריספי שאלוט, קרם יוזו אבוקדו וטוביקו שחור",
+  "tags": [
+    "ספיישל סושי  ⭐️"
+  ],
+  "item": "684fce591c64b30725d123c0",
+  "offer": "684fce591c64b30725d11754",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d129b4",
+      "modGroup": "684fce591c64b30725d123c1"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d129b8",
+      "modGroup": "684fce591c64b30725d123c5"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d129bb",
+      "modGroup": "684fce591c64b30725d123c8"
+    }
+  ],
+  "price": 68
+}

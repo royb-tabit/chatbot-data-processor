@@ -1,0 +1,30 @@
+{
+  "name": "אורמאקי דג (ללא גלוטן)",
+  "description": null,
+  "tags": [
+    "סושי ללא גלוטן 🌾"
+  ],
+  "item": "684fce591c64b30725d118c1",
+  "offer": "684fce591c64b30725d1159d",
+  "menu": "684fce591c64b30725d1126c",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d127ee",
+      "modGroup": "684fce591c64b30725d118c2"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12789",
+      "modGroup": "684fce591c64b30725d118c3"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12790",
+      "modGroup": "684fce591c64b30725d118c4"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d127eb",
+      "modGroup": "684fce591c64b30725d118c5"
+    }
+  ],
+  "price": 0
+}

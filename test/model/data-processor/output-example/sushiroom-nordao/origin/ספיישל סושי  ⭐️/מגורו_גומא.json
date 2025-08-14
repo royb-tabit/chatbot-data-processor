@@ -1,0 +1,26 @@
+{
+  "name": "מגורו גומא",
+  "description": "טונה, אבוקדו ומלפפון עטוף טונה, רוטב גומא וטוביקו שחור.",
+  "tags": [
+    "ספיישל סושי  ⭐️"
+  ],
+  "item": "684fce591c64b30725d11e5d",
+  "offer": "684fce591c64b30725d1132c",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d12635",
+      "modGroup": "684fce591c64b30725d11e5e"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12638",
+      "modGroup": "684fce591c64b30725d11e61"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d1263b",
+      "modGroup": "684fce591c64b30725d11e64"
+    }
+  ],
+  "price": 72
+}

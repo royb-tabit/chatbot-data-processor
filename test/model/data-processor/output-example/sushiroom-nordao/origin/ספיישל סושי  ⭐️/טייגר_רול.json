@@ -1,0 +1,30 @@
+{
+  "name": "טייגר רול",
+  "description": "שרימפס טמפורה, אבוקדו ומלפפון עטוף בשבבי טמפורה ובצל ירוק.",
+  "tags": [
+    "ספיישל סושי  ⭐️"
+  ],
+  "item": "684fce591c64b30725d11cc6",
+  "offer": "684fce591c64b30725d1131c",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d12609",
+      "modGroup": "684fce591c64b30725d11cc7"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d1260d",
+      "modGroup": "684fce591c64b30725d11ccb"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12610",
+      "modGroup": "684fce591c64b30725d11cce"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d125ab",
+      "modGroup": "684fce591c64b30725d11ccf"
+    }
+  ],
+  "price": 58
+}

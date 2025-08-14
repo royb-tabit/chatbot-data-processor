@@ -1,0 +1,30 @@
+{
+  "name": "ווג'י רום",
+  "description": "שיטאקי, מלפפון, אבוקדו עטוף שבבי טמפורה, איולי טבעוני, רוטב סלק ופרוסות צ'ילי טרי.\n\nטבעוני 🌿",
+  "tags": [
+    "ספיישל סושי  ⭐️"
+  ],
+  "item": "684fce591c64b30725d11ba7",
+  "offer": "684fce591c64b30725d11303",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d12640",
+      "modGroup": "684fce591c64b30725d11ba8"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12645",
+      "modGroup": "684fce591c64b30725d11bad"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12649",
+      "modGroup": "684fce591c64b30725d11bb1"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12524",
+      "modGroup": "684fce591c64b30725d11bb2"
+    }
+  ],
+  "price": 52
+}

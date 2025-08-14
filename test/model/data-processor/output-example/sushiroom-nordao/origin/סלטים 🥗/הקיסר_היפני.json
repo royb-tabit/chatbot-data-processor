@@ -1,0 +1,18 @@
+{
+  "name": "הקיסר היפני",
+  "description": "חסות, צנונית, מלפפון, חזה עוף, ביצה רכה, קרוטוני בריוש, פרמזן רוטב קיסר יוזו\n*הרוטב מכיל פרמזן",
+  "tags": [
+    "סלטים 🥗"
+  ],
+  "item": "684fce591c64b30725d11b83",
+  "offer": "684fce591c64b30725d115c3",
+  "menu": "684fce591c64b30725d1126c",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d127da",
+      "modGroup": "684fce591c64b30725d11b84"
+    }
+  ],
+  "price": 66
+}

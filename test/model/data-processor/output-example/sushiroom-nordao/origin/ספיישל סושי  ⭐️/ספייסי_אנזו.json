@@ -1,0 +1,22 @@
+{
+  "name": "ספייסי אנזו",
+  "description": "ספייסי סלמון, טמפורה, אבוקדו, מלפפון, עטוף סלמון ספייסי מיונז ופניני אורז",
+  "tags": [
+    "ספיישל סושי  ⭐️"
+  ],
+  "item": "684fce591c64b30725d120e2",
+  "offer": "684fce591c64b30725d117df",
+  "menu": "684fce591c64b30725d1126c",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d12a36",
+      "modGroup": "684fce591c64b30725d120e3"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12528",
+      "modGroup": "684fce591c64b30725d120e9"
+    }
+  ],
+  "price": 68
+}

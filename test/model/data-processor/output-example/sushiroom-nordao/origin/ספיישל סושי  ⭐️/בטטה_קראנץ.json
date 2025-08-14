@@ -1,0 +1,26 @@
+{
+  "name": "בטטה קראנץ",
+  "description": "בטטה טמפורה, אבוקדו, מלפפון עטוף בשבבי בטטה ובצל ירוק.\n\n*טבעוני",
+  "tags": [
+    "ספיישל סושי  ⭐️"
+  ],
+  "item": "684fce591c64b30725d119ed",
+  "offer": "684fce591c64b30725d112b2",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d1264d",
+      "modGroup": "684fce591c64b30725d119ee"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12650",
+      "modGroup": "684fce591c64b30725d119f1"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12654",
+      "modGroup": "684fce591c64b30725d119f5"
+    }
+  ],
+  "price": 52
+}

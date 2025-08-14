@@ -1,0 +1,1015 @@
+{
+  "684fce591c64b30725d12a93": {
+    "name": "באנים - לפי 1 יח'",
+    "items": {
+      "באן בקר": {
+        "_id": {
+          "_id": "684fce591c64b30725d119a0"
+        },
+        "category": {
+          "id": "5582c80d0f3b0d03007388b1",
+          "_id": "5582c80d0f3b0d03007388b1"
+        },
+        "price": 29,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d124a1",
+            "modGroup": "684fce591c64b30725d119a1"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d1280c",
+            "modGroup": "684fce591c64b30725d119a7"
+          }
+        ]
+      },
+      "באן דג": {
+        "_id": {
+          "_id": "684fce591c64b30725d119af"
+        },
+        "category": {
+          "id": "5582c80d0f3b0d03007388b1",
+          "_id": "5582c80d0f3b0d03007388b1"
+        },
+        "price": 29,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d12418",
+            "modGroup": "684fce591c64b30725d119b0"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d1280c",
+            "modGroup": "684fce591c64b30725d119b5"
+          }
+        ]
+      },
+      "באן טורי-סלמון": {
+        "_id": {
+          "_id": "684fce591c64b30725d119d3"
+        },
+        "category": {
+          "id": "5582c80d0f3b0d03007388b1",
+          "_id": "5582c80d0f3b0d03007388b1"
+        },
+        "price": 29,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d127e2",
+            "modGroup": "684fce591c64b30725d119d4"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d1280c",
+            "modGroup": "684fce591c64b30725d119da"
+          }
+        ]
+      },
+      "באן טופו (חדש)": {
+        "_id": {
+          "_id": "684fce591c64b30725d119c6",
+          "disabled": true
+        },
+        "category": {
+          "id": "5582c80d0f3b0d03007388b1",
+          "_id": "5582c80d0f3b0d03007388b1"
+        },
+        "price": 29,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d12a3f",
+            "modGroup": "684fce591c64b30725d119c7"
+          }
+        ]
+      }
+    },
+    "selectionCount": null,
+    "minSelectionCount": 1
+  },
+  "684fce591c64b30725d12aa6": {
+    "name": "בחר כמות",
+    "items": {
+      "2 ספרינג רום": {
+        "_id": {
+          "_id": "684fce591c64b30725d11831"
+        },
+        "category": {
+          "id": "5582c7749b983603000dffdc",
+          "_id": "5582c7749b983603000dffdc"
+        },
+        "price": 42,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d127fd",
+            "modGroup": "684fce591c64b30725d11832"
+          }
+        ]
+      },
+      "4 ספרינג רום": {
+        "_id": {
+          "_id": "684fce591c64b30725d11840"
+        },
+        "category": {
+          "id": "5582c7749b983603000dffdc",
+          "_id": "5582c7749b983603000dffdc"
+        },
+        "price": 68,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d127fd",
+            "modGroup": "684fce591c64b30725d11841"
+          }
+        ]
+      }
+    },
+    "selectionCount": 10,
+    "minSelectionCount": 1
+  },
+  "684fce591c64b30725d12aa7": {
+    "name": "בחר כמות",
+    "items": {
+      "גיוזה פרגית 3": {
+        "_id": {
+          "_id": "684fce591c64b30725d11aba"
+        },
+        "category": {
+          "id": "5582c7749b983603000dffdc",
+          "_id": "5582c7749b983603000dffdc"
+        },
+        "price": 36,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d12728",
+            "modGroup": "684fce591c64b30725d11abb"
+          }
+        ]
+      },
+      "גיוזה פרגית 5": {
+        "_id": {
+          "_id": "684fce591c64b30725d11ac1"
+        },
+        "category": {
+          "id": "5582c7749b983603000dffdc",
+          "_id": "5582c7749b983603000dffdc"
+        },
+        "price": 55,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d12728",
+            "modGroup": "684fce591c64b30725d11ac2"
+          }
+        ]
+      }
+    },
+    "selectionCount": 10,
+    "minSelectionCount": 1
+  },
+  "684fce591c64b30725d12aa9": {
+    "name": "בחר כמות",
+    "items": {
+      "גיוזה ירוקה 3": {
+        "_id": {
+          "_id": "684fce591c64b30725d11aaf"
+        },
+        "category": {
+          "id": "5582c7749b983603000dffdc",
+          "_id": "5582c7749b983603000dffdc"
+        },
+        "price": 36,
+        "modifierGroups": null
+      },
+      "גיוזה ירוקה 5": {
+        "_id": {
+          "_id": "684fce591c64b30725d11ab0"
+        },
+        "category": {
+          "id": "5582c7749b983603000dffdc",
+          "_id": "5582c7749b983603000dffdc"
+        },
+        "price": 55,
+        "modifierGroups": null
+      }
+    },
+    "selectionCount": 10,
+    "minSelectionCount": 1
+  },
+  "684fce591c64b30725d12aa2": {
+    "name": "אקסטרה בצד -",
+    "items": {
+      "כוסברה": {
+        "_id": {
+          "_id": "684fce591c64b30725d11dde"
+        },
+        "category": {
+          "id": "5d639276dbc28d74a6583741",
+          "_id": "5d639276dbc28d74a6583741"
+        },
+        "price": 1,
+        "modifierGroups": null
+      },
+      "בוטנים קצוצים": {
+        "_id": {
+          "_id": "684fce591c64b30725d119dd"
+        },
+        "category": {
+          "id": "5d639276dbc28d74a6583741",
+          "_id": "5d639276dbc28d74a6583741"
+        },
+        "price": 1,
+        "modifierGroups": null
+      },
+      "שמן צ'ילי": {
+        "_id": {
+          "_id": "684fce591c64b30725d123d5"
+        },
+        "category": {
+          "id": "5d639276dbc28d74a6583741",
+          "_id": "5d639276dbc28d74a6583741"
+        },
+        "price": 1,
+        "modifierGroups": null
+      },
+      "צילי טרי": {
+        "_id": {
+          "_id": "684fce591c64b30725d12296"
+        },
+        "category": {
+          "id": "5bed2f24c5d8ae0100a5d026",
+          "_id": "5bed2f24c5d8ae0100a5d026"
+        },
+        "price": 1,
+        "modifierGroups": null
+      }
+    }
+  },
+  "684fce591c64b30725d12aa4": {
+    "name": "6 ספיישלים דגים",
+    "items": {
+      "גולדן רום": {
+        "_id": {
+          "_id": "684fce591c64b30725d11a8f"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 0,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d125fb",
+            "modGroup": "684fce591c64b30725d11a90"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d125ff",
+            "modGroup": "684fce591c64b30725d11a94"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12602",
+            "modGroup": "684fce591c64b30725d11a97"
+          }
+        ]
+      },
+      "ספייסי אנזו": {
+        "_id": {
+          "_id": "684fce591c64b30725d120ea"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 0,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d12a66",
+            "modGroup": "684fce591c64b30725d120eb"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12a56",
+            "modGroup": "684fce591c64b30725d120ed"
+          }
+        ]
+      },
+      "טורי רול": {
+        "_id": {
+          "_id": "684fce591c64b30725d11c98"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 0,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d1289f",
+            "modGroup": "684fce591c64b30725d11c99"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d128a4",
+            "modGroup": "684fce591c64b30725d11c9e"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d128a7",
+            "modGroup": "684fce591c64b30725d11ca1"
+          }
+        ]
+      },
+      "סלמון תאי": {
+        "_id": {
+          "_id": "684fce591c64b30725d1209c"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 0,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d12615",
+            "modGroup": "684fce591c64b30725d1209d"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12618",
+            "modGroup": "684fce591c64b30725d120a0"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d1261b",
+            "modGroup": "684fce591c64b30725d120a3"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12622",
+            "modGroup": "684fce591c64b30725d120a4"
+          }
+        ]
+      },
+      "שירו רול": {
+        "_id": {
+          "_id": "684fce591c64b30725d123c0"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 0,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d129b4",
+            "modGroup": "684fce591c64b30725d123c1"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d129b8",
+            "modGroup": "684fce591c64b30725d123c5"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d129bb",
+            "modGroup": "684fce591c64b30725d123c8"
+          }
+        ]
+      },
+      "טונה אוסקה": {
+        "_id": {
+          "_id": "684fce591c64b30725d11c2e"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 0,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d12607",
+            "modGroup": "684fce591c64b30725d11c2f"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d128af",
+            "modGroup": "684fce591c64b30725d11c31"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d128b2",
+            "modGroup": "684fce591c64b30725d11c34"
+          }
+        ]
+      },
+      "האקו כמהין": {
+        "_id": {
+          "_id": "684fce591c64b30725d11b33"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 0,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d12994",
+            "modGroup": "684fce591c64b30725d11b34"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12962",
+            "modGroup": "684fce591c64b30725d11b35"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12965",
+            "modGroup": "684fce591c64b30725d11b38"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12968",
+            "modGroup": "684fce591c64b30725d11b3b"
+          }
+        ]
+      },
+      "קנפאצי": {
+        "_id": {
+          "_id": "684fce591c64b30725d1231c"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 0,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d12a43",
+            "modGroup": "684fce591c64b30725d1231d"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12a46",
+            "modGroup": "684fce591c64b30725d12320"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12a49",
+            "modGroup": "684fce591c64b30725d12323"
+          }
+        ]
+      },
+      "מגורו גומא": {
+        "_id": {
+          "_id": "684fce591c64b30725d11e5d"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 0,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d12635",
+            "modGroup": "684fce591c64b30725d11e5e"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12638",
+            "modGroup": "684fce591c64b30725d11e61"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d1263b",
+            "modGroup": "684fce591c64b30725d11e64"
+          }
+        ]
+      },
+      "ספייסי סלמון רול": {
+        "_id": {
+          "_id": "684fce591c64b30725d12108"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 0,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d1265a",
+            "modGroup": "684fce591c64b30725d12109"
+          }
+        ]
+      },
+      "ספיישל סלמון אפוי": {
+        "_id": {
+          "_id": "684fce591c64b30725d1212a"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 0,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d12628",
+            "modGroup": "684fce591c64b30725d1212b"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d1262d",
+            "modGroup": "684fce591c64b30725d12130"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12630",
+            "modGroup": "684fce591c64b30725d12133"
+          }
+        ]
+      },
+      "טייגר רול": {
+        "_id": {
+          "_id": "684fce591c64b30725d11cc6"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 0,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d12609",
+            "modGroup": "684fce591c64b30725d11cc7"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d1260d",
+            "modGroup": "684fce591c64b30725d11ccb"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12610",
+            "modGroup": "684fce591c64b30725d11cce"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d125ab",
+            "modGroup": "684fce591c64b30725d11ccf"
+          }
+        ]
+      },
+      "אורמאקי דג": {
+        "_id": {
+          "_id": "684fce591c64b30725d118b4"
+        },
+        "category": {
+          "id": "5864f68d70e10f2200065a3b",
+          "_id": "5864f68d70e10f2200065a3b"
+        },
+        "price": 0,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d1257a",
+            "modGroup": "684fce591c64b30725d118b5"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12563",
+            "modGroup": "684fce591c64b30725d118b6"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12584",
+            "modGroup": "684fce591c64b30725d118b7"
+          }
+        ]
+      }
+    },
+    "selectionCount": 6,
+    "minSelectionCount": 6
+  },
+  "684fce591c64b30725d12aa5": {
+    "name": "4 ספיישלים צמחוני/דגים",
+    "items": {
+      "בטטה קראנץ": {
+        "_id": {
+          "_id": "684fce591c64b30725d119ed"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 0,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d1264d",
+            "modGroup": "684fce591c64b30725d119ee"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12650",
+            "modGroup": "684fce591c64b30725d119f1"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12654",
+            "modGroup": "684fce591c64b30725d119f5"
+          }
+        ]
+      },
+      "ווג'י רום": {
+        "_id": {
+          "_id": "684fce591c64b30725d11ba7"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 0,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d12640",
+            "modGroup": "684fce591c64b30725d11ba8"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12645",
+            "modGroup": "684fce591c64b30725d11bad"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12649",
+            "modGroup": "684fce591c64b30725d11bb1"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12524",
+            "modGroup": "684fce591c64b30725d11bb2"
+          }
+        ]
+      },
+      "גרין רול": {
+        "_id": {
+          "_id": "684fce591c64b30725d11ae8"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 0,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d1267d",
+            "modGroup": "684fce591c64b30725d11ae9"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12681",
+            "modGroup": "684fce591c64b30725d11aed"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12685",
+            "modGroup": "684fce591c64b30725d11af1"
+          }
+        ]
+      },
+      "אורמאקי צמחוני": {
+        "_id": {
+          "_id": "684fce591c64b30725d11946"
+        },
+        "category": {
+          "id": "5864f68d70e10f2200065a3b",
+          "_id": "5864f68d70e10f2200065a3b"
+        },
+        "price": 0,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d1256f",
+            "modGroup": "684fce591c64b30725d11947"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12584",
+            "modGroup": "684fce591c64b30725d11948"
+          }
+        ]
+      },
+      "ספייסי סלמון רול": {
+        "_id": {
+          "_id": "684fce591c64b30725d12108"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 14,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d1265a",
+            "modGroup": "684fce591c64b30725d12109"
+          }
+        ]
+      },
+      "גולדן רום": {
+        "_id": {
+          "_id": "684fce591c64b30725d11a8f"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 18,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d125fb",
+            "modGroup": "684fce591c64b30725d11a90"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d125ff",
+            "modGroup": "684fce591c64b30725d11a94"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12602",
+            "modGroup": "684fce591c64b30725d11a97"
+          }
+        ]
+      },
+      "קנפאצי": {
+        "_id": {
+          "_id": "684fce591c64b30725d1231c"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 18,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d12a43",
+            "modGroup": "684fce591c64b30725d1231d"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12a46",
+            "modGroup": "684fce591c64b30725d12320"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12a49",
+            "modGroup": "684fce591c64b30725d12323"
+          }
+        ]
+      },
+      "טורי רול": {
+        "_id": {
+          "_id": "684fce591c64b30725d11c98"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 16,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d1289f",
+            "modGroup": "684fce591c64b30725d11c99"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d128a4",
+            "modGroup": "684fce591c64b30725d11c9e"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d128a7",
+            "modGroup": "684fce591c64b30725d11ca1"
+          }
+        ]
+      },
+      "שירו רול": {
+        "_id": {
+          "_id": "684fce591c64b30725d123c0"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 18,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d129b4",
+            "modGroup": "684fce591c64b30725d123c1"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d129b8",
+            "modGroup": "684fce591c64b30725d123c5"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d129bb",
+            "modGroup": "684fce591c64b30725d123c8"
+          }
+        ]
+      },
+      "סלמון תאי": {
+        "_id": {
+          "_id": "684fce591c64b30725d1209c"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 18,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d12615",
+            "modGroup": "684fce591c64b30725d1209d"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12618",
+            "modGroup": "684fce591c64b30725d120a0"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d1261b",
+            "modGroup": "684fce591c64b30725d120a3"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12622",
+            "modGroup": "684fce591c64b30725d120a4"
+          }
+        ]
+      },
+      "טייגר רול": {
+        "_id": {
+          "_id": "684fce591c64b30725d11cc6"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 14,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d12609",
+            "modGroup": "684fce591c64b30725d11cc7"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d1260d",
+            "modGroup": "684fce591c64b30725d11ccb"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12610",
+            "modGroup": "684fce591c64b30725d11cce"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d125ab",
+            "modGroup": "684fce591c64b30725d11ccf"
+          }
+        ]
+      },
+      "ספייסי אנזו": {
+        "_id": {
+          "_id": "684fce591c64b30725d120ea"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 18,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d12a66",
+            "modGroup": "684fce591c64b30725d120eb"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12a56",
+            "modGroup": "684fce591c64b30725d120ed"
+          }
+        ]
+      },
+      "האקו כמהין": {
+        "_id": {
+          "_id": "684fce591c64b30725d11b33"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 12,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d12994",
+            "modGroup": "684fce591c64b30725d11b34"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12962",
+            "modGroup": "684fce591c64b30725d11b35"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12965",
+            "modGroup": "684fce591c64b30725d11b38"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12968",
+            "modGroup": "684fce591c64b30725d11b3b"
+          }
+        ]
+      },
+      "טונה אוסקה": {
+        "_id": {
+          "_id": "684fce591c64b30725d11c2e"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 12,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d12607",
+            "modGroup": "684fce591c64b30725d11c2f"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d128af",
+            "modGroup": "684fce591c64b30725d11c31"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d128b2",
+            "modGroup": "684fce591c64b30725d11c34"
+          }
+        ]
+      },
+      "מגורו גומא": {
+        "_id": {
+          "_id": "684fce591c64b30725d11e5d"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 18,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d12635",
+            "modGroup": "684fce591c64b30725d11e5e"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12638",
+            "modGroup": "684fce591c64b30725d11e61"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d1263b",
+            "modGroup": "684fce591c64b30725d11e64"
+          }
+        ]
+      },
+      "ספיישל סלמון אפוי": {
+        "_id": {
+          "_id": "684fce591c64b30725d1212a"
+        },
+        "category": {
+          "id": "57cfb029621e921e003f846b",
+          "_id": "57cfb029621e921e003f846b"
+        },
+        "price": 12,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d12628",
+            "modGroup": "684fce591c64b30725d1212b"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d1262d",
+            "modGroup": "684fce591c64b30725d12130"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12630",
+            "modGroup": "684fce591c64b30725d12133"
+          }
+        ]
+      },
+      "אורמאקי דג": {
+        "_id": {
+          "_id": "684fce591c64b30725d118b4"
+        },
+        "category": {
+          "id": "5864f68d70e10f2200065a3b",
+          "_id": "5864f68d70e10f2200065a3b"
+        },
+        "price": 15,
+        "modifierGroups": [
+          {
+            "modGroupId": "684fce591c64b30725d1257a",
+            "modGroup": "684fce591c64b30725d118b5"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12563",
+            "modGroup": "684fce591c64b30725d118b6"
+          },
+          {
+            "modGroupId": "684fce591c64b30725d12584",
+            "modGroup": "684fce591c64b30725d118b7"
+          }
+        ]
+      }
+    },
+    "selectionCount": 4,
+    "minSelectionCount": 4
+  },
+  "684fce591c64b30725d12aaa": {
+    "name": "סשימי במרכז מגש",
+    "items": {
+      "סשימי סלמון": {
+        "_id": {
+          "_id": "684fce591c64b30725d12183"
+        },
+        "category": {
+          "id": "5864f68d70e10f2200065a3b",
+          "_id": "5864f68d70e10f2200065a3b"
+        },
+        "price": 48,
+        "modifierGroups": null
+      },
+      "סשימי דניס": {
+        "_id": {
+          "_id": "684fce591c64b30725d12170"
+        },
+        "category": {
+          "id": "5864f68d70e10f2200065a3b",
+          "_id": "5864f68d70e10f2200065a3b"
+        },
+        "price": 49,
+        "modifierGroups": null
+      },
+      "סשימי טונה": {
+        "_id": {
+          "_id": "684fce591c64b30725d12175"
+        },
+        "category": {
+          "id": "5864f68d70e10f2200065a3b",
+          "_id": "5864f68d70e10f2200065a3b"
+        },
+        "price": 52,
+        "modifierGroups": null
+      }
+    },
+    "selectionCount": 3
+  }
+}

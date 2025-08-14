@@ -1,0 +1,18 @@
+{
+  "name": "סלט אצות",
+  "description": "סלט אצות וואקמה יפני, עם מלפפון, אבוקדו (בעונה), נבטים, בצל ירוק ושומשום בתחמיץ מתקתק \n\nטבעוני 🌿\nאופציה ללא גלוטן 🌾",
+  "tags": [
+    "סלטים 🥗"
+  ],
+  "item": "684fce591c64b30725d11ffc",
+  "offer": "684fce591c64b30725d11516",
+  "menu": "684fce591c64b30725d1126c",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d126eb",
+      "modGroup": "684fce591c64b30725d11ffd"
+    }
+  ],
+  "price": 44
+}

@@ -1,0 +1,18 @@
+{
+  "name": "אגאדשי טופו",
+  "description": "קוביות טופו פריכות בציר אגאדשי עם צנון וג'ינג'ר כתושים, בצל ירוק ואצות נורי.\nפחות מומלץ במשלוחים",
+  "tags": [
+    "מרקים 🥣"
+  ],
+  "item": "684fce591c64b30725d11868",
+  "offer": "684fce591c64b30725d11301",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d12407",
+      "modGroup": "684fce591c64b30725d11869"
+    }
+  ],
+  "price": 44
+}

@@ -1,0 +1,30 @@
+{
+  "name": "סלמון תאי",
+  "description": "סלמון, שרימפס טמפורה, אבוקדו וספייסי מיונז עטוף בסשימי סלמון צרוב וגרידת לימון.",
+  "tags": [
+    "ספיישל סושי  ⭐️"
+  ],
+  "item": "684fce591c64b30725d1209c",
+  "offer": "684fce591c64b30725d1139c",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d12615",
+      "modGroup": "684fce591c64b30725d1209d"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12618",
+      "modGroup": "684fce591c64b30725d120a0"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d1261b",
+      "modGroup": "684fce591c64b30725d120a3"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12622",
+      "modGroup": "684fce591c64b30725d120a4"
+    }
+  ],
+  "price": 68
+}

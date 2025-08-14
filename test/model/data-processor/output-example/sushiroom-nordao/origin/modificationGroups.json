@@ -1,0 +1,5099 @@
+{
+  "684fce591c64b30725d126eb": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "שינויים אפשריים בסלט אצות",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d126ec",
+        "name": "מלפפון",
+        "code": "1113426",
+        "item": "684fce591c64b30725d11ec0",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126ed",
+        "name": "אבוקדו",
+        "code": "1113427",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126ee",
+        "name": "נבטים",
+        "code": "1113428",
+        "item": "684fce591c64b30725d11f17",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126ef",
+        "name": "בצל ירוק",
+        "code": "1113429",
+        "item": "684fce591c64b30725d11a32",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126f0",
+        "name": "שומשום",
+        "code": "1113430",
+        "item": "684fce591c64b30725d123b0",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126f1",
+        "name": "רוטב ללא גלוטן 🌾",
+        "code": "1113431",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d126ec",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11ffe"
+      },
+      {
+        "modifier": "684fce591c64b30725d126ed",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11fff"
+      },
+      {
+        "modifier": "684fce591c64b30725d126ee",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d12000"
+      },
+      {
+        "modifier": "684fce591c64b30725d126ef",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d12001"
+      },
+      {
+        "modifier": "684fce591c64b30725d126f0",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d12002"
+      }
+    ]
+  },
+  "684fce591c64b30725d129dd": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים: סילו יאנג",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d129de",
+        "name": "עלי רוקולה",
+        "code": "1112936",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d129df",
+        "name": "בצל סגול",
+        "code": "1112937",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d129e0",
+        "name": "אורגנו",
+        "code": "1112938",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d129e1",
+        "name": "כוסברה",
+        "code": "1112939",
+        "item": "684fce591c64b30725d11dde",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d129e2",
+        "name": "נענע",
+        "code": "1112940",
+        "item": "684fce591c64b30725d11f4c",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d129e3",
+        "name": "נבטים",
+        "code": "1112941",
+        "item": "684fce591c64b30725d11f17",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d129e4",
+        "name": "מיקרו סורל",
+        "code": "1112942",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d129e5",
+        "name": "בזיליקים תאילנדי",
+        "code": "1112943",
+        "item": "684fce591c64b30725d119e2",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d129e6",
+        "name": "צילי טרי",
+        "code": "1112944",
+        "item": "684fce591c64b30725d12296",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d129e7",
+        "name": "רוטב סילו יאנג",
+        "code": "1112963",
+        "item": "684fce591c64b30725d12380",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d129de",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11feb"
+      },
+      {
+        "modifier": "684fce591c64b30725d129df",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11fec"
+      },
+      {
+        "modifier": "684fce591c64b30725d129e0",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11fed"
+      },
+      {
+        "modifier": "684fce591c64b30725d129e1",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11fee"
+      },
+      {
+        "modifier": "684fce591c64b30725d129e2",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11fef"
+      },
+      {
+        "modifier": "684fce591c64b30725d129e3",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11ff0"
+      },
+      {
+        "modifier": "684fce591c64b30725d129e4",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11ff1"
+      },
+      {
+        "modifier": "684fce591c64b30725d129e5",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11ff2"
+      },
+      {
+        "modifier": "684fce591c64b30725d129e6",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11ff3"
+      },
+      {
+        "modifier": "684fce591c64b30725d129e7",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11ff4"
+      }
+    ]
+  },
+  "684fce591c64b30725d127ff": {
+    "min": 1,
+    "max": 1,
+    "singleSelection": false,
+    "name": "דג לסלט",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12800",
+        "name": "דניס טמפורה",
+        "code": "1112396",
+        "item": "684fce591c64b30725d11b30",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12801",
+        "name": "שרימפס חלוט",
+        "code": "1112397",
+        "item": "684fce591c64b30725d123e1",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12802",
+        "name": "ללא",
+        "code": "1112306",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d127b5": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים בסאן פלה",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d127b6",
+        "name": "אטריות שעועית",
+        "code": "1112307",
+        "item": "684fce591c64b30725d11972",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d127b7",
+        "name": "כרוב",
+        "code": "1112308",
+        "item": "684fce591c64b30725d11de4",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d127b8",
+        "name": "גינגר",
+        "code": "1112309",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d127b9",
+        "name": "כוסברה",
+        "code": "1112310",
+        "item": "684fce591c64b30725d11dde",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d127ba",
+        "name": "בצל ירוק",
+        "code": "1112311",
+        "item": "684fce591c64b30725d11a32",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d127bb",
+        "name": "צילי טרי",
+        "code": "1112312",
+        "item": "684fce591c64b30725d12296",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d127bc",
+        "name": "בוטנים קצוצים",
+        "code": "1112313",
+        "item": "684fce591c64b30725d119dd",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d127bd",
+        "name": "רוטב סאן פלה",
+        "code": "1112964",
+        "item": "684fce591c64b30725d1237e",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d127b6",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11f60"
+      },
+      {
+        "modifier": "684fce591c64b30725d127b7",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11f61"
+      },
+      {
+        "modifier": "684fce591c64b30725d127b8",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11f62"
+      },
+      {
+        "modifier": "684fce591c64b30725d127b9",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11f63"
+      },
+      {
+        "modifier": "684fce591c64b30725d127ba",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11f64"
+      },
+      {
+        "modifier": "684fce591c64b30725d127bb",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11f65"
+      },
+      {
+        "modifier": "684fce591c64b30725d127bc",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11f66"
+      },
+      {
+        "modifier": "684fce591c64b30725d127bd",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11f67"
+      }
+    ]
+  },
+  "684fce591c64b30725d1249c": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים שניתן להוציא מהסביצ'ה סלמון",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d1249d",
+        "name": "בצל סגול",
+        "code": "1113619",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1249e",
+        "name": "כוסברה",
+        "code": "1113620",
+        "item": "684fce591c64b30725d11dde",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1249f",
+        "name": "צילי טרי",
+        "code": "1113621",
+        "item": "684fce591c64b30725d12296",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d124a0",
+        "name": "איקורא",
+        "code": "1113622",
+        "item": "684fce591c64b30725d11977",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d1249d",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11fd2"
+      },
+      {
+        "modifier": "684fce591c64b30725d1249e",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11fd3"
+      },
+      {
+        "modifier": "684fce591c64b30725d1249f",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11fd4"
+      },
+      {
+        "modifier": "684fce591c64b30725d124a0",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11fd5"
+      }
+    ]
+  },
+  "684fce591c64b30725d129d4": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים: סלט סאטה ציקן",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d129d5",
+        "name": "עוף",
+        "code": "1112926",
+        "item": "684fce591c64b30725d1218c",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d129d6",
+        "name": "מלפפון",
+        "code": "1112927",
+        "item": "684fce591c64b30725d11ec0",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d129d7",
+        "name": "מיקרו סלק",
+        "code": "1112928",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d129d8",
+        "name": "נבטים",
+        "code": "1112929",
+        "item": "684fce591c64b30725d11f17",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d129d9",
+        "name": "קריספי קייל",
+        "code": "1112930",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d129da",
+        "name": "שומשום",
+        "code": "1112931",
+        "item": "684fce591c64b30725d123b0",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d129db",
+        "name": "בוטנים קצוצים",
+        "code": "1112932",
+        "item": "684fce591c64b30725d119dd",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d129dc",
+        "name": "רוטב סאטה",
+        "code": "1112965",
+        "item": "684fce591c64b30725d1237d",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d129d5",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d12068"
+      },
+      {
+        "modifier": "684fce591c64b30725d129d6",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d12069"
+      },
+      {
+        "modifier": "684fce591c64b30725d129d7",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1206a"
+      },
+      {
+        "modifier": "684fce591c64b30725d129d8",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1206b"
+      },
+      {
+        "modifier": "684fce591c64b30725d129d9",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1206c"
+      },
+      {
+        "modifier": "684fce591c64b30725d129da",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1206d"
+      },
+      {
+        "modifier": "684fce591c64b30725d129db",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1206e"
+      },
+      {
+        "modifier": "684fce591c64b30725d129dc",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1206f"
+      }
+    ]
+  },
+  "684fce591c64b30725d127da": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים בסלט הקיסר היפני",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d127db",
+        "name": "חזה עוף",
+        "code": "1113351",
+        "item": "684fce591c64b30725d11be7",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d127dc",
+        "name": "צנונית",
+        "code": "1113359",
+        "item": "684fce591c64b30725d1229a",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d127dd",
+        "name": "מלפפון",
+        "code": "1113350",
+        "item": "684fce591c64b30725d11ec0",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d127de",
+        "name": "ביצה רכה",
+        "code": "1113352",
+        "item": "684fce591c64b30725d11a0b",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d127df",
+        "name": "קרוטוני בריוש",
+        "code": "1113360",
+        "item": "684fce591c64b30725d1233d",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d127e0",
+        "name": "רוטב קיסר",
+        "code": "1113349",
+        "item": "684fce591c64b30725d12384",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d127e1",
+        "name": "פרמזן",
+        "code": "1113361",
+        "item": "684fce591c64b30725d12266",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d127db",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11b85"
+      },
+      {
+        "modifier": "684fce591c64b30725d127dc",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11b86"
+      },
+      {
+        "modifier": "684fce591c64b30725d127dd",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11b87"
+      },
+      {
+        "modifier": "684fce591c64b30725d127de",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11b88"
+      },
+      {
+        "modifier": "684fce591c64b30725d127df",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11b89"
+      },
+      {
+        "modifier": "684fce591c64b30725d127e0",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11b8a"
+      },
+      {
+        "modifier": "684fce591c64b30725d127e1",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11b8b"
+      }
+    ]
+  },
+  "684fce591c64b30725d124a1": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים באן בקר",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d124a2",
+        "name": "קולורבי מוחמץ",
+        "code": "1113623",
+        "item": "684fce591c64b30725d122f1",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d124a3",
+        "name": "בצל ירוק",
+        "code": "1113624",
+        "item": "684fce591c64b30725d11a32",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d124a4",
+        "name": "שאלוט מטוגן",
+        "code": "1113625",
+        "item": "684fce591c64b30725d123a5",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d124a5",
+        "name": "צ'ילי מוחמץ",
+        "code": "1113626",
+        "item": "684fce591c64b30725d1226d",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d124a6",
+        "name": "רוטב ברביקיו קוריאני",
+        "code": "1113627",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d124a2",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d119a2"
+      },
+      {
+        "modifier": "684fce591c64b30725d124a3",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d119a3"
+      },
+      {
+        "modifier": "684fce591c64b30725d124a4",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d119a4"
+      },
+      {
+        "modifier": "684fce591c64b30725d124a5",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d119a5"
+      },
+      {
+        "modifier": "684fce591c64b30725d124a6",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d119a6"
+      }
+    ]
+  },
+  "684fce591c64b30725d1280c": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "באן",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d1280d",
+        "name": "אריזה נפרדת",
+        "code": "1114098",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12418": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים באן קריספי פיש",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12419",
+        "name": "קרם יוזו",
+        "code": "1113568",
+        "item": "684fce591c64b30725d12347",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1241a",
+        "name": "צילי מוחמץ",
+        "code": "1113569",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1241b",
+        "name": "בזיל תיאלנדי",
+        "code": "1113570",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1241c",
+        "name": "שאלוט מוחמץ",
+        "code": "1113571",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12419",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d119b1"
+      },
+      {
+        "modifier": "684fce591c64b30725d1241a",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d119b2"
+      },
+      {
+        "modifier": "684fce591c64b30725d1241b",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d119b3"
+      },
+      {
+        "modifier": "684fce591c64b30725d1241c",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d119b4"
+      }
+    ]
+  },
+  "684fce591c64b30725d127e2": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים באן טורי-סלמון",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d127e3",
+        "name": "סלמון מטוגן בפנקו",
+        "code": "1114081",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d127e4",
+        "name": "רוטב נפאלי חריף",
+        "code": "1114082",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d127e5",
+        "name": "מלפפון",
+        "code": "1114083",
+        "item": "684fce591c64b30725d11ec0",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d127e6",
+        "name": "צנונית",
+        "code": "1114084",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d127e7",
+        "name": "כוסברה",
+        "code": "1114085",
+        "item": "684fce591c64b30725d11dde",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d127e3",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d119d5"
+      },
+      {
+        "modifier": "684fce591c64b30725d127e4",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d119d6"
+      },
+      {
+        "modifier": "684fce591c64b30725d127e5",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d119d7"
+      },
+      {
+        "modifier": "684fce591c64b30725d127e6",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d119d8"
+      },
+      {
+        "modifier": "684fce591c64b30725d127e7",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d119d9"
+      }
+    ]
+  },
+  "684fce591c64b30725d12a3f": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים באן טופו",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12a40",
+        "name": "שאלוט מטוגן",
+        "code": "1113396",
+        "item": "684fce591c64b30725d123a5",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a41",
+        "name": "ספייסי טבעוני",
+        "code": "1113397",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a42",
+        "name": "חסה",
+        "code": "1113545",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12a40",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d119c8"
+      },
+      {
+        "modifier": "684fce591c64b30725d12a41",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d119c9"
+      },
+      {
+        "modifier": "684fce591c64b30725d12a42",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d119ca"
+      }
+    ]
+  },
+  "684fce591c64b30725d126f8": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים שניתן להוריד מהפופקורן שרימפס",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d126f9",
+        "name": "שומשום",
+        "code": "1113945",
+        "item": "684fce591c64b30725d123b0",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126fa",
+        "name": "בצל ירוק",
+        "code": "1113946",
+        "item": "684fce591c64b30725d11a32",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d126f9",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1220f"
+      },
+      {
+        "modifier": "684fce591c64b30725d126fa",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d12210"
+      }
+    ]
+  },
+  "684fce591c64b30725d127fd": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "ספרינג רום",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d127fe",
+        "name": "*עלים ורוטב לספרינג רום בצד*",
+        "code": "1114095",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d127fe",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11833"
+      }
+    ]
+  },
+  "684fce591c64b30725d12728": {
+    "singleSelection": true,
+    "name": "צרוב או מאודה?",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12729",
+        "name": "צרוב",
+        "code": "1112394",
+        "item": "684fce591c64b30725d1229b",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1272a",
+        "name": "מאודה",
+        "code": "1112395",
+        "item": "684fce591c64b30725d11dfb",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12407": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים אגאדשי טופו",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12408",
+        "name": "* טופו *",
+        "code": "1113554",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12409",
+        "name": "ג'ינג'ר כתוש",
+        "code": "1113555",
+        "item": "684fce591c64b30725d11a82",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1240a",
+        "name": "צנון כתוש",
+        "code": "1113556",
+        "item": "684fce591c64b30725d12299",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1240b",
+        "name": "בצל ירוק",
+        "code": "1113557",
+        "item": "684fce591c64b30725d11a32",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1240c",
+        "name": "רצועות נורי",
+        "code": "1113558",
+        "item": "684fce591c64b30725d123a0",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12408",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1186a"
+      },
+      {
+        "modifier": "684fce591c64b30725d12409",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1186b"
+      },
+      {
+        "modifier": "684fce591c64b30725d1240a",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1186c"
+      },
+      {
+        "modifier": "684fce591c64b30725d1240b",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1186d"
+      },
+      {
+        "modifier": "684fce591c64b30725d1240c",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1186e"
+      }
+    ]
+  },
+  "684fce591c64b30725d12455": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים מרק מיסו",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12456",
+        "name": "קוביות טופו",
+        "code": "1113588",
+        "item": "684fce591c64b30725d122ea",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12457",
+        "name": "בצל ירוק",
+        "code": "1113589",
+        "item": "684fce591c64b30725d11a32",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12458",
+        "name": "אצות וואקמה",
+        "code": "1113590",
+        "item": "684fce591c64b30725d1198e",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12459",
+        "name": "תוספת טופו",
+        "code": "1113591",
+        "item": "684fce591c64b30725d123fc",
+        "price": 5
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12456",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11eea"
+      },
+      {
+        "modifier": "684fce591c64b30725d12457",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11eeb"
+      },
+      {
+        "modifier": "684fce591c64b30725d12458",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11eec"
+      }
+    ]
+  },
+  "684fce591c64b30725d124e4": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים מרק ראמן",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d124e5",
+        "name": "אטריות ראמן",
+        "code": "1112353",
+        "item": "684fce591c64b30725d11970",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d124e6",
+        "name": "ביצה רכה",
+        "code": "1112354",
+        "item": "684fce591c64b30725d11a0b",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d124e7",
+        "name": "עוף ראמן",
+        "code": "1113285",
+        "item": "684fce591c64b30725d1218d",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d124e8",
+        "name": "בצל ירוק",
+        "code": "1112356",
+        "item": "684fce591c64b30725d11a32",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d124e9",
+        "name": "נורי דק",
+        "code": "1112357",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d124ea",
+        "name": "*מומלץ לחמם במיקרו*",
+        "code": "1112358",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d124e5",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11f03"
+      },
+      {
+        "modifier": "684fce591c64b30725d124e6",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11f04"
+      },
+      {
+        "modifier": "684fce591c64b30725d124e8",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11f05"
+      },
+      {
+        "modifier": "684fce591c64b30725d124e9",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11f06"
+      },
+      {
+        "modifier": "684fce591c64b30725d124ea",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11f07"
+      },
+      {
+        "modifier": "684fce591c64b30725d124e7",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11f08"
+      }
+    ]
+  },
+  "684fce591c64b30725d1272b": {
+    "min": 1,
+    "max": 1,
+    "singleSelection": false,
+    "name": "תוספת למרק טום יאם",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d1272c",
+        "name": "טופו",
+        "code": "1112411",
+        "item": "684fce591c64b30725d11c7b",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1272d",
+        "name": "שרימפס",
+        "code": "1112412",
+        "item": "684fce591c64b30725d123df",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1272e",
+        "name": "דג",
+        "code": "1112413",
+        "item": "684fce591c64b30725d11b1e",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1272f",
+        "name": "ללא",
+        "code": "1112414",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12730": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים שניתן להוציא מהמרק טום יאם",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12731",
+        "name": "אטריות שעועית",
+        "code": "1112406",
+        "item": "684fce591c64b30725d11972",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12732",
+        "name": "עגבניות שרי",
+        "code": "1112407",
+        "item": "684fce591c64b30725d12189",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12733",
+        "name": "פטריות",
+        "code": "1112408",
+        "item": "684fce591c64b30725d12217",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12734",
+        "name": "כוסברה",
+        "code": "1112409",
+        "item": "684fce591c64b30725d11dde",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12735",
+        "name": "צילי טרי",
+        "code": "1112410",
+        "item": "684fce591c64b30725d12296",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12732",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11ede"
+      },
+      {
+        "modifier": "684fce591c64b30725d12733",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11edf"
+      },
+      {
+        "modifier": "684fce591c64b30725d12734",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11ee0"
+      },
+      {
+        "modifier": "684fce591c64b30725d12735",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11ee1"
+      },
+      {
+        "modifier": "684fce591c64b30725d12731",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11ee2"
+      }
+    ]
+  },
+  "684fce591c64b30725d126d7": {
+    "min": 1,
+    "max": 1,
+    "singleSelection": false,
+    "name": "תוספת לבחירה",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d126d8",
+        "name": "רק ירקות",
+        "code": "1113292",
+        "item": "684fce591c64b30725d11d99",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126d9",
+        "name": "טופו",
+        "code": "1113293",
+        "item": "684fce591c64b30725d11c7b",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126da",
+        "name": "עוף",
+        "code": "1113294",
+        "item": "684fce591c64b30725d1218c",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126db",
+        "name": "שרימפס",
+        "code": "1113295",
+        "item": "684fce591c64b30725d123df",
+        "price": 5
+      },
+      {
+        "_id": "684fce591c64b30725d126dc",
+        "name": "בקר",
+        "code": "1113296",
+        "item": "684fce591c64b30725d11a77",
+        "price": 5
+      },
+      {
+        "_id": "684fce591c64b30725d126dd",
+        "name": "תחליף בקר",
+        "code": "1113373",
+        "item": "684fce591c64b30725d123ff",
+        "price": 5
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d126fe": {
+    "min": 1,
+    "max": 1,
+    "singleSelection": false,
+    "name": "אטריות",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d126ff",
+        "name": "אטריות אורז",
+        "code": "1113371",
+        "item": "684fce591c64b30725d1196e",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12700",
+        "name": "אטריות ביצים",
+        "code": "1113372",
+        "item": "684fce591c64b30725d1196f",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d126ff",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d121e6"
+      }
+    ]
+  },
+  "684fce591c64b30725d126c5": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים שניתן להוציא  מהפאד תאי",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d126c6",
+        "name": "גזר",
+        "code": "1112826",
+        "item": "684fce591c64b30725d11aa9",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126c7",
+        "name": "כרוב",
+        "code": "1112827",
+        "item": "684fce591c64b30725d11de4",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126c8",
+        "name": "בצל ירוק",
+        "code": "1112828",
+        "item": "684fce591c64b30725d11a32",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126c9",
+        "name": "ביצה",
+        "code": "1112829",
+        "item": "684fce591c64b30725d11a0a",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126ca",
+        "name": "נבטים",
+        "code": "1112830",
+        "item": "684fce591c64b30725d11f17",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126cb",
+        "name": "פלח לימון",
+        "code": "1112831",
+        "item": "684fce591c64b30725d12237",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126cc",
+        "name": "בוטנים קצוצים",
+        "code": "1112832",
+        "item": "684fce591c64b30725d119dd",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126cd",
+        "name": "כוסברה",
+        "code": "1112833",
+        "item": "684fce591c64b30725d11dde",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126ce",
+        "name": "ללא גלוטן 🌾",
+        "code": "1112834",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126cf",
+        "name": "טבעוני 🌿",
+        "code": "1112835",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d126c6",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d121e8"
+      },
+      {
+        "modifier": "684fce591c64b30725d126c7",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d121e9"
+      },
+      {
+        "modifier": "684fce591c64b30725d126c8",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d121ea"
+      },
+      {
+        "modifier": "684fce591c64b30725d126c9",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d121eb"
+      },
+      {
+        "modifier": "684fce591c64b30725d126ca",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d121ec"
+      },
+      {
+        "modifier": "684fce591c64b30725d126cb",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d121ed"
+      },
+      {
+        "modifier": "684fce591c64b30725d126cc",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d121ee"
+      },
+      {
+        "modifier": "684fce591c64b30725d126cd",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d121ef"
+      }
+    ]
+  },
+  "684fce591c64b30725d12a1d": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים במנה",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12a1e",
+        "name": "פטריות",
+        "code": "1113307",
+        "item": "684fce591c64b30725d12217",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a1f",
+        "name": "ברוקולי",
+        "code": "1113308",
+        "item": "684fce591c64b30725d11a7b",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a20",
+        "name": "בצל ירוק",
+        "code": "1113309",
+        "item": "684fce591c64b30725d11a32",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a21",
+        "name": "קשיו",
+        "code": "1113310",
+        "item": "684fce591c64b30725d1234a",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12a1e",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d122a1"
+      },
+      {
+        "modifier": "684fce591c64b30725d12a1f",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d122a2"
+      },
+      {
+        "modifier": "684fce591c64b30725d12a20",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d122a3"
+      },
+      {
+        "modifier": "684fce591c64b30725d12a21",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d122a4"
+      }
+    ]
+  },
+  "684fce591c64b30725d127d1": {
+    "min": 1,
+    "max": 1,
+    "singleSelection": false,
+    "name": "אטריות: רד קארי נודלס",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d127d2",
+        "name": "אטריות ביצים",
+        "code": "1112975",
+        "item": "684fce591c64b30725d1196f",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d127d3",
+        "name": "אטריות אורז",
+        "code": "1112976",
+        "item": "684fce591c64b30725d1196e",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d127d2",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1235c"
+      }
+    ]
+  },
+  "684fce591c64b30725d127cb": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים: רד קארי נודלס",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d127cc",
+        "name": "עגבניות שרי",
+        "code": "1111443",
+        "item": "684fce591c64b30725d12189",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d127cd",
+        "name": "שעועית ירוקה",
+        "code": "1112985",
+        "item": "684fce591c64b30725d123da",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d127ce",
+        "name": "ברוקולי",
+        "code": "1112986",
+        "item": "684fce591c64b30725d11a7b",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d127cf",
+        "name": "בצל ירוק",
+        "code": "1112183",
+        "item": "684fce591c64b30725d11a32",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d127d0",
+        "name": "בוטנים קצוצים",
+        "code": "1112184",
+        "item": "684fce591c64b30725d119dd",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d127cc",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1235e"
+      },
+      {
+        "modifier": "684fce591c64b30725d127cf",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1235f"
+      },
+      {
+        "modifier": "684fce591c64b30725d127d0",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d12360"
+      },
+      {
+        "modifier": "684fce591c64b30725d127cd",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d12361"
+      },
+      {
+        "modifier": "684fce591c64b30725d127ce",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d12362"
+      }
+    ]
+  },
+  "684fce591c64b30725d126d0": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים שניתן להוציא מהמעושנת",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d126d1",
+        "name": "חזה אווז",
+        "code": "1113931",
+        "item": "684fce591c64b30725d11be6",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126d2",
+        "name": "ברוקולי",
+        "code": "1113932",
+        "item": "684fce591c64b30725d11a7b",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126d3",
+        "name": "פטריות",
+        "code": "1113933",
+        "item": "684fce591c64b30725d12217",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126d4",
+        "name": "בצל סגול ולבן",
+        "code": "1113934",
+        "item": "684fce591c64b30725d11a34",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126d5",
+        "name": "בצל ירוק",
+        "code": "1113935",
+        "item": "684fce591c64b30725d11a32",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126d6",
+        "name": "צילי פרוסות",
+        "code": "1113936",
+        "item": "684fce591c64b30725d12295",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d126d1",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11b5d"
+      },
+      {
+        "modifier": "684fce591c64b30725d126d2",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11b5e"
+      },
+      {
+        "modifier": "684fce591c64b30725d126d3",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11b5f"
+      },
+      {
+        "modifier": "684fce591c64b30725d126d4",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11b60"
+      },
+      {
+        "modifier": "684fce591c64b30725d126d5",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11b61"
+      },
+      {
+        "modifier": "684fce591c64b30725d126d6",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11b62"
+      }
+    ]
+  },
+  "684fce591c64b30725d126e8": {
+    "singleSelection": true,
+    "name": "חריפות",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d126e9",
+        "name": "חריף",
+        "code": "1112319",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126ea",
+        "name": "לא חריף",
+        "code": "1112320",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d126e9",
+        "formationUnit": "",
+        "_id": "684fce591c64b30725d11b64"
+      }
+    ]
+  },
+  "684fce591c64b30725d1243f": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים שניתן להוציא מהקארי ירוק",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12440",
+        "name": "ברוקולי",
+        "code": "1111469",
+        "item": "684fce591c64b30725d11a7b",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12441",
+        "name": "זוקיני",
+        "code": "1111470",
+        "item": "684fce591c64b30725d11be4",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12442",
+        "name": "חציל",
+        "code": "1112474",
+        "item": "684fce591c64b30725d11bf8",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12443",
+        "name": "שעועית ירוקה",
+        "code": "1112363",
+        "item": "684fce591c64b30725d123da",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12444",
+        "name": "בצל סגול ולבן",
+        "code": "1111473",
+        "item": "684fce591c64b30725d11a34",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12445",
+        "name": "בזיליקים תאילנדי",
+        "code": "1111474",
+        "item": "684fce591c64b30725d119e2",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12440",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d122b3"
+      },
+      {
+        "modifier": "684fce591c64b30725d12441",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d122b4"
+      },
+      {
+        "modifier": "684fce591c64b30725d12443",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d122b5"
+      },
+      {
+        "modifier": "684fce591c64b30725d12444",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d122b6"
+      },
+      {
+        "modifier": "684fce591c64b30725d12445",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d122b7"
+      },
+      {
+        "modifier": "684fce591c64b30725d12442",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d122b8"
+      }
+    ]
+  },
+  "684fce591c64b30725d12496": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים שניתן להוציא מהקארי מאסאמן",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12497",
+        "name": "ברוקולי",
+        "code": "1111534",
+        "item": "684fce591c64b30725d11a7b",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12498",
+        "name": "כוסברה",
+        "code": "1111535",
+        "item": "684fce591c64b30725d11dde",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12499",
+        "name": "פטריות",
+        "code": "1111536",
+        "item": "684fce591c64b30725d12217",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1249a",
+        "name": "זוקיני",
+        "code": "1111537",
+        "item": "684fce591c64b30725d11be4",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1249b",
+        "name": "תפוח אדמה",
+        "code": "1111437",
+        "item": "684fce591c64b30725d12401",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12497",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d122d4"
+      },
+      {
+        "modifier": "684fce591c64b30725d12498",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d122d5"
+      },
+      {
+        "modifier": "684fce591c64b30725d12499",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d122d6"
+      },
+      {
+        "modifier": "684fce591c64b30725d1249a",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d122d7"
+      },
+      {
+        "modifier": "684fce591c64b30725d1249b",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d122d8"
+      }
+    ]
+  },
+  "684fce591c64b30725d12a25": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים במנה פאד קפאו",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12a26",
+        "name": "בזיליקים תאילנדי",
+        "code": "1113336",
+        "item": "684fce591c64b30725d119e2",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a27",
+        "name": "שאלוט",
+        "code": "1113337",
+        "item": "684fce591c64b30725d123a3",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a28",
+        "name": "צילי",
+        "code": "1113340",
+        "item": "684fce591c64b30725d12295",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a29",
+        "name": "ביצת עין",
+        "code": "1113341",
+        "item": "684fce591c64b30725d11a0c",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12a26",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d121d1"
+      },
+      {
+        "modifier": "684fce591c64b30725d12a27",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d121d2"
+      },
+      {
+        "modifier": "684fce591c64b30725d12a28",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d121d3"
+      },
+      {
+        "modifier": "684fce591c64b30725d12a29",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d121d4"
+      }
+    ]
+  },
+  "684fce591c64b30725d12a22": {
+    "singleSelection": true,
+    "name": "חריפות",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12a23",
+        "name": "חריף",
+        "code": "1113333",
+        "item": "684fce591c64b30725d11bfa",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a24",
+        "name": "לא חריף",
+        "code": "1113335",
+        "item": "684fce591c64b30725d11dee",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d128d0": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "שינויים בסלמון מיסו גלייז",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d128d1",
+        "name": "פילה סלמון ללא רוטב",
+        "code": "1112973",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12a2a": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים אומאי",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12a2b",
+        "name": "פילה דניס טמפורה",
+        "code": "1113393",
+        "item": "684fce591c64b30725d12229",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a2c",
+        "name": "שי מאגי",
+        "code": "1113344",
+        "item": "684fce591c64b30725d123b4",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a2d",
+        "name": "שעועית ירוקה",
+        "code": "1113345",
+        "item": "684fce591c64b30725d123da",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a2e",
+        "name": "קשיו",
+        "code": "1113347",
+        "item": "684fce591c64b30725d1234a",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a2f",
+        "name": "כוסברה",
+        "code": "1113348",
+        "item": "684fce591c64b30725d11dde",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12a2b",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11892"
+      },
+      {
+        "modifier": "684fce591c64b30725d12a2c",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11893"
+      },
+      {
+        "modifier": "684fce591c64b30725d12a2d",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11894"
+      },
+      {
+        "modifier": "684fce591c64b30725d12a2e",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11895"
+      },
+      {
+        "modifier": "684fce591c64b30725d12a2f",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11896"
+      }
+    ]
+  },
+  "684fce591c64b30725d1281e": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "שינויים בטורי קאצו",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d1281f",
+        "name": "בלי שומשום באורז",
+        "code": "1114110",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12820": {
+    "min": null,
+    "max": 2,
+    "singleSelection": false,
+    "name": "רטבים בצד",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12821",
+        "name": "מיונז ליים",
+        "code": "1113043",
+        "item": "684fce591c64b30725d11ea6",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12822",
+        "name": "ברביקיו קוריאני",
+        "code": "1113051",
+        "item": "684fce591c64b30725d11a79",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12823",
+        "name": "קטשופ",
+        "code": "1113045",
+        "item": "684fce591c64b30725d122fd",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12821",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11c87"
+      },
+      {
+        "modifier": "684fce591c64b30725d12822",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11c88"
+      }
+    ]
+  },
+  "684fce591c64b30725d125fb": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "גולדן רום - מרכיבים שניתן להוריד",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d125fc",
+        "name": "עטוף טוביקו ירוק",
+        "code": "1113807",
+        "item": "684fce591c64b30725d12193",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d125fd",
+        "name": "רוטב סלק",
+        "code": "1113808",
+        "item": "684fce591c64b30725d12381",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d125fe",
+        "name": "עירית",
+        "code": "1113809",
+        "item": "684fce591c64b30725d1219b",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d125fc",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11a91"
+      },
+      {
+        "modifier": "684fce591c64b30725d125fd",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11a92"
+      },
+      {
+        "modifier": "684fce591c64b30725d125fe",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11a93"
+      }
+    ]
+  },
+  "684fce591c64b30725d125ff": {
+    "min": 1,
+    "max": null,
+    "singleSelection": false,
+    "name": "גולדן רום - ירק שניתן להחליף (עד 1)",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12600",
+        "name": "אבוקדו",
+        "code": "1113810",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12601",
+        "name": "מלפפון",
+        "code": "1113811",
+        "item": "684fce591c64b30725d11ebf",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12600",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11a95"
+      },
+      {
+        "modifier": "684fce591c64b30725d12601",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11a96"
+      }
+    ]
+  },
+  "684fce591c64b30725d12602": {
+    "min": null,
+    "max": 1,
+    "singleSelection": false,
+    "name": "גולדן רום - ירק שניתן להוסיף (רק במידה והסרתם ירק)",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12603",
+        "name": "בטטה",
+        "code": "1113812",
+        "item": "684fce591c64b30725d119e3",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12604",
+        "name": "טמאגו",
+        "code": "1113813",
+        "item": "684fce591c64b30725d11ce9",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12605",
+        "name": "שיטאקי",
+        "code": "1113814",
+        "item": "684fce591c64b30725d123b6",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12606",
+        "name": "גזר",
+        "code": "1113815",
+        "item": "684fce591c64b30725d11aa8",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12a66": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "ירק שניתן להוריד",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12a67",
+        "name": "מלפפון",
+        "code": "1113502",
+        "item": "684fce591c64b30725d11ebf",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12a67",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d120ec"
+      }
+    ]
+  },
+  "684fce591c64b30725d12a56": {
+    "min": null,
+    "max": 1,
+    "singleSelection": false,
+    "name": "ירק שניתן להחליף - רק במידה והורדתם ירק מעל",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12a57",
+        "name": "גזר",
+        "code": "1113419",
+        "item": "684fce591c64b30725d11aa8",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a58",
+        "name": "בטטה",
+        "code": "1113420",
+        "item": "684fce591c64b30725d119e3",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a59",
+        "name": "שיטאקי",
+        "code": "1113421",
+        "item": "684fce591c64b30725d123b6",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a5a",
+        "name": "טמאגו",
+        "code": "1113422",
+        "item": "684fce591c64b30725d11ce9",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a5b",
+        "name": "קנפיו",
+        "code": "1113423",
+        "item": "684fce591c64b30725d12331",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a5c",
+        "name": "אספרגוס",
+        "code": "1113424",
+        "item": "684fce591c64b30725d11984",
+        "price": 5
+      },
+      {
+        "_id": "684fce591c64b30725d12a5d",
+        "name": "גבינת שמנת",
+        "code": "1113425",
+        "item": "684fce591c64b30725d11a83",
+        "price": 5
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d1289f": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "טורי רול - מרכיבים שניתן להוריד",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d128a0",
+        "name": "עירית",
+        "code": "1114200",
+        "item": "684fce591c64b30725d1219b",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d128a1",
+        "name": "ספייסי מיונז",
+        "code": "1114201",
+        "item": "684fce591c64b30725d120fc",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d128a2",
+        "name": "עטוף אבוקדו",
+        "code": "1114202",
+        "item": "684fce591c64b30725d1218e",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d128a3",
+        "name": "רצועות נורי מעל",
+        "code": "1114203",
+        "item": "684fce591c64b30725d123a0",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d128a0",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11c9a"
+      },
+      {
+        "modifier": "684fce591c64b30725d128a1",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11c9b"
+      },
+      {
+        "modifier": "684fce591c64b30725d128a3",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11c9c"
+      },
+      {
+        "modifier": "684fce591c64b30725d128a2",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11c9d"
+      }
+    ]
+  },
+  "684fce591c64b30725d128a4": {
+    "min": 1,
+    "max": null,
+    "singleSelection": false,
+    "name": "טורי רול - ירק שניתן להחליף (עד 1)",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d128a5",
+        "name": "מלפפון",
+        "code": "1114204",
+        "item": "684fce591c64b30725d11ec0",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d128a6",
+        "name": "שיטאקי",
+        "code": "1114205",
+        "item": "684fce591c64b30725d123b6",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d128a5",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11c9f"
+      },
+      {
+        "modifier": "684fce591c64b30725d128a6",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11ca0"
+      }
+    ]
+  },
+  "684fce591c64b30725d128a7": {
+    "min": null,
+    "max": 1,
+    "singleSelection": false,
+    "name": "טורי רול - ירק שניתן להוסיף -  רק במידה והסרתם ירק",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d128a8",
+        "name": "אבוקדו",
+        "code": "1114206",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d128a9",
+        "name": "גזר",
+        "code": "1114207",
+        "item": "684fce591c64b30725d11aa8",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d128aa",
+        "name": "בטטה",
+        "code": "1114208",
+        "item": "684fce591c64b30725d119e3",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d128ab",
+        "name": "טמאגו",
+        "code": "1114209",
+        "item": "684fce591c64b30725d11ce9",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d128ac",
+        "name": "קנפיו",
+        "code": "1114210",
+        "item": "684fce591c64b30725d12331",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d128ad",
+        "name": "אספרגוס",
+        "code": "1114211",
+        "item": "684fce591c64b30725d11984",
+        "price": 8
+      },
+      {
+        "_id": "684fce591c64b30725d128ae",
+        "name": "גבינת שמנת",
+        "code": "1114212",
+        "item": "684fce591c64b30725d11a83",
+        "price": 8
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12615": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "סלמון תאי - מרכיבים שניתן להוריד",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12616",
+        "name": "ספייסי מיונז",
+        "code": "1113826",
+        "item": "684fce591c64b30725d120fc",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12617",
+        "name": "גרידת לימון",
+        "code": "1113827",
+        "item": "684fce591c64b30725d11add",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12617",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1209e"
+      },
+      {
+        "modifier": "684fce591c64b30725d12616",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1209f"
+      }
+    ]
+  },
+  "684fce591c64b30725d12618": {
+    "min": 1,
+    "max": null,
+    "singleSelection": false,
+    "name": "סלמון תאי - מרכיבים שניתן להחליף",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d1261a",
+        "name": "אבוקדו",
+        "code": "1113829",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12619",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d120a1"
+      },
+      {
+        "modifier": "684fce591c64b30725d1261a",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d120a2"
+      }
+    ]
+  },
+  "684fce591c64b30725d1261b": {
+    "min": null,
+    "max": 1,
+    "singleSelection": false,
+    "name": "סלמון תאי - ירק שניתן להוסיף (רק במידה והסרתם מרכיב)",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d1261c",
+        "name": "מלפפון",
+        "code": "1113830",
+        "item": "684fce591c64b30725d11ebf",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1261d",
+        "name": "גזר",
+        "code": "1113831",
+        "item": "684fce591c64b30725d11aa8",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1261e",
+        "name": "טמאגו",
+        "code": "1113832",
+        "item": "684fce591c64b30725d11ce9",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1261f",
+        "name": "שיטאקי",
+        "code": "1113833",
+        "item": "684fce591c64b30725d123b6",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12620",
+        "name": "בטטה",
+        "code": "1113834",
+        "item": "684fce591c64b30725d119e3",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12621",
+        "name": "אספרגוס",
+        "code": "1113835",
+        "item": "684fce591c64b30725d11984",
+        "price": 8
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12622": {
+    "singleSelection": true,
+    "name": "עטוף",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12623",
+        "name": "עטוף סלמון צרוב",
+        "code": "1112321",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12624",
+        "name": "עטוף סלמון",
+        "code": "1112322",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12623",
+        "formationUnit": "",
+        "_id": "684fce591c64b30725d120a5"
+      }
+    ]
+  },
+  "684fce591c64b30725d129b4": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים שניתן להוריד",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d129b5",
+        "name": "קריספי שאלוט",
+        "code": "1112889",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d129b6",
+        "name": "עטוף טוביקו שחור",
+        "code": "1112890",
+        "item": "684fce591c64b30725d12194",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d129b7",
+        "name": "קרם יוזו אבוקדו",
+        "code": "1112891",
+        "item": "684fce591c64b30725d12348",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d129b5",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d123c2"
+      },
+      {
+        "modifier": "684fce591c64b30725d129b6",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d123c3"
+      },
+      {
+        "modifier": "684fce591c64b30725d129b7",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d123c4"
+      }
+    ]
+  },
+  "684fce591c64b30725d129b8": {
+    "min": 1,
+    "max": null,
+    "singleSelection": false,
+    "name": "ירק שניתן להחליף - עד 1",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d129b9",
+        "name": "בטטה",
+        "code": "1112892",
+        "item": "684fce591c64b30725d119e3",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d129ba",
+        "name": "אבוקדו",
+        "code": "1112893",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d129b9",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d123c6"
+      },
+      {
+        "modifier": "684fce591c64b30725d129ba",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d123c7"
+      }
+    ]
+  },
+  "684fce591c64b30725d129bb": {
+    "min": null,
+    "max": 1,
+    "singleSelection": false,
+    "name": "ירק שניתן להחליף - רק במידה והסרתם ירק",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d129bc",
+        "name": "מלפפון",
+        "code": "1112894",
+        "item": "684fce591c64b30725d11ebf",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d129bd",
+        "name": "גזר",
+        "code": "1112895",
+        "item": "684fce591c64b30725d11aa8",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d129be",
+        "name": "טמאגו",
+        "code": "1112896",
+        "item": "684fce591c64b30725d11ce9",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d129bf",
+        "name": "אספרגוס",
+        "code": "1112897",
+        "item": "684fce591c64b30725d11984",
+        "price": 8
+      },
+      {
+        "_id": "684fce591c64b30725d129c0",
+        "name": "גבינת שמנת",
+        "code": "1112898",
+        "item": "684fce591c64b30725d11a83",
+        "price": 8
+      },
+      {
+        "_id": "684fce591c64b30725d129c1",
+        "name": "קנפיו",
+        "code": "1112899",
+        "item": "684fce591c64b30725d12331",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12607": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "טונה אוסקה - מרכיבים שניתן להוריד",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12608",
+        "name": "עטוף קריספי טוגראשי",
+        "code": "1113816",
+        "item": "684fce591c64b30725d1219a",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12608",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11c30"
+      }
+    ]
+  },
+  "684fce591c64b30725d128af": {
+    "min": 1,
+    "max": null,
+    "singleSelection": false,
+    "name": "טונה אוסקה - ירק שניתן להחליף (עד 1)",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d128b0",
+        "name": "אבוקדו",
+        "code": "1114213",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d128b1",
+        "name": "מלפפון",
+        "code": "1114214",
+        "item": "684fce591c64b30725d11ebf",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d128b0",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11c32"
+      },
+      {
+        "modifier": "684fce591c64b30725d128b1",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11c33"
+      }
+    ]
+  },
+  "684fce591c64b30725d128b2": {
+    "min": null,
+    "max": 1,
+    "singleSelection": false,
+    "name": "טונה אוסקה - ירק שניתן להוסיף -  רק במידה והסרתם ירק",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d128b3",
+        "name": "בטטה",
+        "code": "1114215",
+        "item": "684fce591c64b30725d119e3",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d128b4",
+        "name": "גזר",
+        "code": "1114216",
+        "item": "684fce591c64b30725d11aa8",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d128b5",
+        "name": "שיטאקי",
+        "code": "1114217",
+        "item": "684fce591c64b30725d123b6",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d128b6",
+        "name": "טמאגו",
+        "code": "1114218",
+        "item": "684fce591c64b30725d11ce9",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d128b7",
+        "name": "אספרגוס",
+        "code": "1114219",
+        "item": "684fce591c64b30725d11984",
+        "price": 8
+      },
+      {
+        "_id": "684fce591c64b30725d128b8",
+        "name": "גבינת שמנת",
+        "code": "1114220",
+        "item": "684fce591c64b30725d11a83",
+        "price": 8
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12994": {
+    "min": 1,
+    "max": 1,
+    "singleSelection": false,
+    "name": "דג לרול",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12995",
+        "name": "דניס טמפורה",
+        "code": "1112842",
+        "item": "684fce591c64b30725d11b2f",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12996",
+        "name": "דניס נא",
+        "code": "1112843",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12962": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "האקו רול - מרכיבים שניתן להוריד",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12963",
+        "name": "עטוף אבוקדו",
+        "code": "1112730",
+        "item": "684fce591c64b30725d1218e",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12964",
+        "name": "טריאקי כמהין",
+        "code": "1112731",
+        "item": "684fce591c64b30725d11d3a",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12963",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11b36"
+      },
+      {
+        "modifier": "684fce591c64b30725d12964",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11b37"
+      }
+    ]
+  },
+  "684fce591c64b30725d12965": {
+    "min": 1,
+    "max": null,
+    "singleSelection": false,
+    "name": "האקו כמהין -  ירק שניתן להחליף (עד 1)",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12966",
+        "name": "מלפפון",
+        "code": "1112732",
+        "item": "684fce591c64b30725d11ec0",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12967",
+        "name": "שיטאקי",
+        "code": "1112733",
+        "item": "684fce591c64b30725d123b6",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12966",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11b39"
+      },
+      {
+        "modifier": "684fce591c64b30725d12967",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11b3a"
+      }
+    ]
+  },
+  "684fce591c64b30725d12968": {
+    "min": null,
+    "max": 1,
+    "singleSelection": false,
+    "name": "האקו כמהין - ירק שניתן להוסיף (רק במידה והסרתם ירק)",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12969",
+        "name": "אבוקדו",
+        "code": "1112734",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1296a",
+        "name": "גזר",
+        "code": "1112735",
+        "item": "684fce591c64b30725d11aa8",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1296b",
+        "name": "קנפיו",
+        "code": "1112736",
+        "item": "684fce591c64b30725d12331",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1296c",
+        "name": "בטטה",
+        "code": "1112737",
+        "item": "684fce591c64b30725d119e3",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1296d",
+        "name": "טמאגו",
+        "code": "1112738",
+        "item": "684fce591c64b30725d11ce9",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1296e",
+        "name": "אספרגוס",
+        "code": "1112739",
+        "item": "684fce591c64b30725d11984",
+        "price": 8
+      },
+      {
+        "_id": "684fce591c64b30725d1296f",
+        "name": "גבינת שמנת",
+        "code": "1112740",
+        "item": "684fce591c64b30725d11a83",
+        "price": 8
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12a43": {
+    "min": 1,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים שניתן להוריד",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12a44",
+        "name": "גרידת לימון",
+        "code": "1113505",
+        "item": "684fce591c64b30725d11add",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a45",
+        "name": "מיונז ליים",
+        "code": "1113506",
+        "item": "684fce591c64b30725d11ea6",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12a44",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1231e"
+      },
+      {
+        "modifier": "684fce591c64b30725d12a45",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1231f"
+      }
+    ]
+  },
+  "684fce591c64b30725d12a46": {
+    "min": 1,
+    "max": null,
+    "singleSelection": false,
+    "name": "ירק שניתן להחליף",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12a47",
+        "name": "אבוקדו",
+        "code": "1113403",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a48",
+        "name": "אספרגוס",
+        "code": "1113404",
+        "item": "684fce591c64b30725d11984",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12a47",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d12321"
+      },
+      {
+        "modifier": "684fce591c64b30725d12a48",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d12322"
+      }
+    ]
+  },
+  "684fce591c64b30725d12a49": {
+    "min": null,
+    "max": 1,
+    "singleSelection": false,
+    "name": "ירק שניתן להכניס - רק אם הורדתם ירק מעל",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12a4a",
+        "name": "בטטה",
+        "code": "1113405",
+        "item": "684fce591c64b30725d119e3",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a4b",
+        "name": "מלפפון",
+        "code": "1113406",
+        "item": "684fce591c64b30725d11ebf",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a4c",
+        "name": "טמאגו",
+        "code": "1113407",
+        "item": "684fce591c64b30725d11ce9",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a4d",
+        "name": "גזר",
+        "code": "1113408",
+        "item": "684fce591c64b30725d11aa8",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a4e",
+        "name": "שיטאקי",
+        "code": "1113409",
+        "item": "684fce591c64b30725d123b6",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12635": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מגורו גומא - מרכיבים שניתן להוריד",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12636",
+        "name": "רוטב גומא",
+        "code": "1113844",
+        "item": "684fce591c64b30725d12377",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12637",
+        "name": "עטוף טוביקו שחור",
+        "code": "1113845",
+        "item": "684fce591c64b30725d12194",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12636",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11e5f"
+      },
+      {
+        "modifier": "684fce591c64b30725d12637",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11e60"
+      }
+    ]
+  },
+  "684fce591c64b30725d12638": {
+    "min": 1,
+    "max": null,
+    "singleSelection": false,
+    "name": "מגורו גומא - ירק שניתן להחליף (עד 1)",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12639",
+        "name": "מלפפון",
+        "code": "1113846",
+        "item": "684fce591c64b30725d11ebf",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1263a",
+        "name": "אבוקדו",
+        "code": "1113847",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12639",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11e62"
+      },
+      {
+        "modifier": "684fce591c64b30725d1263a",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11e63"
+      }
+    ]
+  },
+  "684fce591c64b30725d1263b": {
+    "min": null,
+    "max": 1,
+    "singleSelection": false,
+    "name": "מגורו גומא - ירק שניתן להוסיף (רק במידה והסרתם ירק)",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d1263c",
+        "name": "טמאגו",
+        "code": "1113848",
+        "item": "684fce591c64b30725d11ce9",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1263d",
+        "name": "שיטאקי",
+        "code": "1113849",
+        "item": "684fce591c64b30725d123b6",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1263e",
+        "name": "בטטה",
+        "code": "1113850",
+        "item": "684fce591c64b30725d119e3",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1263f",
+        "name": "גזר",
+        "code": "1113851",
+        "item": "684fce591c64b30725d11aa8",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d1265a": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "ספייסי סלמון רול - מרכיבים שניתן להוריד",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d1265b",
+        "name": "עטוף שבבי בטטה",
+        "code": "1113868",
+        "item": "684fce591c64b30725d12190",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1265c",
+        "name": "עטוף בצל ירוק",
+        "code": "1113869",
+        "item": "684fce591c64b30725d12191",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d1265b",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1210a"
+      },
+      {
+        "modifier": "684fce591c64b30725d1265c",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1210b"
+      }
+    ]
+  },
+  "684fce591c64b30725d12628": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "ספיישל סלמון אפוי - מרכיבים שניתן להוריד",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12629",
+        "name": "עטוף בצל ירוק",
+        "code": "1113836",
+        "item": "684fce591c64b30725d12191",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1262a",
+        "name": "צילי טרי",
+        "code": "1113837",
+        "item": "684fce591c64b30725d12296",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1262b",
+        "name": "רוטב סלק",
+        "code": "1113838",
+        "item": "684fce591c64b30725d12381",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1262c",
+        "name": "ספייסי מיונז",
+        "code": "1113839",
+        "item": "684fce591c64b30725d120fc",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12629",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1212c"
+      },
+      {
+        "modifier": "684fce591c64b30725d1262a",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1212d"
+      },
+      {
+        "modifier": "684fce591c64b30725d1262b",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1212e"
+      },
+      {
+        "modifier": "684fce591c64b30725d1262c",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1212f"
+      }
+    ]
+  },
+  "684fce591c64b30725d1262d": {
+    "min": 1,
+    "max": null,
+    "singleSelection": false,
+    "name": "ספיישל סלמון אפוי - ירק שניתן להחליף (עד 1)",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d1262e",
+        "name": "בטטה טמפורה",
+        "code": "1112329",
+        "item": "684fce591c64b30725d119e3",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1262f",
+        "name": "אבוקדו",
+        "code": "1112330",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d1262e",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d12131"
+      },
+      {
+        "modifier": "684fce591c64b30725d1262f",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d12132"
+      }
+    ]
+  },
+  "684fce591c64b30725d12630": {
+    "min": null,
+    "max": 1,
+    "singleSelection": false,
+    "name": "ספיישל סלמון אפוי - ירק שניתן להוסיף (רק במידה והסרתם ירק)",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12631",
+        "name": "מלפפון",
+        "code": "1113840",
+        "item": "684fce591c64b30725d11ebf",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12632",
+        "name": "גזר",
+        "code": "1113841",
+        "item": "684fce591c64b30725d11aa8",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12633",
+        "name": "טמאגו",
+        "code": "1113842",
+        "item": "684fce591c64b30725d11ce9",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12634",
+        "name": "שיטאקי",
+        "code": "1113843",
+        "item": "684fce591c64b30725d123b6",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12609": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "טייגר רול - מרכיבים שניתן להוריד",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d1260a",
+        "name": "עטוף בצל ירוק",
+        "code": "1113817",
+        "item": "684fce591c64b30725d12191",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1260b",
+        "name": "עטוף שבבי טמפורה",
+        "code": "1113818",
+        "item": "684fce591c64b30725d12196",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1260c",
+        "name": "מיונז ליים",
+        "code": "1113819",
+        "item": "684fce591c64b30725d11ea6",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d1260a",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11cc8"
+      },
+      {
+        "modifier": "684fce591c64b30725d1260b",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11cc9"
+      },
+      {
+        "modifier": "684fce591c64b30725d1260c",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11cca"
+      }
+    ]
+  },
+  "684fce591c64b30725d1260d": {
+    "min": 1,
+    "max": null,
+    "singleSelection": false,
+    "name": "טייגר רול - ירק שניתן להחליף (עד 1)",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d1260e",
+        "name": "אבוקדו",
+        "code": "1113820",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1260f",
+        "name": "מלפפון",
+        "code": "1113821",
+        "item": "684fce591c64b30725d11ebf",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d1260e",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11ccc"
+      },
+      {
+        "modifier": "684fce591c64b30725d1260f",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11ccd"
+      }
+    ]
+  },
+  "684fce591c64b30725d12610": {
+    "min": null,
+    "max": 1,
+    "singleSelection": false,
+    "name": "טייגר רול - ירק שניתן להוסיף (רק במידה והסרתם ירק)",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12611",
+        "name": "בטטה",
+        "code": "1113822",
+        "item": "684fce591c64b30725d119e3",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12612",
+        "name": "טמאגו",
+        "code": "1113823",
+        "item": "684fce591c64b30725d11ce9",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12613",
+        "name": "שיטאקי",
+        "code": "1113824",
+        "item": "684fce591c64b30725d123b6",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12614",
+        "name": "גזר",
+        "code": "1113825",
+        "item": "684fce591c64b30725d11aa8",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d125ab": {
+    "singleSelection": true,
+    "name": "דג לטייגר רול",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d125ac",
+        "name": "שרימפס טמפורה",
+        "code": "1112323",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d125ad",
+        "name": "שרימפס חלוט",
+        "code": "1112324",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d125ae",
+        "name": "סלמון",
+        "code": "1112325",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d125af",
+        "name": "סלמון אפוי",
+        "code": "1112326",
+        "item": "684fce591c64b30725d12077",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d125ac",
+        "formationUnit": "",
+        "_id": "684fce591c64b30725d11cd0"
+      }
+    ]
+  },
+  "684fce591c64b30725d1257a": {
+    "min": 1,
+    "max": 1,
+    "singleSelection": false,
+    "name": "אורמאקי דג לבחירה",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d1257b",
+        "name": "סלמון",
+        "code": "1112618",
+        "item": "684fce591c64b30725d11901",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1257c",
+        "name": "סלמון אפוי",
+        "code": "1112619",
+        "item": "684fce591c64b30725d11906",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1257d",
+        "name": "דניס",
+        "code": "1112620",
+        "item": "684fce591c64b30725d118cf",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1257e",
+        "name": "טונה",
+        "code": "1112621",
+        "item": "684fce591c64b30725d118e1",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1257f",
+        "name": "אינטיאס",
+        "code": "1113457",
+        "item": "684fce591c64b30725d11975",
+        "price": 55
+      },
+      {
+        "_id": "684fce591c64b30725d12580",
+        "name": "צלופח",
+        "code": "1112622",
+        "item": "684fce591c64b30725d1193d",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12581",
+        "name": "שרימפס",
+        "code": "1112623",
+        "item": "684fce591c64b30725d1195d",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12582",
+        "name": "שרימפס מאודה",
+        "code": "1112624",
+        "item": "684fce591c64b30725d11961",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12583",
+        "name": "דניס טמפורה",
+        "code": "1112625",
+        "item": "684fce591c64b30725d118d4",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12563": {
+    "min": 1,
+    "max": 2,
+    "singleSelection": false,
+    "name": "ירק לבחירה",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12564",
+        "name": "אבוקדו",
+        "code": "1112579",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12565",
+        "name": "מלפפון",
+        "code": "1112580",
+        "item": "684fce591c64b30725d11ec0",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12566",
+        "name": "גזר",
+        "code": "1112581",
+        "item": "684fce591c64b30725d11aa8",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12567",
+        "name": "בטטה",
+        "code": "1112582",
+        "item": "684fce591c64b30725d119e3",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12568",
+        "name": "שיטאקי",
+        "code": "1112583",
+        "item": "684fce591c64b30725d123b6",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12569",
+        "name": "קנפיו",
+        "code": "1112584",
+        "item": "684fce591c64b30725d12331",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1256a",
+        "name": "טמאגו",
+        "code": "1112585",
+        "item": "684fce591c64b30725d11ce9",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1256b",
+        "name": "אספרגוס",
+        "code": "1112586",
+        "item": "684fce591c64b30725d11984",
+        "price": 8
+      },
+      {
+        "_id": "684fce591c64b30725d1256c",
+        "name": "גבינת שמנת",
+        "code": "1112587",
+        "item": "684fce591c64b30725d11a83",
+        "price": 8
+      },
+      {
+        "_id": "684fce591c64b30725d1256d",
+        "name": "עירית",
+        "code": "1112588",
+        "item": "684fce591c64b30725d1219b",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1256e",
+        "name": "רק דג - רול קטן יותר",
+        "code": "1112589",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12584": {
+    "min": null,
+    "max": 2,
+    "singleSelection": false,
+    "name": "מעטפת לסושי",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12585",
+        "name": "עטוף אבוקדו",
+        "code": "1112789",
+        "item": "684fce591c64b30725d1218e",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12586",
+        "name": "עטוף שבבי טמפורה",
+        "code": "1112790",
+        "item": "684fce591c64b30725d12196",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12587",
+        "name": "עטוף שבבי בטטה",
+        "code": "1112791",
+        "item": "684fce591c64b30725d12190",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12588",
+        "name": "עטוף סלמון",
+        "code": "1112792",
+        "item": "684fce591c64b30725d12197",
+        "price": 14
+      },
+      {
+        "_id": "684fce591c64b30725d12589",
+        "name": "עטוף סלמון צרוב",
+        "code": "1112793",
+        "item": "684fce591c64b30725d12198",
+        "price": 14
+      },
+      {
+        "_id": "684fce591c64b30725d1258a",
+        "name": "עטוף דניס",
+        "code": "1112794",
+        "item": "684fce591c64b30725d12192",
+        "price": 16
+      },
+      {
+        "_id": "684fce591c64b30725d1258b",
+        "name": "עטוף טונה",
+        "code": "1112795",
+        "item": "684fce591c64b30725d12195",
+        "price": 20
+      },
+      {
+        "_id": "684fce591c64b30725d1258c",
+        "name": "עטוף טוביקו שחור",
+        "code": "1112796",
+        "item": "684fce591c64b30725d12194",
+        "price": 16
+      },
+      {
+        "_id": "684fce591c64b30725d1258d",
+        "name": "עטוף טוביקו ירוק",
+        "code": "1112797",
+        "item": "684fce591c64b30725d12193",
+        "price": 16
+      },
+      {
+        "_id": "684fce591c64b30725d1258e",
+        "name": "עטוף איקורא",
+        "code": "1112798",
+        "item": "684fce591c64b30725d1218f",
+        "price": 16
+      },
+      {
+        "_id": "684fce591c64b30725d1258f",
+        "name": "עטוף בצל ירוק",
+        "code": "1112799",
+        "item": "684fce591c64b30725d12191",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12590",
+        "name": "בלי שומשום מעל",
+        "code": "1112800",
+        "item": "684fce591c64b30725d11a2f",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12591",
+        "name": "טריאקי כמהין",
+        "code": "1112801",
+        "item": "684fce591c64b30725d11d3a",
+        "price": 2
+      },
+      {
+        "_id": "684fce591c64b30725d12592",
+        "name": "בטטה סגולה",
+        "code": "1112802",
+        "item": "684fce591c64b30725d119e4",
+        "price": 8
+      },
+      {
+        "_id": "684fce591c64b30725d12593",
+        "name": "עטוף קריספי טוגראשי",
+        "code": "1112803",
+        "item": "684fce591c64b30725d1219a",
+        "price": 8
+      },
+      {
+        "_id": "684fce591c64b30725d12594",
+        "name": "טמפורה שחורה",
+        "code": "1112804",
+        "item": "684fce591c64b30725d11d2d",
+        "price": 8
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d1264d": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "בטטה קרנץ' - מרכיבים שניתן להוריד",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d1264e",
+        "name": "עטוף בצל ירוק",
+        "code": "1113858",
+        "item": "684fce591c64b30725d12191",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1264f",
+        "name": "עטוף קריספי בטטה",
+        "code": "1113859",
+        "item": "684fce591c64b30725d12190",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d1264e",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d119ef"
+      },
+      {
+        "modifier": "684fce591c64b30725d1264f",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d119f0"
+      }
+    ]
+  },
+  "684fce591c64b30725d12650": {
+    "min": 2,
+    "max": null,
+    "singleSelection": false,
+    "name": "בטטה קרנץ' - ירק שניתן להחליף (עד 1)",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12651",
+        "name": "בטטה",
+        "code": "1113860",
+        "item": "684fce591c64b30725d119e3",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12652",
+        "name": "אבוקדו",
+        "code": "1113861",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12653",
+        "name": "מלפפון",
+        "code": "1113862",
+        "item": "684fce591c64b30725d11ebf",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12651",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d119f2"
+      },
+      {
+        "modifier": "684fce591c64b30725d12652",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d119f3"
+      },
+      {
+        "modifier": "684fce591c64b30725d12653",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d119f4"
+      }
+    ]
+  },
+  "684fce591c64b30725d12654": {
+    "min": null,
+    "max": 1,
+    "singleSelection": false,
+    "name": "בטטה קרנץ' - ירק שניתן להוסיף (רק במידה והסרתם ירק)",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12655",
+        "name": "גזר",
+        "code": "1113863",
+        "item": "684fce591c64b30725d11aa8",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12656",
+        "name": "טמאגו",
+        "code": "1113864",
+        "item": "684fce591c64b30725d11ce9",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12657",
+        "name": "שיטאקי",
+        "code": "1113865",
+        "item": "684fce591c64b30725d123b6",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12658",
+        "name": "גבינת שמנת",
+        "code": "1113866",
+        "item": "684fce591c64b30725d11a83",
+        "price": 8
+      },
+      {
+        "_id": "684fce591c64b30725d12659",
+        "name": "אספרגוס",
+        "code": "1113867",
+        "item": "684fce591c64b30725d11984",
+        "price": 8
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12640": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "ווג'י רום - מרכיבים שניתן להוריד",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12641",
+        "name": "איולי טבעוני",
+        "code": "1113496",
+        "item": "684fce591c64b30725d11973",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12642",
+        "name": "רוטב סלק",
+        "code": "1113497",
+        "item": "684fce591c64b30725d12381",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12643",
+        "name": "צילי טרי",
+        "code": "1113498",
+        "item": "684fce591c64b30725d12296",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12644",
+        "name": "עטוף טמפורה",
+        "code": "1113499",
+        "item": "684fce591c64b30725d12196",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12641",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11ba9"
+      },
+      {
+        "modifier": "684fce591c64b30725d12642",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11baa"
+      },
+      {
+        "modifier": "684fce591c64b30725d12643",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11bab"
+      },
+      {
+        "modifier": "684fce591c64b30725d12644",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11bac"
+      }
+    ]
+  },
+  "684fce591c64b30725d12645": {
+    "min": 2,
+    "max": null,
+    "singleSelection": false,
+    "name": "ווג'י רום - ירק שניתן להחליף (עד 1)",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12646",
+        "name": "שיטאקי",
+        "code": "1113852",
+        "item": "684fce591c64b30725d123b6",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12647",
+        "name": "מלפפון",
+        "code": "1113853",
+        "item": "684fce591c64b30725d11ebf",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12648",
+        "name": "אבוקדו",
+        "code": "1113854",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12646",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11bae"
+      },
+      {
+        "modifier": "684fce591c64b30725d12647",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11baf"
+      },
+      {
+        "modifier": "684fce591c64b30725d12648",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11bb0"
+      }
+    ]
+  },
+  "684fce591c64b30725d12649": {
+    "min": null,
+    "max": 1,
+    "singleSelection": false,
+    "name": "ווג'י רום - ירק שניתן להוסיף (רק במידה והסרתם ירק)",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d1264a",
+        "name": "גזר",
+        "code": "1113855",
+        "item": "684fce591c64b30725d11aa8",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1264b",
+        "name": "בטטה",
+        "code": "1113856",
+        "item": "684fce591c64b30725d119e3",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1264c",
+        "name": "טמאגו",
+        "code": "1113857",
+        "item": "684fce591c64b30725d11ce9",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12524": {
+    "singleSelection": true,
+    "name": "צ'ילי",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12525",
+        "name": "עם צ'ילי",
+        "code": "1112331",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12526",
+        "name": "בלי צ'ילי",
+        "code": "1112332",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12527",
+        "name": "צ'ילי בצד >>",
+        "code": "1112333",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d1267d": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "גרין רול - מרכיבים שניתן להוריד",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d1267e",
+        "name": "עטוף אבוקדו",
+        "code": "1112421",
+        "item": "684fce591c64b30725d1218e",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1267f",
+        "name": "עירית קצוצה מעל",
+        "code": "1113041",
+        "item": "684fce591c64b30725d1219c",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12680",
+        "name": "איולי טבעוני",
+        "code": "1113042",
+        "item": "684fce591c64b30725d11973",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d1267e",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11aea"
+      },
+      {
+        "modifier": "684fce591c64b30725d1267f",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11aeb"
+      },
+      {
+        "modifier": "684fce591c64b30725d12680",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11aec"
+      }
+    ]
+  },
+  "684fce591c64b30725d12681": {
+    "min": 2,
+    "max": null,
+    "singleSelection": false,
+    "name": "גרין רול - ירק שניתן להחליף (עד 1)",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12682",
+        "name": "אבוקדו",
+        "code": "1113885",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12683",
+        "name": "מלפפון",
+        "code": "1113886",
+        "item": "684fce591c64b30725d11ebf",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12684",
+        "name": "אספרגוס",
+        "code": "1113887",
+        "item": "684fce591c64b30725d11984",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12682",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11aee"
+      },
+      {
+        "modifier": "684fce591c64b30725d12683",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11aef"
+      },
+      {
+        "modifier": "684fce591c64b30725d12684",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11af0"
+      }
+    ]
+  },
+  "684fce591c64b30725d12685": {
+    "min": null,
+    "max": 1,
+    "singleSelection": false,
+    "name": "גרין רול - ירק שניתן להוסיף (רק במידה והורדתם ירק)",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12686",
+        "name": "בטטה",
+        "code": "1113888",
+        "item": "684fce591c64b30725d119e3",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12687",
+        "name": "גזר",
+        "code": "1113889",
+        "item": "684fce591c64b30725d11aa8",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12688",
+        "name": "שיטאקי",
+        "code": "1113890",
+        "item": "684fce591c64b30725d123b6",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12689",
+        "name": "טמאגו",
+        "code": "1113891",
+        "item": "684fce591c64b30725d11ce9",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d1256f": {
+    "min": 1,
+    "max": 3,
+    "singleSelection": false,
+    "name": "ירק לבחירה לצמחוני",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12570",
+        "name": "אבוקדו",
+        "code": "1112592",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12571",
+        "name": "מלפפון",
+        "code": "1112593",
+        "item": "684fce591c64b30725d11ec0",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12572",
+        "name": "גזר",
+        "code": "1112594",
+        "item": "684fce591c64b30725d11aa8",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12573",
+        "name": "בטטה",
+        "code": "1112595",
+        "item": "684fce591c64b30725d119e3",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12574",
+        "name": "שיטאקי",
+        "code": "1112596",
+        "item": "684fce591c64b30725d123b6",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12575",
+        "name": "קנפיו",
+        "code": "1112597",
+        "item": "684fce591c64b30725d12331",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12576",
+        "name": "טמאגו",
+        "code": "1112598",
+        "item": "684fce591c64b30725d11ce9",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12577",
+        "name": "אספרגוס",
+        "code": "1112599",
+        "item": "684fce591c64b30725d11984",
+        "price": 8
+      },
+      {
+        "_id": "684fce591c64b30725d12578",
+        "name": "גבינת שמנת",
+        "code": "1112600",
+        "item": "684fce591c64b30725d11a83",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12579",
+        "name": "רק אורז",
+        "code": "1112601",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12a30": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים קנפאצי",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12a31",
+        "name": "אספרגוס",
+        "code": "1113374",
+        "item": "684fce591c64b30725d11984",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a32",
+        "name": "אבוקדו",
+        "code": "1113375",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a33",
+        "name": "עירית קצוצה מעל",
+        "code": "1113378",
+        "item": "684fce591c64b30725d1219c",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a34",
+        "name": "מיונז ליים",
+        "code": "1113503",
+        "item": "684fce591c64b30725d11ea6",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a35",
+        "name": "גרידת לימון",
+        "code": "1113504",
+        "item": "684fce591c64b30725d11add",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12a31",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d12316"
+      },
+      {
+        "modifier": "684fce591c64b30725d12a32",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d12317"
+      },
+      {
+        "modifier": "684fce591c64b30725d12a33",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d12318"
+      },
+      {
+        "modifier": "684fce591c64b30725d12a34",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d12319"
+      },
+      {
+        "modifier": "684fce591c64b30725d12a35",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d1231a"
+      }
+    ]
+  },
+  "684fce591c64b30725d12528": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "שינויים לספיישל",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12529",
+        "name": "אבוקדו",
+        "code": "1113710",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1252a",
+        "name": "מלפפון",
+        "code": "1113711",
+        "item": "684fce591c64b30725d11ebf",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1252b",
+        "name": "גזר",
+        "code": "1113712",
+        "item": "684fce591c64b30725d11aa8",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1252c",
+        "name": "בטטה",
+        "code": "1113713",
+        "item": "684fce591c64b30725d119e3",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1252d",
+        "name": "טמאגו",
+        "code": "1113714",
+        "item": "684fce591c64b30725d11ce9",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1252e",
+        "name": "קנפיו",
+        "code": "1113715",
+        "item": "684fce591c64b30725d12331",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1252f",
+        "name": "שיטאקי",
+        "code": "1113716",
+        "item": "684fce591c64b30725d123b6",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12530",
+        "name": "עירית",
+        "code": "1113717",
+        "item": "684fce591c64b30725d1219b",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12531",
+        "name": "בצל ירוק",
+        "code": "1113718",
+        "item": "684fce591c64b30725d11a32",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12532",
+        "name": "אספרגוס",
+        "code": "1113719",
+        "item": "684fce591c64b30725d11984",
+        "price": 8
+      },
+      {
+        "_id": "684fce591c64b30725d12533",
+        "name": "גבינת שמנת",
+        "code": "1113720",
+        "item": "684fce591c64b30725d11a83",
+        "price": 8
+      },
+      {
+        "_id": "684fce591c64b30725d12534",
+        "name": "טופו טמפורה",
+        "code": "1113721",
+        "item": "684fce591c64b30725d11c7c",
+        "price": 10
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12a36": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים: ספייסי אנזו",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12a37",
+        "name": "ספייסי סלמון",
+        "code": "1113379",
+        "item": "684fce591c64b30725d120fe",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a38",
+        "name": "אבוקדו",
+        "code": "1113380",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a39",
+        "name": "מלפפון",
+        "code": "1113381",
+        "item": "684fce591c64b30725d11ebf",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a3a",
+        "name": "ספייסי מיונז",
+        "code": "1113382",
+        "item": "684fce591c64b30725d120fc",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12a3b",
+        "name": "פניני אורז",
+        "code": "1113383",
+        "item": "684fce591c64b30725d1223c",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12a37",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d120e4"
+      },
+      {
+        "modifier": "684fce591c64b30725d12a38",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d120e5"
+      },
+      {
+        "modifier": "684fce591c64b30725d12a39",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d120e6"
+      },
+      {
+        "modifier": "684fce591c64b30725d12a3a",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d120e7"
+      },
+      {
+        "modifier": "684fce591c64b30725d12a3b",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d120e8"
+      }
+    ]
+  },
+  "684fce591c64b30725d12675": {
+    "min": 1,
+    "max": 2,
+    "singleSelection": false,
+    "name": "מרכיבים לטמפורה רול - יש לבחור עד 2",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12676",
+        "name": "אבוקדו",
+        "code": "1112558",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12677",
+        "name": "גבינת שמנת",
+        "code": "1112559",
+        "item": "684fce591c64b30725d11a83",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12678",
+        "name": "מלפפון",
+        "code": "1112560",
+        "item": "684fce591c64b30725d11ebf",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12679",
+        "name": "גזר",
+        "code": "1112561",
+        "item": "684fce591c64b30725d11aa8",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1267a",
+        "name": "טמאגו",
+        "code": "1112562",
+        "item": "684fce591c64b30725d11ce9",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1267b",
+        "name": "שיטאקי",
+        "code": "1112563",
+        "item": "684fce591c64b30725d123b6",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1267c",
+        "name": "בטטה",
+        "code": "1112564",
+        "item": "684fce591c64b30725d119e3",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12676",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11d19"
+      },
+      {
+        "modifier": "684fce591c64b30725d12677",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11d1a"
+      }
+    ]
+  },
+  "684fce591c64b30725d125b0": {
+    "singleSelection": true,
+    "name": "דג לטמפורה רול",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d125b1",
+        "name": "סלמון",
+        "code": "1112337",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d125b2",
+        "name": "סלמון אפוי",
+        "code": "1112338",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12705": {
+    "min": 1,
+    "max": 3,
+    "singleSelection": false,
+    "name": "מרכיבים לטמפורה רול - יש לבחור עד 3",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12706",
+        "name": "אבוקדו",
+        "code": "1112567",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12707",
+        "name": "מלפפון",
+        "code": "1112568",
+        "item": "684fce591c64b30725d11ebf",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12708",
+        "name": "גזר",
+        "code": "1112569",
+        "item": "684fce591c64b30725d11aa8",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12709",
+        "name": "בטטה",
+        "code": "1112570",
+        "item": "684fce591c64b30725d119e3",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1270a",
+        "name": "טמאגו",
+        "code": "1112571",
+        "item": "684fce591c64b30725d11ce9",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1270b",
+        "name": "שיטאקי",
+        "code": "1112572",
+        "item": "684fce591c64b30725d123b6",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1270c",
+        "name": "גבינת שמנת",
+        "code": "1112573",
+        "item": "684fce591c64b30725d11a83",
+        "price": 8
+      },
+      {
+        "_id": "684fce591c64b30725d1270d",
+        "name": "אספרגוס",
+        "code": "1112574",
+        "item": "684fce591c64b30725d11984",
+        "price": 8
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d1255a": {
+    "min": 1,
+    "max": 1,
+    "singleSelection": false,
+    "name": "מאקי דג לבחירה",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d1255b",
+        "name": "סלמון",
+        "code": "1113022",
+        "item": "684fce591c64b30725d11e24",
+        "price": 41
+      },
+      {
+        "_id": "684fce591c64b30725d1255c",
+        "name": "סלמון אפוי",
+        "code": "1113023",
+        "item": "684fce591c64b30725d11e28",
+        "price": 41
+      },
+      {
+        "_id": "684fce591c64b30725d1255d",
+        "name": "דניס",
+        "code": "1113024",
+        "item": "684fce591c64b30725d11e15",
+        "price": 42
+      },
+      {
+        "_id": "684fce591c64b30725d1255e",
+        "name": "טונה",
+        "code": "1113025",
+        "item": "684fce591c64b30725d11e1d",
+        "price": 44
+      },
+      {
+        "_id": "684fce591c64b30725d1255f",
+        "name": "אינטיאס",
+        "code": "1113482",
+        "item": "684fce591c64b30725d11975",
+        "price": 45
+      },
+      {
+        "_id": "684fce591c64b30725d12560",
+        "name": "שרימפס",
+        "code": "1113026",
+        "item": "684fce591c64b30725d11e4c",
+        "price": 41
+      },
+      {
+        "_id": "684fce591c64b30725d12561",
+        "name": "שרימפס מאודה",
+        "code": "1113027",
+        "item": "684fce591c64b30725d11e4d",
+        "price": 41
+      },
+      {
+        "_id": "684fce591c64b30725d12562",
+        "name": "צלופח",
+        "code": "1113028",
+        "item": "684fce591c64b30725d11e37",
+        "price": 46
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12595": {
+    "min": 1,
+    "max": 1,
+    "singleSelection": false,
+    "name": "טמאקי דג לבחירה",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12596",
+        "name": "סלמון",
+        "code": "1113017",
+        "item": "684fce591c64b30725d11cfe",
+        "price": 41
+      },
+      {
+        "_id": "684fce591c64b30725d12597",
+        "name": "דניס",
+        "code": "1113018",
+        "item": "684fce591c64b30725d11cf6",
+        "price": 42
+      },
+      {
+        "_id": "684fce591c64b30725d12598",
+        "name": "טונה",
+        "code": "1113019",
+        "item": "684fce591c64b30725d11cfa",
+        "price": 45
+      },
+      {
+        "_id": "684fce591c64b30725d12599",
+        "name": "שרימפס",
+        "code": "1113020",
+        "item": "684fce591c64b30725d11d0f",
+        "price": 41
+      },
+      {
+        "_id": "684fce591c64b30725d1259a",
+        "name": "אינטיאס",
+        "code": "1113461",
+        "item": "684fce591c64b30725d11975",
+        "price": 45
+      },
+      {
+        "_id": "684fce591c64b30725d1259b",
+        "name": "צלופח",
+        "code": "1113021",
+        "item": "684fce591c64b30725d11cff",
+        "price": 44
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d127ee": {
+    "min": 1,
+    "max": 1,
+    "singleSelection": false,
+    "name": "אורמאקי דג ללא גלוטן לבחירה",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d127ef",
+        "name": "אורמאקי סלמון",
+        "code": "1113009",
+        "item": "684fce591c64b30725d118fd",
+        "price": 52
+      },
+      {
+        "_id": "684fce591c64b30725d127f0",
+        "name": "אורמאקי דניס",
+        "code": "1113010",
+        "item": "684fce591c64b30725d118cb",
+        "price": 52
+      },
+      {
+        "_id": "684fce591c64b30725d127f1",
+        "name": "אורמאקי טונה",
+        "code": "1113011",
+        "item": "684fce591c64b30725d118dd",
+        "price": 54
+      },
+      {
+        "_id": "684fce591c64b30725d127f2",
+        "name": "אורמאקי אינטיאס",
+        "code": "1113459",
+        "item": "684fce591c64b30725d118b0",
+        "price": 55
+      },
+      {
+        "_id": "684fce591c64b30725d127f3",
+        "name": "אורמאקי שרימפס מאודה",
+        "code": "1113012",
+        "item": "684fce591c64b30725d11961",
+        "price": 52
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12789": {
+    "min": 1,
+    "max": 2,
+    "singleSelection": false,
+    "name": "מרכיבים לסושי ללא גלוטן",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d1278a",
+        "name": "אבוקדו",
+        "code": "1114036",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1278b",
+        "name": "מלפפון",
+        "code": "1114037",
+        "item": "684fce591c64b30725d11ebf",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1278c",
+        "name": "גזר",
+        "code": "1114038",
+        "item": "684fce591c64b30725d11aa8",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1278d",
+        "name": "אספרגוס",
+        "code": "1114039",
+        "item": "684fce591c64b30725d11984",
+        "price": 8
+      },
+      {
+        "_id": "684fce591c64b30725d1278e",
+        "name": "גבינת שמנת",
+        "code": "1114040",
+        "item": "684fce591c64b30725d11a83",
+        "price": 8
+      },
+      {
+        "_id": "684fce591c64b30725d1278f",
+        "name": "רק דג - הרול יהיה קטן יותר",
+        "code": "1114041",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12790": {
+    "min": null,
+    "max": 2,
+    "singleSelection": false,
+    "name": "מעטפת לסושי ללא גלוטן",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12791",
+        "name": "עטוף אבוקדו",
+        "code": "1114042",
+        "item": "684fce591c64b30725d1218e",
+        "price": 8
+      },
+      {
+        "_id": "684fce591c64b30725d12792",
+        "name": "עטוף בצל ירוק",
+        "code": "1114043",
+        "item": "684fce591c64b30725d12191",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d12793",
+        "name": "עטוף סלמון",
+        "code": "1114044",
+        "item": "684fce591c64b30725d12197",
+        "price": 14
+      },
+      {
+        "_id": "684fce591c64b30725d12794",
+        "name": "עטוף סלמון צרוב",
+        "code": "1114045",
+        "item": "684fce591c64b30725d12198",
+        "price": 14
+      },
+      {
+        "_id": "684fce591c64b30725d12795",
+        "name": "עטוף טונה",
+        "code": "1114046",
+        "item": "684fce591c64b30725d12195",
+        "price": 20
+      },
+      {
+        "_id": "684fce591c64b30725d12796",
+        "name": "עטוף דניס",
+        "code": "1114047",
+        "item": "684fce591c64b30725d12192",
+        "price": 16
+      },
+      {
+        "_id": "684fce591c64b30725d12797",
+        "name": "עטוף איקורא",
+        "code": "1114048",
+        "item": "684fce591c64b30725d1218f",
+        "price": 16
+      },
+      {
+        "_id": "684fce591c64b30725d12798",
+        "name": "עטוף טוביקו ירוק",
+        "code": "1114049",
+        "item": "684fce591c64b30725d12193",
+        "price": 16
+      },
+      {
+        "_id": "684fce591c64b30725d12799",
+        "name": "עטוף טוביקו שחור",
+        "code": "1114050",
+        "item": "684fce591c64b30725d12194",
+        "price": 16
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d127eb": {
+    "min": null,
+    "max": 1,
+    "singleSelection": false,
+    "name": "טוביקו",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d127ec",
+        "name": "טוביקו ירוק",
+        "code": "1114088",
+        "item": "684fce591c64b30725d11c0b",
+        "price": 14
+      },
+      {
+        "_id": "684fce591c64b30725d127ed",
+        "name": "טוביקו שחור",
+        "code": "1114089",
+        "item": "684fce591c64b30725d11c0c",
+        "price": 14
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d1279a": {
+    "min": 1,
+    "max": 3,
+    "singleSelection": false,
+    "name": "מרכיבים לסושי ללא גלוטן צמחוני",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d1279b",
+        "name": "אבוקדו",
+        "code": "1114051",
+        "item": "684fce591c64b30725d11858",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1279c",
+        "name": "מלפפון",
+        "code": "1114052",
+        "item": "684fce591c64b30725d11ebf",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1279d",
+        "name": "גזר",
+        "code": "1114053",
+        "item": "684fce591c64b30725d11aa8",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d1279e",
+        "name": "אספרגוס",
+        "code": "1114054",
+        "item": "684fce591c64b30725d11984",
+        "price": 8
+      },
+      {
+        "_id": "684fce591c64b30725d1279f",
+        "name": "גבינת שמנת",
+        "code": "1114055",
+        "item": "684fce591c64b30725d11a83",
+        "price": 8
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d127a0": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מעטפת לסושי ללא גלוטן",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d127a1",
+        "name": "עטוף אבוקדו",
+        "code": "1114056",
+        "item": "684fce591c64b30725d1218e",
+        "price": 8
+      },
+      {
+        "_id": "684fce591c64b30725d127a2",
+        "name": "עטוף בצל ירוק",
+        "code": "1114057",
+        "item": "684fce591c64b30725d12191",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12784": {
+    "min": 1,
+    "max": 1,
+    "singleSelection": false,
+    "name": "דג ללא גלוטן",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12785",
+        "name": "מאקי סלמון",
+        "code": "1113013",
+        "item": "684fce591c64b30725d11e21",
+        "price": 38
+      },
+      {
+        "_id": "684fce591c64b30725d12786",
+        "name": "מאקי טונה",
+        "code": "1113014",
+        "item": "684fce591c64b30725d11e1a",
+        "price": 42
+      },
+      {
+        "_id": "684fce591c64b30725d12787",
+        "name": "מאקי דניס",
+        "code": "1113015",
+        "item": "684fce591c64b30725d11e12",
+        "price": 38
+      },
+      {
+        "_id": "684fce591c64b30725d12788",
+        "name": "מאקי שרימפס מאודה",
+        "code": "1113016",
+        "item": "684fce591c64b30725d11e4d",
+        "price": 39
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d12938": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "מרכיבים בנודלס ילדים",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d12939",
+        "name": "גזר",
+        "code": "1112672",
+        "item": "684fce591c64b30725d11aa8",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d12939",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d11f21"
+      }
+    ]
+  },
+  "684fce591c64b30725d126e4": {
+    "singleSelection": true,
+    "name": "תוספת",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d126e5",
+        "name": "עוף נ",
+        "code": "1113941",
+        "item": "684fce591c64b30725d1218c",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126e6",
+        "name": "טופו נ",
+        "code": "1113942",
+        "item": "684fce591c64b30725d11c7b",
+        "price": 0
+      },
+      {
+        "_id": "684fce591c64b30725d126e7",
+        "name": "נקי",
+        "code": "1113943",
+        "price": 0
+      }
+    ],
+    "defaults": []
+  },
+  "684fce591c64b30725d1280e": {
+    "min": null,
+    "max": null,
+    "singleSelection": false,
+    "name": "קידס באן",
+    "modifiers": [
+      {
+        "_id": "684fce591c64b30725d1280f",
+        "name": "קטשופ",
+        "code": "1114099",
+        "item": "684fce591c64b30725d122fd",
+        "price": 0
+      }
+    ],
+    "defaults": [
+      {
+        "modifier": "684fce591c64b30725d1280f",
+        "formationUnit": "רגיל",
+        "_id": "684fce591c64b30725d12303"
+      }
+    ]
+  }
+}

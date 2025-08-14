@@ -1,0 +1,18 @@
+{
+  "name": "מרק ראמן",
+  "description": "מרק ראמן בציר עוף, בקר וטארה מיסו דאשי יפני, אטריות ראמן, עוף, ביצה רכה כהה, אצות נורי, בצל ירוק. שמן צ'ילי (בצד).",
+  "tags": [
+    "מרקים 🥣"
+  ],
+  "item": "684fce591c64b30725d11f01",
+  "offer": "684fce591c64b30725d1133d",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d124e4",
+      "modGroup": "684fce591c64b30725d11f02"
+    }
+  ],
+  "price": 76
+}

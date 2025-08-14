@@ -1,0 +1,208 @@
+{"id":"684fce591c64b30725d12595","modification":{"name":"טמאקי דג לבחירה","add":[{"name":"סלמון","price":41},{"name":"דניס","price":42},{"name":"טונה","price":45},{"name":"שרימפס","price":41},{"name":"אינטיאס","price":45},{"name":"צלופח","price":44}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d12563","modification":{"name":"ירק לבחירה","add":[{"name":"אבוקדו"},{"name":"מלפפון"},{"name":"גזר"},{"name":"בטטה"},{"name":"שיטאקי"},{"name":"קנפיו"},{"name":"טמאגו"},{"name":"אספרגוס","price":8},{"name":"גבינת שמנת","price":8},{"name":"עירית"},{"name":"רק דג - רול קטן יותר"}],"remove":[],"min":1,"max":2}}
+{"id":"684fce591c64b30725d1256f","modification":{"name":"ירק לבחירה לצמחוני","add":[{"name":"אבוקדו"},{"name":"מלפפון"},{"name":"גזר"},{"name":"בטטה"},{"name":"שיטאקי"},{"name":"קנפיו"},{"name":"טמאגו"},{"name":"אספרגוס","price":8},{"name":"גבינת שמנת"},{"name":"רק אורז"}],"remove":[],"min":1,"max":3}}
+{"id":"684fce591c64b30725d124a1","modification":{"name":"מרכיבים באן בקר","add":[],"remove":[{"name":"קולורבי מוחמץ"},{"name":"בצל ירוק"},{"name":"שאלוט מטוגן"},{"name":"צ'ילי מוחמץ"},{"name":"רוטב ברביקיו קוריאני"}],"max":null}}
+{"id":"684fce591c64b30725d1280c","modification":{"name":"באן","add":[{"name":"אריזה נפרדת"}],"remove":[],"max":null}}
+{"id":"684fce591c64b30725d12418","modification":{"name":"מרכיבים באן קריספי פיש","add":[],"remove":[{"name":"קרם יוזו"},{"name":"צילי מוחמץ"},{"name":"בזיל תיאלנדי"},{"name":"שאלוט מוחמץ"}],"max":null}}
+{"id":"684fce591c64b30725d127e2","modification":{"name":"מרכיבים באן טורי-סלמון","add":[],"remove":[{"name":"סלמון מטוגן בפנקו"},{"name":"רוטב נפאלי חריף"},{"name":"מלפפון"},{"name":"צנונית"},{"name":"כוסברה"}],"max":null}}
+{"id":"684fce591c64b30725d12a3f","modification":{"name":"מרכיבים באן טופו","add":[],"remove":[{"name":"שאלוט מטוגן"},{"name":"ספייסי טבעוני"},{"name":"חסה"}],"max":null}}
+{"id":"684fce591c64b30725d12728","modification":{"name":"צרוב או מאודה?","add":[{"name":"צרוב"},{"name":"מאודה"}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d127fd","modification":{"name":"ספרינג רום","add":[],"remove":[{"name":"*עלים ורוטב לספרינג רום בצד*"}],"max":null}}
+{"id":"684fce591c64b30725d126f8","modification":{"name":"מרכיבים שניתן להוריד מהפופקורן שרימפס","add":[],"remove":[{"name":"שומשום"},{"name":"בצל ירוק"}],"max":null}}
+{"id":"684fce591c64b30725d1255a","modification":{"name":"מאקי דג לבחירה","add":[{"name":"סלמון","price":41},{"name":"סלמון אפוי","price":41},{"name":"דניס","price":42},{"name":"טונה","price":44},{"name":"אינטיאס","price":45},{"name":"שרימפס","price":41},{"name":"שרימפס מאודה","price":41},{"name":"צלופח","price":46}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d125fb","modification":{"name":"גולדן רום - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"עטוף טוביקו ירוק"},{"name":"רוטב סלק"},{"name":"עירית"}],"max":null}}
+{"id":"684fce591c64b30725d125ff","modification":{"name":"גולדן רום - ירק שניתן להחליף (עד 1)","add":[],"remove":[{"name":"אבוקדו"},{"name":"מלפפון"}],"min":1,"max":null}}
+{"id":"684fce591c64b30725d12602","modification":{"name":"גולדן רום - ירק שניתן להוסיף (רק במידה והסרתם ירק)","add":[{"name":"בטטה"},{"name":"טמאגו"},{"name":"שיטאקי"},{"name":"גזר"}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d12a66","modification":{"name":"ירק שניתן להוריד","add":[],"remove":[{"name":"מלפפון"}],"max":null}}
+{"id":"684fce591c64b30725d12a56","modification":{"name":"ירק שניתן להחליף - רק במידה והורדתם ירק מעל","add":[{"name":"גזר"},{"name":"בטטה"},{"name":"שיטאקי"},{"name":"טמאגו"},{"name":"קנפיו"},{"name":"אספרגוס","price":5},{"name":"גבינת שמנת","price":5}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d1289f","modification":{"name":"טורי רול - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"עירית"},{"name":"ספייסי מיונז"},{"name":"עטוף אבוקדו"},{"name":"רצועות נורי מעל"}],"max":null}}
+{"id":"684fce591c64b30725d128a4","modification":{"name":"טורי רול - ירק שניתן להחליף (עד 1)","add":[],"remove":[{"name":"מלפפון"},{"name":"שיטאקי"}],"min":1,"max":null}}
+{"id":"684fce591c64b30725d128a7","modification":{"name":"טורי רול - ירק שניתן להוסיף -  רק במידה והסרתם ירק","add":[{"name":"אבוקדו"},{"name":"גזר"},{"name":"בטטה"},{"name":"טמאגו"},{"name":"קנפיו"},{"name":"אספרגוס","price":8},{"name":"גבינת שמנת","price":8}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d12615","modification":{"name":"סלמון תאי - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"ספייסי מיונז"},{"name":"גרידת לימון"}],"max":null}}
+{"id":"684fce591c64b30725d12618","modification":{"name":"סלמון תאי - מרכיבים שניתן להחליף","add":[],"remove":[{"name":"אבוקדו"}],"min":1,"max":null}}
+{"id":"684fce591c64b30725d1261b","modification":{"name":"סלמון תאי - ירק שניתן להוסיף (רק במידה והסרתם מרכיב)","add":[{"name":"מלפפון"},{"name":"גזר"},{"name":"טמאגו"},{"name":"שיטאקי"},{"name":"בטטה"},{"name":"אספרגוס","price":8}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d12622","modification":{"name":"עטוף","add":[{"name":"עטוף סלמון"}],"remove":[{"name":"עטוף סלמון צרוב"}],"min":1,"max":1}}
+{"id":"684fce591c64b30725d129b4","modification":{"name":"מרכיבים שניתן להוריד","add":[],"remove":[{"name":"קריספי שאלוט"},{"name":"עטוף טוביקו שחור"},{"name":"קרם יוזו אבוקדו"}],"max":null}}
+{"id":"684fce591c64b30725d129b8","modification":{"name":"ירק שניתן להחליף - עד 1","add":[],"remove":[{"name":"בטטה"},{"name":"אבוקדו"}],"min":1,"max":null}}
+{"id":"684fce591c64b30725d129bb","modification":{"name":"ירק שניתן להחליף - רק במידה והסרתם ירק","add":[{"name":"מלפפון"},{"name":"גזר"},{"name":"טמאגו"},{"name":"אספרגוס","price":8},{"name":"גבינת שמנת","price":8},{"name":"קנפיו"}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d12607","modification":{"name":"טונה אוסקה - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"עטוף קריספי טוגראשי"}],"max":null}}
+{"id":"684fce591c64b30725d128af","modification":{"name":"טונה אוסקה - ירק שניתן להחליף (עד 1)","add":[],"remove":[{"name":"אבוקדו"},{"name":"מלפפון"}],"min":1,"max":null}}
+{"id":"684fce591c64b30725d128b2","modification":{"name":"טונה אוסקה - ירק שניתן להוסיף -  רק במידה והסרתם ירק","add":[{"name":"בטטה"},{"name":"גזר"},{"name":"שיטאקי"},{"name":"טמאגו"},{"name":"אספרגוס","price":8},{"name":"גבינת שמנת","price":8}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d12994","modification":{"name":"דג לרול","add":[{"name":"דניס טמפורה"},{"name":"דניס נא"}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d12962","modification":{"name":"האקו רול - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"עטוף אבוקדו"},{"name":"טריאקי כמהין"}],"max":null}}
+{"id":"684fce591c64b30725d12965","modification":{"name":"האקו כמהין -  ירק שניתן להחליף (עד 1)","add":[],"remove":[{"name":"מלפפון"},{"name":"שיטאקי"}],"min":1,"max":null}}
+{"id":"684fce591c64b30725d12968","modification":{"name":"האקו כמהין - ירק שניתן להוסיף (רק במידה והסרתם ירק)","add":[{"name":"אבוקדו"},{"name":"גזר"},{"name":"קנפיו"},{"name":"בטטה"},{"name":"טמאגו"},{"name":"אספרגוס","price":8},{"name":"גבינת שמנת","price":8}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d12a43","modification":{"name":"מרכיבים שניתן להוריד","add":[],"remove":[{"name":"גרידת לימון"},{"name":"מיונז ליים"}],"min":1,"max":null}}
+{"id":"684fce591c64b30725d12a46","modification":{"name":"ירק שניתן להחליף","add":[],"remove":[{"name":"אבוקדו"},{"name":"אספרגוס"}],"min":1,"max":null}}
+{"id":"684fce591c64b30725d12a49","modification":{"name":"ירק שניתן להכניס - רק אם הורדתם ירק מעל","add":[{"name":"בטטה"},{"name":"מלפפון"},{"name":"טמאגו"},{"name":"גזר"},{"name":"שיטאקי"}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d12635","modification":{"name":"מגורו גומא - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"רוטב גומא"},{"name":"עטוף טוביקו שחור"}],"max":null}}
+{"id":"684fce591c64b30725d12638","modification":{"name":"מגורו גומא - ירק שניתן להחליף (עד 1)","add":[],"remove":[{"name":"מלפפון"},{"name":"אבוקדו"}],"min":1,"max":null}}
+{"id":"684fce591c64b30725d1263b","modification":{"name":"מגורו גומא - ירק שניתן להוסיף (רק במידה והסרתם ירק)","add":[{"name":"טמאגו"},{"name":"שיטאקי"},{"name":"בטטה"},{"name":"גזר"}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d1265a","modification":{"name":"ספייסי סלמון רול - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"עטוף שבבי בטטה"},{"name":"עטוף בצל ירוק"}],"max":null}}
+{"id":"684fce591c64b30725d12628","modification":{"name":"ספיישל סלמון אפוי - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"עטוף בצל ירוק"},{"name":"צילי טרי"},{"name":"רוטב סלק"},{"name":"ספייסי מיונז"}],"max":null}}
+{"id":"684fce591c64b30725d1262d","modification":{"name":"ספיישל סלמון אפוי - ירק שניתן להחליף (עד 1)","add":[],"remove":[{"name":"בטטה טמפורה"},{"name":"אבוקדו"}],"min":1,"max":null}}
+{"id":"684fce591c64b30725d12630","modification":{"name":"ספיישל סלמון אפוי - ירק שניתן להוסיף (רק במידה והסרתם ירק)","add":[{"name":"מלפפון"},{"name":"גזר"},{"name":"טמאגו"},{"name":"שיטאקי"}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d12609","modification":{"name":"טייגר רול - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"עטוף בצל ירוק"},{"name":"עטוף שבבי טמפורה"},{"name":"מיונז ליים"}],"max":null}}
+{"id":"684fce591c64b30725d1260d","modification":{"name":"טייגר רול - ירק שניתן להחליף (עד 1)","add":[],"remove":[{"name":"אבוקדו"},{"name":"מלפפון"}],"min":1,"max":null}}
+{"id":"684fce591c64b30725d12610","modification":{"name":"טייגר רול - ירק שניתן להוסיף (רק במידה והסרתם ירק)","add":[{"name":"בטטה"},{"name":"טמאגו"},{"name":"שיטאקי"},{"name":"גזר"}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d125ab","modification":{"name":"דג לטייגר רול","add":[{"name":"שרימפס חלוט"},{"name":"סלמון"},{"name":"סלמון אפוי"}],"remove":[{"name":"שרימפס טמפורה"}],"min":1,"max":1}}
+{"id":"684fce591c64b30725d1257a","modification":{"name":"אורמאקי דג לבחירה","add":[{"name":"סלמון"},{"name":"סלמון אפוי"},{"name":"דניס"},{"name":"טונה"},{"name":"אינטיאס","price":55},{"name":"צלופח"},{"name":"שרימפס"},{"name":"שרימפס מאודה"},{"name":"דניס טמפורה"}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d12584","modification":{"name":"מעטפת לסושי","add":[{"name":"עטוף אבוקדו"},{"name":"עטוף שבבי טמפורה"},{"name":"עטוף שבבי בטטה"},{"name":"עטוף סלמון","price":14},{"name":"עטוף סלמון צרוב","price":14},{"name":"עטוף דניס","price":16},{"name":"עטוף טונה","price":20},{"name":"עטוף טוביקו שחור","price":16},{"name":"עטוף טוביקו ירוק","price":16},{"name":"עטוף איקורא","price":16},{"name":"עטוף בצל ירוק"},{"name":"בלי שומשום מעל"},{"name":"טריאקי כמהין","price":2},{"name":"בטטה סגולה","price":8},{"name":"עטוף קריספי טוגראשי","price":8},{"name":"טמפורה שחורה","price":8}],"remove":[],"max":2}}
+{"id":"684fce591c64b30725d1264d","modification":{"name":"בטטה קרנץ' - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"עטוף בצל ירוק"},{"name":"עטוף קריספי בטטה"}],"max":null}}
+{"id":"684fce591c64b30725d12650","modification":{"name":"בטטה קרנץ' - ירק שניתן להחליף (עד 1)","add":[],"remove":[{"name":"בטטה"},{"name":"אבוקדו"},{"name":"מלפפון"}],"min":2,"max":null}}
+{"id":"684fce591c64b30725d12654","modification":{"name":"בטטה קרנץ' - ירק שניתן להוסיף (רק במידה והסרתם ירק)","add":[{"name":"גזר"},{"name":"טמאגו"},{"name":"שיטאקי"},{"name":"גבינת שמנת","price":8},{"name":"אספרגוס","price":8}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d12640","modification":{"name":"ווג'י רום - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"איולי טבעוני"},{"name":"רוטב סלק"},{"name":"צילי טרי"},{"name":"עטוף טמפורה"}],"max":null}}
+{"id":"684fce591c64b30725d12645","modification":{"name":"ווג'י רום - ירק שניתן להחליף (עד 1)","add":[],"remove":[{"name":"שיטאקי"},{"name":"מלפפון"},{"name":"אבוקדו"}],"min":2,"max":null}}
+{"id":"684fce591c64b30725d12649","modification":{"name":"ווג'י רום - ירק שניתן להוסיף (רק במידה והסרתם ירק)","add":[{"name":"גזר"},{"name":"בטטה"},{"name":"טמאגו"}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d12524","modification":{"name":"צ'ילי","add":[{"name":"עם צ'ילי"},{"name":"בלי צ'ילי"},{"name":"צ'ילי בצד >>"}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d1267d","modification":{"name":"גרין רול - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"עטוף אבוקדו"},{"name":"עירית קצוצה מעל"},{"name":"איולי טבעוני"}],"max":null}}
+{"id":"684fce591c64b30725d12681","modification":{"name":"גרין רול - ירק שניתן להחליף (עד 1)","add":[],"remove":[{"name":"אבוקדו"},{"name":"מלפפון"},{"name":"אספרגוס"}],"min":2,"max":null}}
+{"id":"684fce591c64b30725d12685","modification":{"name":"גרין רול - ירק שניתן להוסיף (רק במידה והורדתם ירק)","add":[{"name":"בטטה"},{"name":"גזר"},{"name":"שיטאקי"},{"name":"טמאגו"}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d12a2a","modification":{"name":"מרכיבים אומאי","add":[],"remove":[{"name":"פילה דניס טמפורה"},{"name":"שי מאגי"},{"name":"שעועית ירוקה"},{"name":"קשיו"},{"name":"כוסברה"}],"max":null}}
+{"id":"684fce591c64b30725d126d7","modification":{"name":"תוספת לבחירה","add":[{"name":"רק ירקות"},{"name":"טופו"},{"name":"עוף"},{"name":"שרימפס","price":5},{"name":"בקר","price":5},{"name":"תחליף בקר","price":5}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d126fe","modification":{"name":"אטריות","add":[{"name":"אטריות ביצים"}],"remove":[{"name":"אטריות אורז"}],"min":1,"max":1}}
+{"id":"684fce591c64b30725d126d0","modification":{"name":"מרכיבים שניתן להוציא מהמעושנת","add":[],"remove":[{"name":"חזה אווז"},{"name":"ברוקולי"},{"name":"פטריות"},{"name":"בצל סגול ולבן"},{"name":"בצל ירוק"},{"name":"צילי פרוסות"}],"max":null}}
+{"id":"684fce591c64b30725d126e8","modification":{"name":"חריפות","add":[{"name":"לא חריף"}],"remove":[{"name":"חריף"}],"min":1,"max":1}}
+{"id":"684fce591c64b30725d1281e","modification":{"name":"שינויים בטורי קאצו","add":[{"name":"בלי שומשום באורז"}],"remove":[],"max":null}}
+{"id":"684fce591c64b30725d12820","modification":{"name":"רטבים בצד","add":[{"name":"קטשופ"}],"remove":[{"name":"מיונז ליים"},{"name":"ברביקיו קוריאני"}],"max":2}}
+{"id":"684fce591c64b30725d124e4","modification":{"name":"מרכיבים מרק ראמן","add":[],"remove":[{"name":"אטריות ראמן"},{"name":"ביצה רכה"},{"name":"עוף ראמן"},{"name":"בצל ירוק"},{"name":"נורי דק"},{"name":"*מומלץ לחמם במיקרו*"}],"max":null}}
+{"id":"684fce591c64b30725d128d0","modification":{"name":"שינויים בסלמון מיסו גלייז","add":[{"name":"פילה סלמון ללא רוטב"}],"remove":[],"max":null}}
+{"id":"684fce591c64b30725d12a25","modification":{"name":"מרכיבים במנה פאד קפאו","add":[],"remove":[{"name":"בזיליקים תאילנדי"},{"name":"שאלוט"},{"name":"צילי"},{"name":"ביצת עין"}],"max":null}}
+{"id":"684fce591c64b30725d12a22","modification":{"name":"חריפות","add":[{"name":"חריף"},{"name":"לא חריף"}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d126c5","modification":{"name":"מרכיבים שניתן להוציא  מהפאד תאי","add":[{"name":"ללא גלוטן 🌾"},{"name":"טבעוני 🌿"}],"remove":[{"name":"גזר"},{"name":"כרוב"},{"name":"בצל ירוק"},{"name":"ביצה"},{"name":"נבטים"},{"name":"פלח לימון"},{"name":"בוטנים קצוצים"},{"name":"כוסברה"}],"max":null}}
+{"id":"684fce591c64b30725d12a1d","modification":{"name":"מרכיבים במנה","add":[],"remove":[{"name":"פטריות"},{"name":"ברוקולי"},{"name":"בצל ירוק"},{"name":"קשיו"}],"max":null}}
+{"id":"684fce591c64b30725d1243f","modification":{"name":"מרכיבים שניתן להוציא מהקארי ירוק","add":[],"remove":[{"name":"ברוקולי"},{"name":"זוקיני"},{"name":"חציל"},{"name":"שעועית ירוקה"},{"name":"בצל סגול ולבן"},{"name":"בזיליקים תאילנדי"}],"max":null}}
+{"id":"684fce591c64b30725d12496","modification":{"name":"מרכיבים שניתן להוציא מהקארי מאסאמן","add":[],"remove":[{"name":"ברוקולי"},{"name":"כוסברה"},{"name":"פטריות"},{"name":"זוקיני"},{"name":"תפוח אדמה"}],"max":null}}
+{"id":"684fce591c64b30725d127d1","modification":{"name":"אטריות: רד קארי נודלס","add":[{"name":"אטריות אורז"}],"remove":[{"name":"אטריות ביצים"}],"min":1,"max":1}}
+{"id":"684fce591c64b30725d127cb","modification":{"name":"מרכיבים: רד קארי נודלס","add":[],"remove":[{"name":"עגבניות שרי"},{"name":"שעועית ירוקה"},{"name":"ברוקולי"},{"name":"בצל ירוק"},{"name":"בוטנים קצוצים"}],"max":null}}
+{"id":"684fce591c64b30725d12938","modification":{"name":"מרכיבים בנודלס ילדים","add":[],"remove":[{"name":"גזר"}],"max":null}}
+{"id":"684fce591c64b30725d126e4","modification":{"name":"תוספת","add":[{"name":"עוף נ"},{"name":"טופו נ"},{"name":"נקי"}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d1280e","modification":{"name":"קידס באן","add":[],"remove":[{"name":"קטשופ"}],"max":null}}
+{"id":"684fce591c64b30725d12407","modification":{"name":"מרכיבים אגאדשי טופו","add":[],"remove":[{"name":"* טופו *"},{"name":"ג'ינג'ר כתוש"},{"name":"צנון כתוש"},{"name":"בצל ירוק"},{"name":"רצועות נורי"}],"max":null}}
+{"id":"684fce591c64b30725d1272b","modification":{"name":"תוספת למרק טום יאם","add":[{"name":"טופו"},{"name":"שרימפס"},{"name":"דג"},{"name":"ללא"}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d12730","modification":{"name":"מרכיבים שניתן להוציא מהמרק טום יאם","add":[],"remove":[{"name":"אטריות שעועית"},{"name":"עגבניות שרי"},{"name":"פטריות"},{"name":"כוסברה"},{"name":"צילי טרי"}],"max":null}}
+{"id":"684fce591c64b30725d12455","modification":{"name":"מרכיבים מרק מיסו","add":[{"name":"תוספת טופו","price":5}],"remove":[{"name":"קוביות טופו"},{"name":"בצל ירוק"},{"name":"אצות וואקמה"}],"max":null}}
+{"id":"684fce591c64b30725d127ee","modification":{"name":"אורמאקי דג ללא גלוטן לבחירה","add":[{"name":"אורמאקי סלמון","price":52},{"name":"אורמאקי דניס","price":52},{"name":"אורמאקי טונה","price":54},{"name":"אורמאקי אינטיאס","price":55},{"name":"אורמאקי שרימפס מאודה","price":52}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d12789","modification":{"name":"מרכיבים לסושי ללא גלוטן","add":[{"name":"אבוקדו"},{"name":"מלפפון"},{"name":"גזר"},{"name":"אספרגוס","price":8},{"name":"גבינת שמנת","price":8},{"name":"רק דג - הרול יהיה קטן יותר"}],"remove":[],"min":1,"max":2}}
+{"id":"684fce591c64b30725d12790","modification":{"name":"מעטפת לסושי ללא גלוטן","add":[{"name":"עטוף אבוקדו","price":8},{"name":"עטוף בצל ירוק"},{"name":"עטוף סלמון","price":14},{"name":"עטוף סלמון צרוב","price":14},{"name":"עטוף טונה","price":20},{"name":"עטוף דניס","price":16},{"name":"עטוף איקורא","price":16},{"name":"עטוף טוביקו ירוק","price":16},{"name":"עטוף טוביקו שחור","price":16}],"remove":[],"max":2}}
+{"id":"684fce591c64b30725d127eb","modification":{"name":"טוביקו","add":[{"name":"טוביקו ירוק","price":14},{"name":"טוביקו שחור","price":14}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d1279a","modification":{"name":"מרכיבים לסושי ללא גלוטן צמחוני","add":[{"name":"אבוקדו"},{"name":"מלפפון"},{"name":"גזר"},{"name":"אספרגוס","price":8},{"name":"גבינת שמנת","price":8}],"remove":[],"min":1,"max":3}}
+{"id":"684fce591c64b30725d127a0","modification":{"name":"מעטפת לסושי ללא גלוטן","add":[{"name":"עטוף אבוקדו","price":8},{"name":"עטוף בצל ירוק"}],"remove":[],"max":null}}
+{"id":"684fce591c64b30725d12784","modification":{"name":"דג ללא גלוטן","add":[{"name":"מאקי סלמון","price":38},{"name":"מאקי טונה","price":42},{"name":"מאקי דניס","price":38},{"name":"מאקי שרימפס מאודה","price":39}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d127da","modification":{"name":"מרכיבים בסלט הקיסר היפני","add":[],"remove":[{"name":"חזה עוף"},{"name":"צנונית"},{"name":"מלפפון"},{"name":"ביצה רכה"},{"name":"קרוטוני בריוש"},{"name":"רוטב קיסר"},{"name":"פרמזן"}],"max":null}}
+{"id":"684fce591c64b30725d127ff","modification":{"name":"דג לסלט","add":[{"name":"דניס טמפורה"},{"name":"שרימפס חלוט"},{"name":"ללא"}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d127b5","modification":{"name":"מרכיבים בסאן פלה","add":[],"remove":[{"name":"אטריות שעועית"},{"name":"כרוב"},{"name":"גינגר"},{"name":"כוסברה"},{"name":"בצל ירוק"},{"name":"צילי טרי"},{"name":"בוטנים קצוצים"},{"name":"רוטב סאן פלה"}],"max":null}}
+{"id":"684fce591c64b30725d1249c","modification":{"name":"מרכיבים שניתן להוציא מהסביצ'ה סלמון","add":[],"remove":[{"name":"בצל סגול"},{"name":"כוסברה"},{"name":"צילי טרי"},{"name":"איקורא"}],"max":null}}
+{"id":"684fce591c64b30725d129dd","modification":{"name":"מרכיבים: סילו יאנג","add":[],"remove":[{"name":"עלי רוקולה"},{"name":"בצל סגול"},{"name":"אורגנו"},{"name":"כוסברה"},{"name":"נענע"},{"name":"נבטים"},{"name":"מיקרו סורל"},{"name":"בזיליקים תאילנדי"},{"name":"צילי טרי"},{"name":"רוטב סילו יאנג"}],"max":null}}
+{"id":"684fce591c64b30725d126eb","modification":{"name":"שינויים אפשריים בסלט אצות","add":[{"name":"רוטב ללא גלוטן 🌾"}],"remove":[{"name":"מלפפון"},{"name":"אבוקדו"},{"name":"נבטים"},{"name":"בצל ירוק"},{"name":"שומשום"}],"max":null}}
+{"id":"684fce591c64b30725d129d4","modification":{"name":"מרכיבים: סלט סאטה ציקן","add":[],"remove":[{"name":"עוף"},{"name":"מלפפון"},{"name":"מיקרו סלק"},{"name":"נבטים"},{"name":"קריספי קייל"},{"name":"שומשום"},{"name":"בוטנים קצוצים"},{"name":"רוטב סאטה"}],"max":null}}
+{"id":"684fce591c64b30725d12675","modification":{"name":"מרכיבים לטמפורה רול - יש לבחור עד 2","add":[{"name":"מלפפון"},{"name":"גזר"},{"name":"טמאגו"},{"name":"שיטאקי"},{"name":"בטטה"}],"remove":[{"name":"אבוקדו"},{"name":"גבינת שמנת"}],"min":1,"max":2}}
+{"id":"684fce591c64b30725d125b0","modification":{"name":"דג לטמפורה רול","add":[{"name":"סלמון"},{"name":"סלמון אפוי"}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d12705","modification":{"name":"מרכיבים לטמפורה רול - יש לבחור עד 3","add":[{"name":"אבוקדו"},{"name":"מלפפון"},{"name":"גזר"},{"name":"בטטה"},{"name":"טמאגו"},{"name":"שיטאקי"},{"name":"גבינת שמנת","price":8},{"name":"אספרגוס","price":8}],"remove":[],"min":1,"max":3}}
+{"id":"684fce591c64b30725d12a36","modification":{"name":"מרכיבים: ספייסי אנזו","add":[],"remove":[{"name":"ספייסי סלמון"},{"name":"אבוקדו"},{"name":"מלפפון"},{"name":"ספייסי מיונז"},{"name":"פניני אורז"}],"max":null}}
+{"id":"684fce591c64b30725d12528","modification":{"name":"שינויים לספיישל","add":[{"name":"אבוקדו"},{"name":"מלפפון"},{"name":"גזר"},{"name":"בטטה"},{"name":"טמאגו"},{"name":"קנפיו"},{"name":"שיטאקי"},{"name":"עירית"},{"name":"בצל ירוק"},{"name":"אספרגוס","price":8},{"name":"גבינת שמנת","price":8},{"name":"טופו טמפורה","price":10}],"remove":[],"max":null}}
+{"id":"684fce591c64b30725d12a30","modification":{"name":"מרכיבים קנפאצי","add":[],"remove":[{"name":"אספרגוס"},{"name":"אבוקדו"},{"name":"עירית קצוצה מעל"},{"name":"מיונז ליים"},{"name":"גרידת לימון"}],"max":null}}
+{"id":"684fce591c64b30725d12595","modification":{"name":"טמאקי דג לבחירה","add":[{"name":"סלמון","price":41},{"name":"דניס","price":42},{"name":"טונה","price":45},{"name":"שרימפס","price":41},{"name":"אינטיאס","price":45},{"name":"צלופח","price":44}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d12563","modification":{"name":"ירק לבחירה","add":[{"name":"אבוקדו"},{"name":"מלפפון"},{"name":"גזר"},{"name":"בטטה"},{"name":"שיטאקי"},{"name":"קנפיו"},{"name":"טמאגו"},{"name":"אספרגוס","price":8},{"name":"גבינת שמנת","price":8},{"name":"עירית"},{"name":"רק דג - רול קטן יותר"}],"remove":[],"min":1,"max":2}}
+{"id":"684fce591c64b30725d1256f","modification":{"name":"ירק לבחירה לצמחוני","add":[{"name":"אבוקדו"},{"name":"מלפפון"},{"name":"גזר"},{"name":"בטטה"},{"name":"שיטאקי"},{"name":"קנפיו"},{"name":"טמאגו"},{"name":"אספרגוס","price":8},{"name":"גבינת שמנת"},{"name":"רק אורז"}],"remove":[],"min":1,"max":3}}
+{"id":"684fce591c64b30725d124a1","modification":{"name":"מרכיבים באן בקר","add":[],"remove":[{"name":"קולורבי מוחמץ"},{"name":"בצל ירוק"},{"name":"שאלוט מטוגן"},{"name":"צ'ילי מוחמץ"},{"name":"רוטב ברביקיו קוריאני"}],"max":null}}
+{"id":"684fce591c64b30725d1280c","modification":{"name":"באן","add":[{"name":"אריזה נפרדת"}],"remove":[],"max":null}}
+{"id":"684fce591c64b30725d12418","modification":{"name":"מרכיבים באן קריספי פיש","add":[],"remove":[{"name":"קרם יוזו"},{"name":"צילי מוחמץ"},{"name":"בזיל תיאלנדי"},{"name":"שאלוט מוחמץ"}],"max":null}}
+{"id":"684fce591c64b30725d127e2","modification":{"name":"מרכיבים באן טורי-סלמון","add":[],"remove":[{"name":"סלמון מטוגן בפנקו"},{"name":"רוטב נפאלי חריף"},{"name":"מלפפון"},{"name":"צנונית"},{"name":"כוסברה"}],"max":null}}
+{"id":"684fce591c64b30725d12a3f","modification":{"name":"מרכיבים באן טופו","add":[],"remove":[{"name":"שאלוט מטוגן"},{"name":"ספייסי טבעוני"},{"name":"חסה"}],"max":null}}
+{"id":"684fce591c64b30725d12728","modification":{"name":"צרוב או מאודה?","add":[{"name":"צרוב"},{"name":"מאודה"}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d127fd","modification":{"name":"ספרינג רום","add":[],"remove":[{"name":"*עלים ורוטב לספרינג רום בצד*"}],"max":null}}
+{"id":"684fce591c64b30725d126f8","modification":{"name":"מרכיבים שניתן להוריד מהפופקורן שרימפס","add":[],"remove":[{"name":"שומשום"},{"name":"בצל ירוק"}],"max":null}}
+{"id":"684fce591c64b30725d1255a","modification":{"name":"מאקי דג לבחירה","add":[{"name":"סלמון","price":41},{"name":"סלמון אפוי","price":41},{"name":"דניס","price":42},{"name":"טונה","price":44},{"name":"אינטיאס","price":45},{"name":"שרימפס","price":41},{"name":"שרימפס מאודה","price":41},{"name":"צלופח","price":46}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d125fb","modification":{"name":"גולדן רום - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"עטוף טוביקו ירוק"},{"name":"רוטב סלק"},{"name":"עירית"}],"max":null}}
+{"id":"684fce591c64b30725d125ff","modification":{"name":"גולדן רום - ירק שניתן להחליף (עד 1)","add":[],"remove":[{"name":"אבוקדו"},{"name":"מלפפון"}],"min":1,"max":null}}
+{"id":"684fce591c64b30725d12602","modification":{"name":"גולדן רום - ירק שניתן להוסיף (רק במידה והסרתם ירק)","add":[{"name":"בטטה"},{"name":"טמאגו"},{"name":"שיטאקי"},{"name":"גזר"}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d12a66","modification":{"name":"ירק שניתן להוריד","add":[],"remove":[{"name":"מלפפון"}],"max":null}}
+{"id":"684fce591c64b30725d12a56","modification":{"name":"ירק שניתן להחליף - רק במידה והורדתם ירק מעל","add":[{"name":"גזר"},{"name":"בטטה"},{"name":"שיטאקי"},{"name":"טמאגו"},{"name":"קנפיו"},{"name":"אספרגוס","price":5},{"name":"גבינת שמנת","price":5}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d1289f","modification":{"name":"טורי רול - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"עירית"},{"name":"ספייסי מיונז"},{"name":"עטוף אבוקדו"},{"name":"רצועות נורי מעל"}],"max":null}}
+{"id":"684fce591c64b30725d128a4","modification":{"name":"טורי רול - ירק שניתן להחליף (עד 1)","add":[],"remove":[{"name":"מלפפון"},{"name":"שיטאקי"}],"min":1,"max":null}}
+{"id":"684fce591c64b30725d128a7","modification":{"name":"טורי רול - ירק שניתן להוסיף -  רק במידה והסרתם ירק","add":[{"name":"אבוקדו"},{"name":"גזר"},{"name":"בטטה"},{"name":"טמאגו"},{"name":"קנפיו"},{"name":"אספרגוס","price":8},{"name":"גבינת שמנת","price":8}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d12615","modification":{"name":"סלמון תאי - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"ספייסי מיונז"},{"name":"גרידת לימון"}],"max":null}}
+{"id":"684fce591c64b30725d12618","modification":{"name":"סלמון תאי - מרכיבים שניתן להחליף","add":[],"remove":[{"name":"אבוקדו"}],"min":1,"max":null}}
+{"id":"684fce591c64b30725d1261b","modification":{"name":"סלמון תאי - ירק שניתן להוסיף (רק במידה והסרתם מרכיב)","add":[{"name":"מלפפון"},{"name":"גזר"},{"name":"טמאגו"},{"name":"שיטאקי"},{"name":"בטטה"},{"name":"אספרגוס","price":8}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d12622","modification":{"name":"עטוף","add":[{"name":"עטוף סלמון"}],"remove":[{"name":"עטוף סלמון צרוב"}],"min":1,"max":1}}
+{"id":"684fce591c64b30725d129b4","modification":{"name":"מרכיבים שניתן להוריד","add":[],"remove":[{"name":"קריספי שאלוט"},{"name":"עטוף טוביקו שחור"},{"name":"קרם יוזו אבוקדו"}],"max":null}}
+{"id":"684fce591c64b30725d129b8","modification":{"name":"ירק שניתן להחליף - עד 1","add":[],"remove":[{"name":"בטטה"},{"name":"אבוקדו"}],"min":1,"max":null}}
+{"id":"684fce591c64b30725d129bb","modification":{"name":"ירק שניתן להחליף - רק במידה והסרתם ירק","add":[{"name":"מלפפון"},{"name":"גזר"},{"name":"טמאגו"},{"name":"אספרגוס","price":8},{"name":"גבינת שמנת","price":8},{"name":"קנפיו"}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d12607","modification":{"name":"טונה אוסקה - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"עטוף קריספי טוגראשי"}],"max":null}}
+{"id":"684fce591c64b30725d128af","modification":{"name":"טונה אוסקה - ירק שניתן להחליף (עד 1)","add":[],"remove":[{"name":"אבוקדו"},{"name":"מלפפון"}],"min":1,"max":null}}
+{"id":"684fce591c64b30725d128b2","modification":{"name":"טונה אוסקה - ירק שניתן להוסיף -  רק במידה והסרתם ירק","add":[{"name":"בטטה"},{"name":"גזר"},{"name":"שיטאקי"},{"name":"טמאגו"},{"name":"אספרגוס","price":8},{"name":"גבינת שמנת","price":8}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d12994","modification":{"name":"דג לרול","add":[{"name":"דניס טמפורה"},{"name":"דניס נא"}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d12962","modification":{"name":"האקו רול - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"עטוף אבוקדו"},{"name":"טריאקי כמהין"}],"max":null}}
+{"id":"684fce591c64b30725d12965","modification":{"name":"האקו כמהין -  ירק שניתן להחליף (עד 1)","add":[],"remove":[{"name":"מלפפון"},{"name":"שיטאקי"}],"min":1,"max":null}}
+{"id":"684fce591c64b30725d12968","modification":{"name":"האקו כמהין - ירק שניתן להוסיף (רק במידה והסרתם ירק)","add":[{"name":"אבוקדו"},{"name":"גזר"},{"name":"קנפיו"},{"name":"בטטה"},{"name":"טמאגו"},{"name":"אספרגוס","price":8},{"name":"גבינת שמנת","price":8}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d12a43","modification":{"name":"מרכיבים שניתן להוריד","add":[],"remove":[{"name":"גרידת לימון"},{"name":"מיונז ליים"}],"min":1,"max":null}}
+{"id":"684fce591c64b30725d12a46","modification":{"name":"ירק שניתן להחליף","add":[],"remove":[{"name":"אבוקדו"},{"name":"אספרגוס"}],"min":1,"max":null}}
+{"id":"684fce591c64b30725d12a49","modification":{"name":"ירק שניתן להכניס - רק אם הורדתם ירק מעל","add":[{"name":"בטטה"},{"name":"מלפפון"},{"name":"טמאגו"},{"name":"גזר"},{"name":"שיטאקי"}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d12635","modification":{"name":"מגורו גומא - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"רוטב גומא"},{"name":"עטוף טוביקו שחור"}],"max":null}}
+{"id":"684fce591c64b30725d12638","modification":{"name":"מגורו גומא - ירק שניתן להחליף (עד 1)","add":[],"remove":[{"name":"מלפפון"},{"name":"אבוקדו"}],"min":1,"max":null}}
+{"id":"684fce591c64b30725d1263b","modification":{"name":"מגורו גומא - ירק שניתן להוסיף (רק במידה והסרתם ירק)","add":[{"name":"טמאגו"},{"name":"שיטאקי"},{"name":"בטטה"},{"name":"גזר"}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d1265a","modification":{"name":"ספייסי סלמון רול - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"עטוף שבבי בטטה"},{"name":"עטוף בצל ירוק"}],"max":null}}
+{"id":"684fce591c64b30725d12628","modification":{"name":"ספיישל סלמון אפוי - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"עטוף בצל ירוק"},{"name":"צילי טרי"},{"name":"רוטב סלק"},{"name":"ספייסי מיונז"}],"max":null}}
+{"id":"684fce591c64b30725d1262d","modification":{"name":"ספיישל סלמון אפוי - ירק שניתן להחליף (עד 1)","add":[],"remove":[{"name":"בטטה טמפורה"},{"name":"אבוקדו"}],"min":1,"max":null}}
+{"id":"684fce591c64b30725d12630","modification":{"name":"ספיישל סלמון אפוי - ירק שניתן להוסיף (רק במידה והסרתם ירק)","add":[{"name":"מלפפון"},{"name":"גזר"},{"name":"טמאגו"},{"name":"שיטאקי"}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d12609","modification":{"name":"טייגר רול - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"עטוף בצל ירוק"},{"name":"עטוף שבבי טמפורה"},{"name":"מיונז ליים"}],"max":null}}
+{"id":"684fce591c64b30725d1260d","modification":{"name":"טייגר רול - ירק שניתן להחליף (עד 1)","add":[],"remove":[{"name":"אבוקדו"},{"name":"מלפפון"}],"min":1,"max":null}}
+{"id":"684fce591c64b30725d12610","modification":{"name":"טייגר רול - ירק שניתן להוסיף (רק במידה והסרתם ירק)","add":[{"name":"בטטה"},{"name":"טמאגו"},{"name":"שיטאקי"},{"name":"גזר"}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d125ab","modification":{"name":"דג לטייגר רול","add":[{"name":"שרימפס חלוט"},{"name":"סלמון"},{"name":"סלמון אפוי"}],"remove":[{"name":"שרימפס טמפורה"}],"min":1,"max":1}}
+{"id":"684fce591c64b30725d1257a","modification":{"name":"אורמאקי דג לבחירה","add":[{"name":"סלמון"},{"name":"סלמון אפוי"},{"name":"דניס"},{"name":"טונה"},{"name":"אינטיאס","price":55},{"name":"צלופח"},{"name":"שרימפס"},{"name":"שרימפס מאודה"},{"name":"דניס טמפורה"}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d12584","modification":{"name":"מעטפת לסושי","add":[{"name":"עטוף אבוקדו"},{"name":"עטוף שבבי טמפורה"},{"name":"עטוף שבבי בטטה"},{"name":"עטוף סלמון","price":14},{"name":"עטוף סלמון צרוב","price":14},{"name":"עטוף דניס","price":16},{"name":"עטוף טונה","price":20},{"name":"עטוף טוביקו שחור","price":16},{"name":"עטוף טוביקו ירוק","price":16},{"name":"עטוף איקורא","price":16},{"name":"עטוף בצל ירוק"},{"name":"בלי שומשום מעל"},{"name":"טריאקי כמהין","price":2},{"name":"בטטה סגולה","price":8},{"name":"עטוף קריספי טוגראשי","price":8},{"name":"טמפורה שחורה","price":8}],"remove":[],"max":2}}
+{"id":"684fce591c64b30725d1264d","modification":{"name":"בטטה קרנץ' - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"עטוף בצל ירוק"},{"name":"עטוף קריספי בטטה"}],"max":null}}
+{"id":"684fce591c64b30725d12650","modification":{"name":"בטטה קרנץ' - ירק שניתן להחליף (עד 1)","add":[],"remove":[{"name":"בטטה"},{"name":"אבוקדו"},{"name":"מלפפון"}],"min":2,"max":null}}
+{"id":"684fce591c64b30725d12654","modification":{"name":"בטטה קרנץ' - ירק שניתן להוסיף (רק במידה והסרתם ירק)","add":[{"name":"גזר"},{"name":"טמאגו"},{"name":"שיטאקי"},{"name":"גבינת שמנת","price":8},{"name":"אספרגוס","price":8}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d12640","modification":{"name":"ווג'י רום - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"איולי טבעוני"},{"name":"רוטב סלק"},{"name":"צילי טרי"},{"name":"עטוף טמפורה"}],"max":null}}
+{"id":"684fce591c64b30725d12645","modification":{"name":"ווג'י רום - ירק שניתן להחליף (עד 1)","add":[],"remove":[{"name":"שיטאקי"},{"name":"מלפפון"},{"name":"אבוקדו"}],"min":2,"max":null}}
+{"id":"684fce591c64b30725d12649","modification":{"name":"ווג'י רום - ירק שניתן להוסיף (רק במידה והסרתם ירק)","add":[{"name":"גזר"},{"name":"בטטה"},{"name":"טמאגו"}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d12524","modification":{"name":"צ'ילי","add":[{"name":"עם צ'ילי"},{"name":"בלי צ'ילי"},{"name":"צ'ילי בצד >>"}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d1267d","modification":{"name":"גרין רול - מרכיבים שניתן להוריד","add":[],"remove":[{"name":"עטוף אבוקדו"},{"name":"עירית קצוצה מעל"},{"name":"איולי טבעוני"}],"max":null}}
+{"id":"684fce591c64b30725d12681","modification":{"name":"גרין רול - ירק שניתן להחליף (עד 1)","add":[],"remove":[{"name":"אבוקדו"},{"name":"מלפפון"},{"name":"אספרגוס"}],"min":2,"max":null}}
+{"id":"684fce591c64b30725d12685","modification":{"name":"גרין רול - ירק שניתן להוסיף (רק במידה והורדתם ירק)","add":[{"name":"בטטה"},{"name":"גזר"},{"name":"שיטאקי"},{"name":"טמאגו"}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d12a2a","modification":{"name":"מרכיבים אומאי","add":[],"remove":[{"name":"פילה דניס טמפורה"},{"name":"שי מאגי"},{"name":"שעועית ירוקה"},{"name":"קשיו"},{"name":"כוסברה"}],"max":null}}
+{"id":"684fce591c64b30725d126d7","modification":{"name":"תוספת לבחירה","add":[{"name":"רק ירקות"},{"name":"טופו"},{"name":"עוף"},{"name":"שרימפס","price":5},{"name":"בקר","price":5},{"name":"תחליף בקר","price":5}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d126fe","modification":{"name":"אטריות","add":[{"name":"אטריות ביצים"}],"remove":[{"name":"אטריות אורז"}],"min":1,"max":1}}
+{"id":"684fce591c64b30725d126d0","modification":{"name":"מרכיבים שניתן להוציא מהמעושנת","add":[],"remove":[{"name":"חזה אווז"},{"name":"ברוקולי"},{"name":"פטריות"},{"name":"בצל סגול ולבן"},{"name":"בצל ירוק"},{"name":"צילי פרוסות"}],"max":null}}
+{"id":"684fce591c64b30725d126e8","modification":{"name":"חריפות","add":[{"name":"לא חריף"}],"remove":[{"name":"חריף"}],"min":1,"max":1}}
+{"id":"684fce591c64b30725d1281e","modification":{"name":"שינויים בטורי קאצו","add":[{"name":"בלי שומשום באורז"}],"remove":[],"max":null}}
+{"id":"684fce591c64b30725d12820","modification":{"name":"רטבים בצד","add":[{"name":"קטשופ"}],"remove":[{"name":"מיונז ליים"},{"name":"ברביקיו קוריאני"}],"max":2}}
+{"id":"684fce591c64b30725d124e4","modification":{"name":"מרכיבים מרק ראמן","add":[],"remove":[{"name":"אטריות ראמן"},{"name":"ביצה רכה"},{"name":"עוף ראמן"},{"name":"בצל ירוק"},{"name":"נורי דק"},{"name":"*מומלץ לחמם במיקרו*"}],"max":null}}
+{"id":"684fce591c64b30725d128d0","modification":{"name":"שינויים בסלמון מיסו גלייז","add":[{"name":"פילה סלמון ללא רוטב"}],"remove":[],"max":null}}
+{"id":"684fce591c64b30725d12a25","modification":{"name":"מרכיבים במנה פאד קפאו","add":[],"remove":[{"name":"בזיליקים תאילנדי"},{"name":"שאלוט"},{"name":"צילי"},{"name":"ביצת עין"}],"max":null}}
+{"id":"684fce591c64b30725d12a22","modification":{"name":"חריפות","add":[{"name":"חריף"},{"name":"לא חריף"}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d126c5","modification":{"name":"מרכיבים שניתן להוציא  מהפאד תאי","add":[{"name":"ללא גלוטן 🌾"},{"name":"טבעוני 🌿"}],"remove":[{"name":"גזר"},{"name":"כרוב"},{"name":"בצל ירוק"},{"name":"ביצה"},{"name":"נבטים"},{"name":"פלח לימון"},{"name":"בוטנים קצוצים"},{"name":"כוסברה"}],"max":null}}
+{"id":"684fce591c64b30725d12a1d","modification":{"name":"מרכיבים במנה","add":[],"remove":[{"name":"פטריות"},{"name":"ברוקולי"},{"name":"בצל ירוק"},{"name":"קשיו"}],"max":null}}
+{"id":"684fce591c64b30725d1243f","modification":{"name":"מרכיבים שניתן להוציא מהקארי ירוק","add":[],"remove":[{"name":"ברוקולי"},{"name":"זוקיני"},{"name":"חציל"},{"name":"שעועית ירוקה"},{"name":"בצל סגול ולבן"},{"name":"בזיליקים תאילנדי"}],"max":null}}
+{"id":"684fce591c64b30725d12496","modification":{"name":"מרכיבים שניתן להוציא מהקארי מאסאמן","add":[],"remove":[{"name":"ברוקולי"},{"name":"כוסברה"},{"name":"פטריות"},{"name":"זוקיני"},{"name":"תפוח אדמה"}],"max":null}}
+{"id":"684fce591c64b30725d127d1","modification":{"name":"אטריות: רד קארי נודלס","add":[{"name":"אטריות אורז"}],"remove":[{"name":"אטריות ביצים"}],"min":1,"max":1}}
+{"id":"684fce591c64b30725d127cb","modification":{"name":"מרכיבים: רד קארי נודלס","add":[],"remove":[{"name":"עגבניות שרי"},{"name":"שעועית ירוקה"},{"name":"ברוקולי"},{"name":"בצל ירוק"},{"name":"בוטנים קצוצים"}],"max":null}}
+{"id":"684fce591c64b30725d12938","modification":{"name":"מרכיבים בנודלס ילדים","add":[],"remove":[{"name":"גזר"}],"max":null}}
+{"id":"684fce591c64b30725d126e4","modification":{"name":"תוספת","add":[{"name":"עוף נ"},{"name":"טופו נ"},{"name":"נקי"}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d1280e","modification":{"name":"קידס באן","add":[],"remove":[{"name":"קטשופ"}],"max":null}}
+{"id":"684fce591c64b30725d12407","modification":{"name":"מרכיבים אגאדשי טופו","add":[],"remove":[{"name":"* טופו *"},{"name":"ג'ינג'ר כתוש"},{"name":"צנון כתוש"},{"name":"בצל ירוק"},{"name":"רצועות נורי"}],"max":null}}
+{"id":"684fce591c64b30725d1272b","modification":{"name":"תוספת למרק טום יאם","add":[{"name":"טופו"},{"name":"שרימפס"},{"name":"דג"},{"name":"ללא"}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d12730","modification":{"name":"מרכיבים שניתן להוציא מהמרק טום יאם","add":[],"remove":[{"name":"אטריות שעועית"},{"name":"עגבניות שרי"},{"name":"פטריות"},{"name":"כוסברה"},{"name":"צילי טרי"}],"max":null}}
+{"id":"684fce591c64b30725d12455","modification":{"name":"מרכיבים מרק מיסו","add":[{"name":"תוספת טופו","price":5}],"remove":[{"name":"קוביות טופו"},{"name":"בצל ירוק"},{"name":"אצות וואקמה"}],"max":null}}
+{"id":"684fce591c64b30725d127ee","modification":{"name":"אורמאקי דג ללא גלוטן לבחירה","add":[{"name":"אורמאקי סלמון","price":52},{"name":"אורמאקי דניס","price":52},{"name":"אורמאקי טונה","price":54},{"name":"אורמאקי אינטיאס","price":55},{"name":"אורמאקי שרימפס מאודה","price":52}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d12789","modification":{"name":"מרכיבים לסושי ללא גלוטן","add":[{"name":"אבוקדו"},{"name":"מלפפון"},{"name":"גזר"},{"name":"אספרגוס","price":8},{"name":"גבינת שמנת","price":8},{"name":"רק דג - הרול יהיה קטן יותר"}],"remove":[],"min":1,"max":2}}
+{"id":"684fce591c64b30725d12790","modification":{"name":"מעטפת לסושי ללא גלוטן","add":[{"name":"עטוף אבוקדו","price":8},{"name":"עטוף בצל ירוק"},{"name":"עטוף סלמון","price":14},{"name":"עטוף סלמון צרוב","price":14},{"name":"עטוף טונה","price":20},{"name":"עטוף דניס","price":16},{"name":"עטוף איקורא","price":16},{"name":"עטוף טוביקו ירוק","price":16},{"name":"עטוף טוביקו שחור","price":16}],"remove":[],"max":2}}
+{"id":"684fce591c64b30725d127eb","modification":{"name":"טוביקו","add":[{"name":"טוביקו ירוק","price":14},{"name":"טוביקו שחור","price":14}],"remove":[],"max":1}}
+{"id":"684fce591c64b30725d1279a","modification":{"name":"מרכיבים לסושי ללא גלוטן צמחוני","add":[{"name":"אבוקדו"},{"name":"מלפפון"},{"name":"גזר"},{"name":"אספרגוס","price":8},{"name":"גבינת שמנת","price":8}],"remove":[],"min":1,"max":3}}
+{"id":"684fce591c64b30725d127a0","modification":{"name":"מעטפת לסושי ללא גלוטן","add":[{"name":"עטוף אבוקדו","price":8},{"name":"עטוף בצל ירוק"}],"remove":[],"max":null}}
+{"id":"684fce591c64b30725d12784","modification":{"name":"דג ללא גלוטן","add":[{"name":"מאקי סלמון","price":38},{"name":"מאקי טונה","price":42},{"name":"מאקי דניס","price":38},{"name":"מאקי שרימפס מאודה","price":39}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d127da","modification":{"name":"מרכיבים בסלט הקיסר היפני","add":[],"remove":[{"name":"חזה עוף"},{"name":"צנונית"},{"name":"מלפפון"},{"name":"ביצה רכה"},{"name":"קרוטוני בריוש"},{"name":"רוטב קיסר"},{"name":"פרמזן"}],"max":null}}
+{"id":"684fce591c64b30725d127ff","modification":{"name":"דג לסלט","add":[{"name":"דניס טמפורה"},{"name":"שרימפס חלוט"},{"name":"ללא"}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d127b5","modification":{"name":"מרכיבים בסאן פלה","add":[],"remove":[{"name":"אטריות שעועית"},{"name":"כרוב"},{"name":"גינגר"},{"name":"כוסברה"},{"name":"בצל ירוק"},{"name":"צילי טרי"},{"name":"בוטנים קצוצים"},{"name":"רוטב סאן פלה"}],"max":null}}
+{"id":"684fce591c64b30725d1249c","modification":{"name":"מרכיבים שניתן להוציא מהסביצ'ה סלמון","add":[],"remove":[{"name":"בצל סגול"},{"name":"כוסברה"},{"name":"צילי טרי"},{"name":"איקורא"}],"max":null}}
+{"id":"684fce591c64b30725d129dd","modification":{"name":"מרכיבים: סילו יאנג","add":[],"remove":[{"name":"עלי רוקולה"},{"name":"בצל סגול"},{"name":"אורגנו"},{"name":"כוסברה"},{"name":"נענע"},{"name":"נבטים"},{"name":"מיקרו סורל"},{"name":"בזיליקים תאילנדי"},{"name":"צילי טרי"},{"name":"רוטב סילו יאנג"}],"max":null}}
+{"id":"684fce591c64b30725d126eb","modification":{"name":"שינויים אפשריים בסלט אצות","add":[{"name":"רוטב ללא גלוטן 🌾"}],"remove":[{"name":"מלפפון"},{"name":"אבוקדו"},{"name":"נבטים"},{"name":"בצל ירוק"},{"name":"שומשום"}],"max":null}}
+{"id":"684fce591c64b30725d129d4","modification":{"name":"מרכיבים: סלט סאטה ציקן","add":[],"remove":[{"name":"עוף"},{"name":"מלפפון"},{"name":"מיקרו סלק"},{"name":"נבטים"},{"name":"קריספי קייל"},{"name":"שומשום"},{"name":"בוטנים קצוצים"},{"name":"רוטב סאטה"}],"max":null}}
+{"id":"684fce591c64b30725d12675","modification":{"name":"מרכיבים לטמפורה רול - יש לבחור עד 2","add":[{"name":"מלפפון"},{"name":"גזר"},{"name":"טמאגו"},{"name":"שיטאקי"},{"name":"בטטה"}],"remove":[{"name":"אבוקדו"},{"name":"גבינת שמנת"}],"min":1,"max":2}}
+{"id":"684fce591c64b30725d125b0","modification":{"name":"דג לטמפורה רול","add":[{"name":"סלמון"},{"name":"סלמון אפוי"}],"remove":[],"min":1,"max":1}}
+{"id":"684fce591c64b30725d12705","modification":{"name":"מרכיבים לטמפורה רול - יש לבחור עד 3","add":[{"name":"אבוקדו"},{"name":"מלפפון"},{"name":"גזר"},{"name":"בטטה"},{"name":"טמאגו"},{"name":"שיטאקי"},{"name":"גבינת שמנת","price":8},{"name":"אספרגוס","price":8}],"remove":[],"min":1,"max":3}}
+{"id":"684fce591c64b30725d12a36","modification":{"name":"מרכיבים: ספייסי אנזו","add":[],"remove":[{"name":"ספייסי סלמון"},{"name":"אבוקדו"},{"name":"מלפפון"},{"name":"ספייסי מיונז"},{"name":"פניני אורז"}],"max":null}}
+{"id":"684fce591c64b30725d12528","modification":{"name":"שינויים לספיישל","add":[{"name":"אבוקדו"},{"name":"מלפפון"},{"name":"גזר"},{"name":"בטטה"},{"name":"טמאגו"},{"name":"קנפיו"},{"name":"שיטאקי"},{"name":"עירית"},{"name":"בצל ירוק"},{"name":"אספרגוס","price":8},{"name":"גבינת שמנת","price":8},{"name":"טופו טמפורה","price":10}],"remove":[],"max":null}}
+{"id":"684fce591c64b30725d12a30","modification":{"name":"מרכיבים קנפאצי","add":[],"remove":[{"name":"אספרגוס"},{"name":"אבוקדו"},{"name":"עירית קצוצה מעל"},{"name":"מיונז ליים"},{"name":"גרידת לימון"}],"max":null}}

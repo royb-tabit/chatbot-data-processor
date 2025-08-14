@@ -1,0 +1,18 @@
+{
+  "name": "סלט צ'יקן סאטה",
+  "description": "חסה רומית, חסה לליק, מלפפון , מיקרו סלק, נבטים סינים, קריספי קייל, שומשום ,בוטנים  ועוף ברוטב חמאת בוטנים עדין. \n\nהרוטב מכיל גלוטן, בוטנים, ושמן שומשום.",
+  "tags": [
+    "סלטים 🥗"
+  ],
+  "item": "684fce591c64b30725d12066",
+  "offer": "684fce591c64b30725d11758",
+  "menu": "684fce591c64b30725d1126c",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d129d4",
+      "modGroup": "684fce591c64b30725d12067"
+    }
+  ],
+  "price": 62
+}

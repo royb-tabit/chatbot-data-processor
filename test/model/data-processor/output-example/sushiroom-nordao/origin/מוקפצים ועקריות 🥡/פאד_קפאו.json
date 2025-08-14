@@ -1,0 +1,22 @@
+{
+  "name": "פאד קפאו",
+  "description": "בשר בקר קצוץ, בזיליקום תאילנדי, שאלוט, שום, צילי טרי, וביצת עין מעל \nלצד אורז יסמין \nחריף (ניתן לבקש לא חריף) 🌶",
+  "tags": [
+    "מוקפצים ועקריות 🥡"
+  ],
+  "item": "684fce591c64b30725d121cf",
+  "offer": "684fce591c64b30725d117e2",
+  "menu": "684fce591c64b30725d1126c",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d12a25",
+      "modGroup": "684fce591c64b30725d121d0"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12a22",
+      "modGroup": "684fce591c64b30725d121d5"
+    }
+  ],
+  "price": 82
+}

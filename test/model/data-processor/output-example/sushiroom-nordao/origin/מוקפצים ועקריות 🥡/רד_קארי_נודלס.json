@@ -1,0 +1,28 @@
+{
+  "name": "רד קארי נודלס",
+  "description": "אטריות ביצים עם קארי אדום, ברוקולי, שעועית תאילנדית, עגבניות שרי, בצל ירוק ובוטנים.\nמנה חריפה",
+  "tags": [
+    "מוקפצים ועקריות 🥡"
+  ],
+  "item": "684fce591c64b30725d12359",
+  "offer": "684fce591c64b30725d115bd",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [
+    "684fce591c64b30725d12aa2"
+  ],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d126d7",
+      "modGroup": "684fce591c64b30725d1235a"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d127d1",
+      "modGroup": "684fce591c64b30725d1235b"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d127cb",
+      "modGroup": "684fce591c64b30725d1235d"
+    }
+  ],
+  "price": 74
+}

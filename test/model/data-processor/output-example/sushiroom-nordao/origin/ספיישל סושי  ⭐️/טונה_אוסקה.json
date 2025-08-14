@@ -1,0 +1,26 @@
+{
+  "name": "טונה אוסקה",
+  "description": "ספייסי טונה, ספייסי מיונז, אבוקדו, מלפפון ובצל ירוק עטוף קריספי אטריות שעועית טוגראשי.\n*מנה פיקנטית",
+  "tags": [
+    "ספיישל סושי  ⭐️"
+  ],
+  "item": "684fce591c64b30725d11c2e",
+  "offer": "684fce591c64b30725d1132b",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d12607",
+      "modGroup": "684fce591c64b30725d11c2f"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d128af",
+      "modGroup": "684fce591c64b30725d11c31"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d128b2",
+      "modGroup": "684fce591c64b30725d11c34"
+    }
+  ],
+  "price": 62
+}

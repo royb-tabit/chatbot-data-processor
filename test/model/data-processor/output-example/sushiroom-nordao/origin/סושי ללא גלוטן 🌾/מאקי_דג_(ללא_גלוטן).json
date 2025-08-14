@@ -1,0 +1,26 @@
+{
+  "name": "מאקי דג (ללא גלוטן)",
+  "description": null,
+  "tags": [
+    "סושי ללא גלוטן 🌾"
+  ],
+  "item": "684fce591c64b30725d11e0a",
+  "offer": "684fce591c64b30725d115a0",
+  "menu": "684fce591c64b30725d1126c",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d12784",
+      "modGroup": "684fce591c64b30725d11e0b"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12789",
+      "modGroup": "684fce591c64b30725d11e0c"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d127eb",
+      "modGroup": "684fce591c64b30725d11e0d"
+    }
+  ],
+  "price": 0
+}

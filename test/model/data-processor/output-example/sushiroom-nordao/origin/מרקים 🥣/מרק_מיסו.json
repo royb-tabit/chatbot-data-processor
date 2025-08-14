@@ -1,0 +1,18 @@
+{
+  "name": "מרק מיסו",
+  "description": "מרק מיסו עם דאשי, טופו, בצל ירוק ואצות וואקמה.",
+  "tags": [
+    "מרקים 🥣"
+  ],
+  "item": "684fce591c64b30725d11ee8",
+  "offer": "684fce591c64b30725d113c7",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d12455",
+      "modGroup": "684fce591c64b30725d11ee9"
+    }
+  ],
+  "price": 32
+}

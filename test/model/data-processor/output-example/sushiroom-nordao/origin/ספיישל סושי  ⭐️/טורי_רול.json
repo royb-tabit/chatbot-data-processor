@@ -1,0 +1,26 @@
+{
+  "name": "טורי רול",
+  "description": "סלמון, מלפפון, שיטאקי, עירית וספייסי מיונז \nעטוף אבוקדו, ספייסי סלמון קצוצה ורצועות נורי",
+  "tags": [
+    "ספיישל סושי  ⭐️"
+  ],
+  "item": "684fce591c64b30725d11c98",
+  "offer": "684fce591c64b30725d1164f",
+  "menu": "684fce591c64b30725d1126c",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d1289f",
+      "modGroup": "684fce591c64b30725d11c99"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d128a4",
+      "modGroup": "684fce591c64b30725d11c9e"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d128a7",
+      "modGroup": "684fce591c64b30725d11ca1"
+    }
+  ],
+  "price": 66
+}

@@ -1,0 +1,22 @@
+{
+  "name": "אורמאקי צמחוני (ללא גלוטן)",
+  "description": null,
+  "tags": [
+    "סושי ללא גלוטן 🌾"
+  ],
+  "item": "684fce591c64b30725d1194c",
+  "offer": "684fce591c64b30725d1159f",
+  "menu": "684fce591c64b30725d1126c",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d1279a",
+      "modGroup": "684fce591c64b30725d1194d"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d127a0",
+      "modGroup": "684fce591c64b30725d1194e"
+    }
+  ],
+  "price": 46
+}

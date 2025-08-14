@@ -1,0 +1,22 @@
+{
+  "name": "טמפורה רול",
+  "description": "סלמון, אבוקדו וגבינת שמנת מטוגן בטמפורה (מוגש חם).",
+  "tags": [
+    "ספיישל סושי  ⭐️"
+  ],
+  "item": "684fce591c64b30725d11d17",
+  "offer": "684fce591c64b30725d112b1",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d12675",
+      "modGroup": "684fce591c64b30725d11d18"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d125b0",
+      "modGroup": "684fce591c64b30725d11d1b"
+    }
+  ],
+  "price": 58
+}

@@ -1,0 +1,26 @@
+{
+  "name": "גולדן רום",
+  "description": "טונה אדומה, סלמון, טוביקו ירוק, אבוקדו, מלפפון ועירית עטוף בסשימי דניס ורוטב סלק.\n*עקב מחסור ארצי בטונה טרייה הרול יצא עם סלמון ודניס",
+  "tags": [
+    "ספיישל סושי  ⭐️"
+  ],
+  "item": "684fce591c64b30725d11a8f",
+  "offer": "684fce591c64b30725d112c1",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d125fb",
+      "modGroup": "684fce591c64b30725d11a90"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d125ff",
+      "modGroup": "684fce591c64b30725d11a94"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12602",
+      "modGroup": "684fce591c64b30725d11a97"
+    }
+  ],
+  "price": 68
+}

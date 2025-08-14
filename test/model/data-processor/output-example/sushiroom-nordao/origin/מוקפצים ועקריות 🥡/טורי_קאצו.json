@@ -1,0 +1,22 @@
+{
+  "name": "טורי קאצו",
+  "description": "שתי יחידות חזה עוף בציפוי פנקו לצד אורז יסמין.\nמגיע עם רוטב ברביקיו קוריאני ומיונז יוזו.",
+  "tags": [
+    "מוקפצים ועקריות 🥡"
+  ],
+  "item": "684fce591c64b30725d11c84",
+  "offer": "684fce591c64b30725d112d9",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d1281e",
+      "modGroup": "684fce591c64b30725d11c85"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12820",
+      "modGroup": "684fce591c64b30725d11c86"
+    }
+  ],
+  "price": 71
+}

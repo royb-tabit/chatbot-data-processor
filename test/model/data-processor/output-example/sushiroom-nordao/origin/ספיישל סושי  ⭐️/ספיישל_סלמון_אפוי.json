@@ -1,0 +1,26 @@
+{
+  "name": "ספיישל סלמון אפוי",
+  "description": "סלמון אפוי, בטטה, אבוקדו וספייסי מיונז עטוף בבצל ירוק, רוטב סלק ופרוסות צ'ילי חריף.",
+  "tags": [
+    "ספיישל סושי  ⭐️"
+  ],
+  "item": "684fce591c64b30725d1212a",
+  "offer": "684fce591c64b30725d1129a",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d12628",
+      "modGroup": "684fce591c64b30725d1212b"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d1262d",
+      "modGroup": "684fce591c64b30725d12130"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12630",
+      "modGroup": "684fce591c64b30725d12133"
+    }
+  ],
+  "price": 56
+}

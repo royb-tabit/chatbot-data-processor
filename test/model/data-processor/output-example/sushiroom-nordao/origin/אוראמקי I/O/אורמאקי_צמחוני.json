@@ -1,0 +1,22 @@
+{
+  "name": "אורמאקי צמחוני",
+  "description": "אינסייד אווט 8 יח בהרכבה, 3 ירקות לבחירה, מגיע עם שומשום מעל.",
+  "tags": [
+    "אוראמקי I\\O"
+  ],
+  "item": "684fce591c64b30725d11946",
+  "offer": "684fce591c64b30725d112eb",
+  "menu": "684fce591c64b30725d1125b",
+  "selectionGroup": [],
+  "modificationGroups": [
+    {
+      "modGroupId": "684fce591c64b30725d1256f",
+      "modGroup": "684fce591c64b30725d11947"
+    },
+    {
+      "modGroupId": "684fce591c64b30725d12584",
+      "modGroup": "684fce591c64b30725d11948"
+    }
+  ],
+  "price": 46
+}
