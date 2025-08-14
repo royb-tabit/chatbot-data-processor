@@ -1,12 +1,20 @@
 const fs = require('fs');
-const config = require('./config.json');
-const restaurant = config.restaurant; // Change this to your restaurant name
-const sourceFile = config.source_file
+const localScriptConfig = require('./config.json');
+const restaurant = localScriptConfig.restaurant; // Change this to your restaurant name
+const sourceFile = localScriptConfig.source_file
 const priceFormatPoint = -2
-const publishMenu = require(`./input/${restaurant}/${sourceFile}`);
 const outputDir = `./output/${restaurant}/origin`;
 let selectionGroupsToWrite = {}
 let modificationGroupToWrite = {}
+
+let items
+let offers
+let itemGroups
+let modifiers
+let prices
+let modItems
+let views
+
 
 function mapBy_id(list) {
     let result = {}
@@ -268,12 +276,22 @@ if (fs.existsSync(outputDir)) {
     fs.rmSync(outputDir, { recursive: true, force: true });
 }
 
-const items = mapBy_id(publishMenu.items);
-const offers = mapBy_id(publishMenu.offers);
-const itemGroups = mapBy_id(publishMenu.itemGroups);
-const modifiers = mapBy_id(publishMenu.modifierGroups);
-const prices = mapBy_id(publishMenu.prices);
-const modItems = publishMenu.modItems
-const views = publishMenu.menuViews ? publishMenu.menuViews : publishMenu.view;
+function process(tdCatalog) {
+    if(!tdCatalog) {
+        // example runing with local file
+        tdCatalog = require(`./input/${restaurant}/${sourceFile}`);
+    }
 
-main(items, offers, itemGroups, modifiers, prices, views);
+    items = mapBy_id(tdCatalog.items);
+    offers = mapBy_id(tdCatalog.offers);
+    itemGroups = mapBy_id(tdCatalog.itemGroups);
+    modifiers = mapBy_id(tdCatalog.modifierGroups);
+    prices = mapBy_id(tdCatalog.prices);
+    modItems = tdCatalog.modItems
+    views = tdCatalog.menuViews ? tdCatalog.menuViews : tdCatalog.view;
+
+    main(items, offers, itemGroups, modifiers, prices, views);
+}
+
+process();
+
