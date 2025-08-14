@@ -1,8 +1,8 @@
-const config = require('./config.json');
 const fs = require('fs');
+const localScriptConfig = require('./config.json');
 const path = require('path');
 const workingDir = process.cwd();
-const restaurant = config.restaurant // Change this to your restaurant name
+const restaurant = localScriptConfig.restaurant // Change this to your restaurant name
 const inputDir = `${workingDir}/input/${restaurant}`
 const middleDir = `${workingDir}/output/${restaurant}/origin`
 const finalDir = `${workingDir}/output/${restaurant}/llm-format`;
