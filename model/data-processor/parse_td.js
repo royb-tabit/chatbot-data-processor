@@ -223,6 +223,7 @@ function processItem(rawItem, price, offer, tags, menuId, modifiersGroupsList, i
 }
 
 function processFolder(itemsMetadata, view, modifiersGroups, itemGroups) {
+    const processedItems = []; // Collect processed items in this array
     for (const i in itemsMetadata.items) {
 
         const offer = offers[itemsMetadata.items[i].offer]
@@ -237,17 +238,17 @@ function processFolder(itemsMetadata, view, modifiersGroups, itemGroups) {
             menuId,
             modifiersGroups,
             itemGroups);
-        const prefix = ""
-        writeToFile(item, view.name, prefix);
+        processedItems.push(item); // Add processed item to the array
     }
+    return processedItems; // Return the array of processed items
 }
 
 function main(rawItems, offers, itemGroups, modifiersGroups, prices, views) {
     for (const view of views) {
         for (const itemsMetadata of view.items) {
             if (itemsMetadata.type == "folder") {
-                processFolder(itemsMetadata, view, modifiersGroups, itemGroups)
-                continue
+                const folderItems = processFolder(itemsMetadata, view, modifiersGroups, itemGroups);
+                continue;
             }
             const offer = offers[itemsMetadata.offer];
             const menuId = itemsMetadata.menu;
@@ -261,14 +262,11 @@ function main(rawItems, offers, itemGroups, modifiersGroups, prices, views) {
                 menuId,
                 modifiersGroups,
                 itemGroups);
-            const prefix = ""
-            writeToFile(item, view.name, prefix);
         }
     }
 
     proccessSelectionsAndModidications();
 }
-
 
 
 // delete origin folder
@@ -277,6 +275,10 @@ if (fs.existsSync(outputDir)) {
 }
 
 function process(tdCatalog) {
+    // Reset global variables for each run
+    selectionGroupsToWrite = {};
+    modificationGroupToWrite = {};
+
     if(!tdCatalog) {
         // example runing with local file
         tdCatalog = require(`./input/${restaurant}/${sourceFile}`);
@@ -290,8 +292,43 @@ function process(tdCatalog) {
     modItems = tdCatalog.modItems
     views = tdCatalog.menuViews ? tdCatalog.menuViews : tdCatalog.view;
 
-    main(items, offers, itemGroups, modifiers, prices, views);
+    const processedItems = [];
+
+    // Process all items and collect them in memory instead of writing to disk
+    for (const view of views) {
+        for (const itemsMetadata of view.items) {
+            if (itemsMetadata.type == "folder") {
+                const folderItems = processFolder(itemsMetadata, view, modifiers, itemGroups);
+                processedItems.push(...folderItems);
+                continue;
+            }
+            const offer = offers[itemsMetadata.offer];
+            const menuId = itemsMetadata.menu;
+            const rawItem = items[offer.items[0]];
+            const tags = [view.name]
+            const price = getOfferPrice(offer._id, menuId, prices)
+            const item = processItem(rawItem,
+                price,
+                offer,
+                tags,
+                menuId,
+                modifiers,
+                itemGroups);
+            processedItems.push(item);
+        }
+    }
+
+    // Return the three required outputs
+    return {
+        items: processedItems,
+        selections: selectionGroupsToWrite,
+        modifications: modificationGroupToWrite
+    };
 }
 
-process();
+// Only run if this file is executed directly
+if (require.main === module) {
+    process();
+}
 
+module.exports = { process };

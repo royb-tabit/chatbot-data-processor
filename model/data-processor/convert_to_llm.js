@@ -4,15 +4,14 @@ const path = require('path');
 const workingDir = process.cwd();
 const restaurant = localScriptConfig.restaurant // Change this to your restaurant name
 const inputDir = `${workingDir}/input/${restaurant}`
-const middleDir = `${workingDir}/output/${restaurant}/origin`
 const finalDir = `${workingDir}/output/${restaurant}/llm-format`;
 const sold = require(`${inputDir}/sold.json`);
 let outputSelection = {};
 let outputModification = {};
 let outputItems = [];
 
-inputSelection = require(`${middleDir}/selectionGroups.json`);
-inputModification = require(`${middleDir}/modificationGroups.json`);
+let inputSelection;
+let inputModification;
 
 function getSubModifier(modifier) {
     const item = modifier.item;
@@ -229,19 +228,41 @@ function writeModAndSelectionToFile() {
     }
 }
 
-async function main() {
-    const menuViews = await getMenuViews(middleDir);
-    for (const menuView of menuViews) {
-        const itemPathList = await getItemsFromMenuView(menuView.path)
-        for (const itemPath of itemPathList) {
-            const originItemObject = require(itemPath)
-            // if (!isInInventory(originItemObject.item)) { continue }
-            // if (originItemObject.price == 0) { continue }
-            const processed_item = processItem(originItemObject)
+async function main(parsedData) {
+    // Reset output variables for each run
+    outputSelection = {};
+    outputModification = {};
+    outputItems = [];
+
+    // Use data from memory instead of loading from files
+    if (parsedData) {
+        inputSelection = parsedData.selections;
+        inputModification = parsedData.modifications;
+
+        // Process items directly from memory
+        for (const originItemObject of parsedData.items) {
+            const processed_item = processItem(originItemObject);
             outputItems.push(processed_item);
-            writeToFile(menuView.name, processed_item);
+            writeToFile(originItemObject.tags[0], processed_item);
+        }
+    } else {
+        // Fallback to old file-based approach for backwards compatibility
+        const middleDir = `${workingDir}/output/${restaurant}/origin`;
+        inputSelection = require(`${middleDir}/selectionGroups.json`);
+        inputModification = require(`${middleDir}/modificationGroups.json`);
+
+        const menuViews = await getMenuViews(middleDir);
+        for (const menuView of menuViews) {
+            const itemPathList = await getItemsFromMenuView(menuView.path)
+            for (const itemPath of itemPathList) {
+                const originItemObject = require(itemPath)
+                const processed_item = processItem(originItemObject)
+                outputItems.push(processed_item);
+                writeToFile(menuView.name, processed_item);
+            }
         }
     }
+
     writeModAndSelectionToFile();
     //create final file
     createFinalFile();
@@ -282,5 +303,9 @@ async function getItemsFromMenuView(menuView) {
     return items;
 }
 
+// Only run if this file is executed directly
+if (require.main === module) {
+    main();
+}
 
-main()
+module.exports = { main };
