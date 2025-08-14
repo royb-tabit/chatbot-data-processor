@@ -17,7 +17,7 @@ const mockGenericMongo = {
   getCollection: jest.fn()
 };
 
-jest.mock('../../../model/db/genericMongo', () => {
+jest.mock('../../../model/db/generic_mongo', () => {
   return jest.fn().mockImplementation(() => mockGenericMongo);
 });
 

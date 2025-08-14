@@ -1,4 +1,4 @@
-const DatabaseInterface = require('./genericMongo').DatabaseInterface;
+const DatabaseInterface = require('./generic_mongo').DatabaseInterface;
 const config = require('../../config/config');
 const { ObjectId } = require('mongodb');
 
