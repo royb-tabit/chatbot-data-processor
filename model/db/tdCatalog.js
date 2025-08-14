@@ -1,13 +1,15 @@
-const genericDb = require('./genericMongo')
+const DatabaseInterface = require('./genericMongo').DatabaseInterface;
 const config = require('../../config/config');
-const mongoUri = config.db.tdCatalog.mongoUri
-const { ObjectId } = require("mongodb");
+const { ObjectId } = require('mongodb');
 
-const db = genericDb(mongoUri, 'tdCatalog');
+const mongoUri = config.db.tdCatalog.mongoUri;
+const dbName = config.db.tdCatalog.dbName;
+
+const db = new DatabaseInterface(mongoUri, dbName);
 
 async function getCatalog(organizationId) {
     try {
-        const collection = await this.getCollection('dynamicorgstorage');
+        const collection = await db.getCollection('dynamicorgstorage');
         const query = {
             organization: new ObjectId(organizationId),
             resourceName: "tdCatalog"
@@ -20,4 +22,7 @@ async function getCatalog(organizationId) {
     }
 }
 
-db.connect()
+
+module.exports = {
+    getCatalog
+};

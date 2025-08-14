@@ -1,5 +1,4 @@
-const { MongoClient, ObjectId } = require('mongodb');
-const config = require('../../config/config');
+const { MongoClient } = require('mongodb');
 
 class DatabaseInterface {
   constructor(mongoUri, dbName) {

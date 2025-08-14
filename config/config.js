@@ -1,26 +1,17 @@
-require('dotenv').config({
-    path: determineEnvFile()
-});
-
-function determineEnvFile() {
-    const env = process.env.NODE_ENV;
-    if (env) {
-        return `.env.${env}`;
-    }
-    return '.env.local';
-}
+require('dotenv').config();
 
 function createConfigFromEnv() {
     return {
-        port: parseInt(process.env.PORT),
+        port: parseInt(process.env.PORT || 3000),
         db: {
             tdCatalog: {
-                mongoUri: process.env.TDCATALOG_MONGODB_URI
+                mongoUri: process.env.TDCATALOG_MONGODB_URI || 'mongodb://localhost:27017',
+                dbName: process.env.TDCATALOG_MONGODB_DB || 'test'
             }
         },
         logger: {
-            level: process.env.LOGGER_LEVEL,
-            writeToDisk: process.env.LOGGER_WRITE_TO_DISK
+            level: process.env.LOGGER_LEVEL || 'info',
+            writeToDisk: process.env.LOGGER_WRITE_TO_DISK || false
         }
     };
 }
