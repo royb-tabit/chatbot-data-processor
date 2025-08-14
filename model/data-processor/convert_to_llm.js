@@ -199,21 +199,21 @@ function  writeToFile(menuViewName, llm_item) {
     }
 }
 
-//זה דמו - תפריט ערב
-const inventory = require('./inventory.json');
-const inventoryMap = {};
-for (const item of inventory) {
-    inventoryMap[item.item] = item
-}
-
-function isInInventory(item) {
-    const invInfo = inventoryMap[item]
-    if (invInfo && invInfo.quantity == 0) {
-        return false
-    } else {
-        return true
-    }
-}
+// //זה דמו - תפריט ערב
+// const inventory = require('./inventory.json');
+// const inventoryMap = {};
+// for (const item of inventory) {
+//     inventoryMap[item.item] = item
+// }
+//
+// function isInInventory(item) {
+//     const invInfo = inventoryMap[item]
+//     if (invInfo && invInfo.quantity == 0) {
+//         return false
+//     } else {
+//         return true
+//     }
+// }
 
 function writeModAndSelectionToFile() {
     // write in jsonl format using append
